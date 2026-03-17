@@ -1,0 +1,359 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Der Niesen und seine Umgebungen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="shelf_mark_idiotikon">Ma. B Lehm</note>
+        <note type="ocr_source">digital text retrieved through OCR</note>
+        <noteGrp type="dialect_canton">
+          <note type="name">Bern</note>
+          <note type="chmk-id">BE</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Lehmann, Friedrich. 1859. Der Niesen und seine Umgebungen. Bern: Haller.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Der Niesen und seine Umgebungen</title>
+            <title type="subtitle"/>
+            <title type="abbreviated">Lehmann Niesen</title>
+            <author>
+              <idno type="id">20977</idno>
+              <forename>Friedrich</forename>
+              <surname>Lehmann</surname>
+              <name>Lehmann, Friedrich</name>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition>1. Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Haller</publisher>
+            <pubPlace>Bern</pubPlace>
+            <date type="publication_year">1859</date>
+            <date type="first_published">1859</date>
+          </publicationStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>102412</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Fraktur</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Lyrik (Versform)</term>
+          <term type="category">Belletristik</term>
+          <term type="formal_description">Lyrik</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="de">
+          <pb n="42" facs="102412_042"/>
+          <lb n="1"/>
+          <w>nhang</w>
+          <w>.</w>
+        </s>
+        <s n="2" xml:lang="de">
+          <lb n="2"/>
+          <w>Monolog</w>
+          <w>eines</w>
+          <w>Aelplers</w>
+          <lb n="3"/>
+          <w>beim</w>
+          <lb n="4"/>
+          <w>Knblick</w>
+          <w>des</w>
+          <w>Hasthauses</w>
+          <w>auf</w>
+          <w>dem</w>
+          <w>Riesen</w>
+          <w>.</w>
+        </s>
+        <s n="3" xml:lang="de">
+          <lb n="5"/>
+          <w>(</w>
+          <w>Jm</w>
+          <w>Niedersimmenthaler-Dialekt</w>
+          <w>.</w>
+        </s>
+        <s n="4" xml:lang="gsw">
+          <w>)</w>
+          <lb n="6"/>
+          <w>Mues</w>
+          <w>mu</w>
+          <w>nadisch</w>
+          <w>nit</w>
+          <w>erstuunen</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Wie</w>
+          <w>jetz</w>
+          <w>das</w>
+          <w>en</w>
+          <w>Gattig</w>
+          <w>het</w>
+          <w>;</w>
+          <lb n="8"/>
+          <w>Wäger</w>
+          <w>cha</w>
+          <w>mu</w>
+          <w>wyt</w>
+          <w>ga</w>
+          <w>lufen</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>Eh</w>
+          <w>mu</w>
+          <w>so-n-es</w>
+          <w>Würthshuus</w>
+          <w>gseht</w>
+          <w>.</w>
+        </s>
+        <s n="5" xml:lang="gsw">
+          <lb n="10"/>
+          <w>Stihna</w>
+          <w>gäbi's</w>
+          <w>hie</w>
+          <w>zur</w>
+          <w>Gnüegi</w>
+          <w>,</w>
+          <lb n="11"/>
+          <w>Für</w>
+          <w>—</w>
+          <w>n-es</w>
+          <w>mächtig</w>
+          <w>großes</w>
+          <w>Huus</w>
+          <w>,</w>
+          <lb n="12"/>
+          <w>Aber</w>
+          <w>da</w>
+          <w>bruuchts</w>
+          <w>aller</w>
+          <w>Gattig</w>
+          <lb n="13"/>
+          <w>Un</w>
+          <w>es</w>
+          <w>isch</w>
+          <w>wyt</w>
+          <w>oben</w>
+          <w>uus</w>
+          <w>.</w>
+        </s>
+        <s n="6" xml:lang="gsw">
+          <lb n="14"/>
+          <w>'s</w>
+          <w>gwüß</w>
+          <w>,</w>
+          <w>da</w>
+          <w>soll</w>
+          <w>mu</w>
+          <w>nummen</w>
+          <w>fragen</w>
+          <w>,</w>
+          <lb n="15"/>
+          <w>Bschwerlis</w>
+          <w>ist</w>
+          <w>das</w>
+          <w>notti</w>
+          <w>gsy</w>
+          <w>—</w>
+          <lb n="16"/>
+          <w>Sövel</w>
+          <w>Rustig</w>
+          <w>uehi</w>
+          <w>z'tragen</w>
+          <lb n="17"/>
+          <w>Un</w>
+          <w>es</w>
+          <w>—</w>
+          <w>n</w>
+          <w>iedes</w>
+          <w>Tröpfli</w>
+          <w>Wy</w>
+          <w>.</w>
+        </s>
+        <s n="7" xml:lang="gsw">
+          <lb n="18"/>
+          <w>Buuwen</w>
+          <w>wä's</w>
+          <w>vertondret</w>
+          <w>gäbig</w>
+          <w>,</w>
+          <lb n="19"/>
+          <w>Wätterstangi</w>
+          <w>uf</w>
+          <w>em</w>
+          <w>Dach</w>
+          <w>,</w>
+          <lb n="20"/>
+          <w>Thür</w>
+          <w>u</w>
+          <w>Pfenster</w>
+          <w>o</w>
+          <w>un</w>
+          <w>Läden</w>
+          <w>,</w>
+          <lb n="21"/>
+          <w>Nüt</w>
+          <w>fehlt</w>
+          <w>wäger</w>
+          <w>an</w>
+          <w>der</w>
+          <w>Sach</w>
+          <w>.</w>
+        </s>
+        <s n="8" xml:lang="gsw">
+          <pb n="43" facs="102412_043"/>
+          <lb n="1"/>
+          <w>Ha</w>
+          <w>scho</w>
+          <w>mänga</w>
+          <w>Schoppen</w>
+          <w>ghäben</w>
+          <lb n="2"/>
+          <w>Z'Erlenbach</w>
+          <w>bim</w>
+          <w>Chronenwürth</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>Dunden</w>
+          <w>z'Wimmis</w>
+          <w>o</w>
+          <w>bim</w>
+          <w>Leuwen</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Ha</w>
+          <w>mi</w>
+          <w>nüwa</w>
+          <w>nüt</w>
+          <w>g'schiniert</w>
+          <w>.</w>
+        </s>
+        <s n="9" xml:lang="gsw">
+          <lb n="5"/>
+          <w>Chönnt</w>
+          <w>ietz</w>
+          <w>hie</w>
+          <w>o</w>
+          <w>ihna</w>
+          <w>bschicken</w>
+          <w>,</w>
+          <lb n="6"/>
+          <w>Wie</w>
+          <w>si</w>
+          <w>brichten</w>
+          <w>,</w>
+          <w>syg</w>
+          <w>er</w>
+          <w>guet</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Und</w>
+          <w>o</w>
+          <w>nit</w>
+          <w>grad</w>
+          <w>sövel</w>
+          <w>thüra</w>
+          <w>,</w>
+          <lb n="8"/>
+          <w>Machi</w>
+          <w>eim</w>
+          <w>en</w>
+          <w>froha</w>
+          <w>Muet</w>
+          <w>.</w>
+        </s>
+        <s n="10" xml:lang="gsw">
+          <lb n="9"/>
+          <w>Aber</w>
+          <w>so</w>
+          <w>im</w>
+          <w>Chüjer-Röcki</w>
+          <lb n="10"/>
+          <w>Schickt</w>
+          <w>si</w>
+          <w>nadisch</w>
+          <w>nüwa</w>
+          <w>nüt</w>
+          <w>;</w>
+          <lb n="11"/>
+          <w>Miera</w>
+          <w>,</w>
+          <w>i</w>
+          <w>will's</w>
+          <w>emel</w>
+          <w>wagen</w>
+          <w>,</w>
+          <lb n="12"/>
+          <w>D's</w>
+          <w>Würths</w>
+          <w>syn</w>
+          <w>gar</w>
+          <w>so</w>
+          <w>gäbig</w>
+          <w>Lüt</w>
+          <w>.</w>
+        </s>
+        <s n="11" xml:lang="gsw">
+          <lb n="13"/>
+          <w>Hätt</w>
+          <w>i</w>
+          <w>mynem</w>
+          <w>ganze</w>
+          <w>Leben</w>
+          <lb n="14"/>
+          <w>Nie</w>
+          <w>au</w>
+          <w>öppis</w>
+          <w>söttigs</w>
+          <w>denkt</w>
+          <w>;</w>
+          <lb n="15"/>
+          <w>D</w>
+          <w>Müönschen</w>
+          <w>hihn</w>
+          <w>scho</w>
+          <w>gar</w>
+          <w>mängs</w>
+          <w>wellen</w>
+          <w>,</w>
+          <lb n="16"/>
+          <w>Gott</w>
+          <w>der</w>
+          <w>Herr</w>
+          <w>hett's</w>
+          <w>anders</w>
+          <w>glenkt</w>
+          <w>.</w>
+        </s>
+        <s n="12" xml:lang="it">
+			
+		</s>
+      </p>
+    </body>
+  </text>
+</TEI>

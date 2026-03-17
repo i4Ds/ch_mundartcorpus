@@ -1,0 +1,3882 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Allerseele</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="shelf_mark_idiotikon">Ma. Aa Haem 5</note>
+        <note type="ocr_source">digital text retrieved through OCR</note>
+        <noteGrp type="dialect_municipality">
+          <note type="name">Othmarsingen</note>
+          <note type="abbr">AaOthm., AaOthmars.</note>
+          <note type="onch-id">802004205</note>
+        </noteGrp>
+        <noteGrp type="dialect_region">
+          <note type="name">Aargau alter Aargau</note>
+          <note type="abbr">aAa</note>
+          <note type="chmk-id">AG-1</note>
+        </noteGrp>
+        <noteGrp type="dialect_region">
+          <note type="name">Aargau Bünztal</note>
+          <note type="abbr">AaBünzt.</note>
+          <note type="chmk-id">AG-4</note>
+        </noteGrp>
+        <noteGrp type="dialect_canton">
+          <note type="name">Aargau</note>
+          <note type="chmk-id">AG</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Haemmerli-Marti, Sophie. 1928. Allerseele: Gedichte. Zürich: Orell Füssli Verlag.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Allerseele</title>
+            <title type="subtitle">Gedichte</title>
+            <title type="abbreviated">Haemmerli-Marti Allerseele</title>
+            <author>
+              <idno type="id">20595</idno>
+              <forename>Sophie</forename>
+              <surname>Haemmerli-Marti</surname>
+              <name>Haemmerli-Marti, Sophie</name>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition>1. Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Orell Füssli Verlag</publisher>
+            <pubPlace>Zürich</pubPlace>
+            <date type="publication_year">1928</date>
+            <date type="first_published">1928</date>
+          </publicationStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>104488</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Fraktur</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Lyrik (Versform)</term>
+          <term type="category">Belletristik</term>
+          <term type="formal_description">Lyrik</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="gsw">
+          <pb n="5" facs="104488_005"/>
+          <lb n="1"/>
+          <w>l</w>
+          <lb n="2"/>
+          <w>Brüeder</w>
+          <w>Tod</w>
+          <pb n="7" facs="104488_007"/>
+          <lb n="1"/>
+          <w>Brüeder</w>
+          <w>Tod</w>
+          <lb n="2"/>
+          <w>Wer</w>
+          <w>chlopfet</w>
+          <w>a</w>
+          <w>mi</w>
+          <w>Chamerwand</w>
+          <w>?</w>
+        </s>
+        <s n="2" xml:lang="gsw">
+          <lb n="3"/>
+          <w>En</w>
+          <w>fini</w>
+          <w>Hand</w>
+          <w>.</w>
+        </s>
+        <s n="3" xml:lang="gsw">
+          <w>En</w>
+          <w>lindi</w>
+          <w>Hand</w>
+          <w>.</w>
+        </s>
+        <s n="4" xml:lang="de">
+          <lb n="4"/>
+          <w>En</w>
+          <w>Stimm</w>
+          <w>frogt</w>
+          <w>:</w>
+        </s>
+        <s n="5" xml:lang="gsw">
+          <w>«</w>
+          <w>Chausch</w>
+          <w>mi</w>
+          <w>bruche</w>
+          <w>?</w>
+        </s>
+        <s n="6" xml:lang="de">
+          <lb n="5"/>
+          <w>J</w>
+          <w>bi</w>
+          <w>nid</w>
+          <w>vo</w>
+          <w>de</w>
+          <w>ruche</w>
+          <w>!</w>
+        </s>
+        <s n="7" xml:lang="gsw">
+          <w>»</w>
+          <lb n="6"/>
+          <w>O</w>
+          <w>Tod</w>
+          <w>,</w>
+          <w>du</w>
+          <w>wotsch</w>
+          <w>mi</w>
+          <w>mit</w>
+          <w>der</w>
+          <w>neh</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Seisch</w>
+          <w>nid</w>
+          <w>worum</w>
+          <w>,</w>
+          <w>seisch</w>
+          <w>nid</w>
+          <w>wohe</w>
+          <w>,</w>
+          <lb n="8"/>
+          <w>Und</w>
+          <w>morn</w>
+          <w>schint</w>
+          <w>wider</w>
+          <w>d'Sunne</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>Und</w>
+          <w>s</w>
+          <w>Wärch</w>
+          <w>isch</w>
+          <w>nonig</w>
+          <w>gspunne</w>
+          <w>!</w>
+        </s>
+        <s n="8" xml:lang="gsw">
+          <lb n="10"/>
+          <w>«</w>
+          <w>Lach</w>
+          <w>s</w>
+          <w>nume</w>
+          <w>uf</w>
+          <w>der</w>
+          <w>Chunkle</w>
+          <w>stoh</w>
+          <w>,</w>
+          <lb n="11"/>
+          <w>Es</w>
+          <w>chunnt</w>
+          <w>scho</w>
+          <w>öpper</w>
+          <w>hindenoh</w>
+          <w>.</w>
+        </s>
+        <s n="9" xml:lang="de">
+          <lb n="12"/>
+          <w>Still</w>
+          <w>!</w>
+        </s>
+        <s n="10" xml:lang="gsw">
+          <w>Mer</w>
+          <w>wänd</w>
+          <w>hübscheli</w>
+          <w>mache</w>
+          <w>,</w>
+          <lb n="13"/>
+          <w>As</w>
+          <w>niemer</w>
+          <w>tuet</w>
+          <w>verwache</w>
+          <w>!</w>
+        </s>
+        <s n="11" xml:lang="gsw">
+          <w>»</w>
+          <pb n="8" facs="104488_008"/>
+          <lb n="1"/>
+          <w>s</w>
+          <w>Geischterroß</w>
+          <lb n="2"/>
+          <w>'s</w>
+          <w>isch</w>
+          <w>eine</w>
+          <w>verbi</w>
+          <w>ufem</w>
+          <w>schneewiße</w>
+          <w>Roß</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>Si</w>
+          <w>Sabel</w>
+          <w>het</w>
+          <w>gglänzt</w>
+          <w>a</w>
+          <w>der</w>
+          <w>Sunne</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Und</w>
+          <w>us</w>
+          <w>siner</w>
+          <w>Bruscht</w>
+          <w>uf</w>
+          <w>der</w>
+          <w>staubige</w>
+          <w>Stroß</w>
+          <lb n="5"/>
+          <w>Jsch</w>
+          <w>dunkelrots</w>
+          <w>Bluet</w>
+          <w>usegrunne</w>
+          <w>.</w>
+        </s>
+        <s n="12" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Er</w>
+          <w>gspängstet</w>
+          <w>doruf</w>
+          <w>gägem</w>
+          <w>uralte</w>
+          <w>Schloß</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Mer</w>
+          <w>ghört</w>
+          <w>e</w>
+          <w>nid</w>
+          <w>laufe</w>
+          <w>,</w>
+          <w>nid</w>
+          <w>schnufe</w>
+          <w>.</w>
+        </s>
+        <s n="13" xml:lang="gsw">
+          <lb n="8"/>
+          <w>'s</w>
+          <w>isch</w>
+          <w>eine</w>
+          <w>verbi</w>
+          <w>ufem</w>
+          <w>schneewiße</w>
+          <w>Roß</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>Het</w>
+          <w>g'grüeßt</w>
+          <w>a</w>
+          <w>mis</w>
+          <w>Pfeischterli</w>
+          <w>ufe</w>
+          <w>.</w>
+        </s>
+        <s n="14" xml:lang="gsw">
+          <pb n="9" facs="104488_009"/>
+          <lb n="1"/>
+          <w>Uf</w>
+          <w>d'Stör</w>
+          <lb n="2"/>
+          <w>Es</w>
+          <w>blost</w>
+          <w>e</w>
+          <w>Wind</w>
+          <w>dur</w>
+          <w>d</w>
+          <w>Chamertür</w>
+          <w>:</w>
+          <lb n="3"/>
+          <w>«</w>
+          <w>J</w>
+          <w>bis</w>
+          <w>.</w>
+        </s>
+        <s n="15" xml:lang="gsw">
+          <w>J</w>
+          <w>chume</w>
+          <w>hüt</w>
+          <w>uf</w>
+          <w>dStör</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Will's</w>
+          <w>Gott</w>
+          <w>,</w>
+          <w>so</w>
+          <w>gwöhnsch</w>
+          <w>di</w>
+          <w>dra</w>
+          <w>!</w>
+        </s>
+        <s n="16" xml:lang="gsw">
+          <w>»</w>
+          <lb n="5"/>
+          <w>Verschrocke</w>
+          <w>lüpf</w>
+          <w>i</w>
+          <w>mini</w>
+          <w>Füeß</w>
+          <w>:</w>
+          <lb n="6"/>
+          <w>O</w>
+          <w>Tod</w>
+          <w>,</w>
+          <w>das</w>
+          <w>simmer</w>
+          <w>räsi</w>
+          <w>Grüeß</w>
+          <w>—</w>
+          <lb n="7"/>
+          <w>J</w>
+          <w>nihme</w>
+          <w>si</w>
+          <w>nid</w>
+          <w>a</w>
+          <w>!</w>
+        </s>
+        <s n="17" xml:lang="gsw">
+          <pb n="10" facs="104488_010"/>
+          <lb n="1"/>
+          <w>Bösi</w>
+          <w>Nacht</w>
+          <lb n="2"/>
+          <w>Es</w>
+          <w>wott</w>
+          <w>und</w>
+          <w>wott</w>
+          <w>nid</w>
+          <w>tage</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>Goht</w>
+          <w>d</w>
+          <w>Nacht</w>
+          <w>ächt</w>
+          <w>nie</w>
+          <w>verbi</w>
+          <w>?</w>
+        </s>
+        <s n="18" xml:lang="gsw">
+          <lb n="4"/>
+          <w>Am</w>
+          <w>Chilezit</w>
+          <w>het's</w>
+          <w>gschlage</w>
+          <w>:</w>
+          <lb n="5"/>
+          <w>«</w>
+          <w>s</w>
+          <w>treit</w>
+          <w>nüt</w>
+          <w>ab</w>
+          <w>.</w>
+        </s>
+        <s n="19" xml:lang="gsw">
+          <w>Schick</w>
+          <w>di</w>
+          <w>dri</w>
+          <w>.</w>
+        </s>
+        <s n="20" xml:lang="gsw">
+          <w>»</w>
+          <lb n="6"/>
+          <w>Und</w>
+          <w>immer</w>
+          <w>nonig</w>
+          <w>Morge</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Unds</w>
+          <w>Härz</w>
+          <w>so</w>
+          <w>schwer</w>
+          <w>und</w>
+          <w>bang</w>
+          <lb n="8"/>
+          <w>Vom</w>
+          <w>chumbere</w>
+          <w>und</w>
+          <w>vom</w>
+          <w>sorge</w>
+          <w>.</w>
+        </s>
+        <s n="21" xml:lang="gsw">
+          <lb n="9"/>
+          <w>Säg</w>
+          <w>,</w>
+          <w>chlopfet's</w>
+          <w>ächt</w>
+          <w>no</w>
+          <w>lang</w>
+          <w>?</w>
+        </s>
+        <s n="22" xml:lang="gsw">
+          <pb n="11" facs="104488_011"/>
+          <lb n="1"/>
+          <w>Morge</w>
+          <lb n="2"/>
+          <w>De</w>
+          <w>Güggel</w>
+          <w>foht</w>
+          <w>a</w>
+          <w>chreihe</w>
+          <w>:</w>
+          <lb n="3"/>
+          <w>«</w>
+          <w>D</w>
+          <w>Nacht</w>
+          <w>isch</w>
+          <w>verbi-</w>
+          <w>verbi</w>
+          <w>»</w>
+          <lb n="4"/>
+          <w>Es</w>
+          <w>heiteret</w>
+          <w>vor</w>
+          <w>de</w>
+          <w>Schibe</w>
+          <w>.</w>
+        </s>
+        <s n="23" xml:lang="gsw">
+          <lb n="5"/>
+          <w>Mues's</w>
+          <w>ächt</w>
+          <w>no</w>
+          <w>einisch</w>
+          <w>si</w>
+          <w>?</w>
+        </s>
+        <s n="24" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Es</w>
+          <w>hämmeret</w>
+          <w>a</w>
+          <w>de</w>
+          <w>Schlöfe</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Es</w>
+          <w>drückt</w>
+          <w>wi</w>
+          <w>Zäntnerstei</w>
+          <w>,</w>
+          <lb n="8"/>
+          <w>Und's</w>
+          <w>Härz</w>
+          <w>pressiert</w>
+          <w>und</w>
+          <w>jaschtet</w>
+          <lb n="9"/>
+          <w>As</w>
+          <w>wenn</w>
+          <w>s</w>
+          <w>no</w>
+          <w>hüt</w>
+          <w>müeßt</w>
+          <w>hei</w>
+          <w>.</w>
+        </s>
+        <s n="25" xml:lang="gsw">
+          <pb n="12" facs="104488_012"/>
+          <lb n="1"/>
+          <w>Dusse</w>
+          <lb n="2"/>
+          <w>Wenn</w>
+          <w>znacht</w>
+          <w>de</w>
+          <w>Räge</w>
+          <w>gäge</w>
+          <w>d</w>
+          <w>Pfeischter</w>
+          <w>prätscht</w>
+          <lb n="3"/>
+          <w>Und</w>
+          <w>d</w>
+          <w>Wintermonetstürm</w>
+          <w>um</w>
+          <w>d</w>
+          <w>Tanne</w>
+          <w>chute</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>So</w>
+          <w>dänki</w>
+          <w>gärn</w>
+          <w>a</w>
+          <w>die</w>
+          <w>wo</w>
+          <w>dusse</w>
+          <w>sind</w>
+          <lb n="5"/>
+          <w>Und</w>
+          <w>nüt</w>
+          <w>meh</w>
+          <w>chöne</w>
+          <w>zue</w>
+          <w>—</w>
+          <w>nis</w>
+          <w>lo</w>
+          <w>verlute</w>
+          <w>.</w>
+        </s>
+        <s n="26" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Si</w>
+          <w>seige</w>
+          <w>gstorbe</w>
+          <w>.</w>
+        </s>
+        <s n="27" xml:lang="gsw">
+          <w>Weis</w>
+          <w>mer</w>
+          <w>,</w>
+          <w>was</w>
+          <w>das</w>
+          <w>heißt</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Und</w>
+          <w>eb</w>
+          <w>si</w>
+          <w>nüt</w>
+          <w>meh</w>
+          <w>vo</w>
+          <w>der</w>
+          <w>Arde</w>
+          <w>wüsse</w>
+          <w>?</w>
+        </s>
+        <s n="28" xml:lang="gsw">
+          <lb n="8"/>
+          <w>J</w>
+          <w>frönde</w>
+          <w>Wälte</w>
+          <w>schafft</w>
+          <w>iez</w>
+          <w>ihre</w>
+          <w>Geischt</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>Und</w>
+          <w>lot</w>
+          <w>is</w>
+          <w>euser</w>
+          <w>Liebi</w>
+          <w>,</w>
+          <w>eusem</w>
+          <w>Gwüsse</w>
+          <w>.</w>
+        </s>
+        <s n="29" xml:lang="gsw">
+          <pb n="13" facs="104488_013"/>
+          <lb n="1"/>
+          <w>Vergäbe</w>
+          <lb n="2"/>
+          <w>Zum</w>
+          <w>Himel</w>
+          <w>rüef</w>
+          <w>i</w>
+          <w>:</w>
+        </s>
+        <s n="30" xml:lang="gsw">
+          <w>Gib</w>
+          <w>es</w>
+          <w>Pfand</w>
+          <w>!</w>
+        </s>
+        <s n="31" xml:lang="de">
+          <lb n="3"/>
+          <w>Kei</w>
+          <w>Antwort</w>
+          <w>Tag</w>
+          <w>und</w>
+          <w>Nacht</w>
+          <w>.</w>
+        </s>
+        <s n="32" xml:lang="gsw">
+          <lb n="4"/>
+          <w>Vergäbe</w>
+          <w>putscht</w>
+          <w>de</w>
+          <w>Chopf</w>
+          <w>a</w>
+          <w>dWand</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>Wo</w>
+          <w>d</w>
+          <w>Ebigkeit</w>
+          <w>vermacht</w>
+          <w>.</w>
+        </s>
+        <s n="33" xml:lang="gsw">
+          <pb n="15" facs="104488_015"/>
+          <lb n="1"/>
+          <w>'s</w>
+          <w>Mareili</w>
+          <pb n="17" facs="104488_017"/>
+          <lb n="1"/>
+          <w>De</w>
+          <w>Brunne</w>
+          <lb n="2"/>
+          <w>Pfingschtrose</w>
+          <w>im</w>
+          <w>Garte</w>
+          <w>,</w>
+          <w>Steifriesli</w>
+          <w>um</w>
+          <w>s</w>
+          <w>Hus</w>
+          <w>—</w>
+          <lb n="3"/>
+          <w>s</w>
+          <w>Mareili</w>
+          <w>tripplet</w>
+          <w>zum</w>
+          <w>Gatter</w>
+          <w>us</w>
+          <w>:</w>
+          <lb n="4"/>
+          <w>«</w>
+          <w>Juhe</w>
+          <w>,</w>
+          <w>zu</w>
+          <w>de</w>
+          <w>Mäie</w>
+          <w>,</w>
+          <w>a</w>
+          <w>d</w>
+          <w>Sunne</w>
+          <w>!</w>
+        </s>
+        <s n="34" xml:lang="gsw">
+          <w>»</w>
+          <lb n="5"/>
+          <w>Verusse</w>
+          <w>ruschet</w>
+          <w>de</w>
+          <w>Brunne</w>
+          <w>.</w>
+        </s>
+        <s n="35" xml:lang="gsw">
+          <lb n="6"/>
+          <w>s</w>
+          <w>Mareili</w>
+          <w>luegt</w>
+          <w>übers</w>
+          <w>Brunnes</w>
+          <w>Rand</w>
+          <w>—</w>
+          <lb n="7"/>
+          <w>Do</w>
+          <w>packt's</w>
+          <w>us</w>
+          <w>der</w>
+          <w>Teufi</w>
+          <w>en</w>
+          <w>gspängstigi</w>
+          <w>Hand</w>
+          <w>.</w>
+        </s>
+        <s n="36" xml:lang="gsw">
+          <lb n="8"/>
+          <w>Vor</w>
+          <w>Angscht</w>
+          <w>isch</w>
+          <w>em</w>
+          <w>s</w>
+          <w>Härzli</w>
+          <w>versprunge</w>
+          <w>.</w>
+        </s>
+        <s n="37" xml:lang="gsw">
+          <lb n="9"/>
+          <w>De</w>
+          <w>Vatter</w>
+          <w>zieht</w>
+          <w>s</w>
+          <w>usem</w>
+          <w>Brunne</w>
+          <w>.</w>
+        </s>
+        <s n="38" xml:lang="gsw">
+          <lb n="10"/>
+          <w>Dur</w>
+          <w>s</w>
+          <w>Tobel</w>
+          <w>uf</w>
+          <w>geischtet</w>
+          <w>en</w>
+          <w>chitigi</w>
+          <w>Nacht</w>
+          <w>.</w>
+        </s>
+        <s n="39" xml:lang="gsw">
+          <lb n="11"/>
+          <w>Bim</w>
+          <w>totnige</w>
+          <w>Chindli</w>
+          <w>händ</w>
+          <w>d</w>
+          <w>Bätterlüt</w>
+          <w>Wacht</w>
+          <w>.</w>
+        </s>
+        <s n="40" xml:lang="gsw">
+          <lb n="12"/>
+          <w>Jm</w>
+          <w>Härd</w>
+          <w>isch's</w>
+          <w>letscht</w>
+          <w>Schitli</w>
+          <w>verbrunne</w>
+          <w>.</w>
+        </s>
+        <s n="41" xml:lang="gsw">
+          <lb n="13"/>
+          <w>Verusse</w>
+          <w>ruschet</w>
+          <w>de</w>
+          <w>Brunne</w>
+          <w>.</w>
+        </s>
+        <s n="42" xml:lang="gsw">
+          <pb n="18" facs="104488_018"/>
+          <lb n="1"/>
+          <w>D</w>
+          <w>Summerhäx</w>
+          <lb n="2"/>
+          <w>Wer</w>
+          <w>stricht</w>
+          <w>übers</w>
+          <w>Fäld</w>
+          <w>i</w>
+          <w>der</w>
+          <w>brüetige</w>
+          <w>Hitz</w>
+          <w>?</w>
+        </s>
+        <s n="43" xml:lang="gsw">
+          <lb n="3"/>
+          <w>Es</w>
+          <w>bückt</w>
+          <w>si</w>
+          <w>und</w>
+          <w>drückt</w>
+          <w>si</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Versteckt</w>
+          <w>si</w>
+          <w>und</w>
+          <w>streckt</w>
+          <w>si</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>Und</w>
+          <w>nüelet</w>
+          <w>am</w>
+          <w>Bode</w>
+          <w>und</w>
+          <w>schüßt</w>
+          <w>wi</w>
+          <w>de</w>
+          <w>Blitz</w>
+          <lb n="6"/>
+          <w>Dur</w>
+          <w>d</w>
+          <w>Matte</w>
+          <w>deswägs</w>
+          <w>—</w>
+          <lb n="7"/>
+          <w>DSummerhäx</w>
+          <w>!</w>
+        </s>
+        <s n="44" xml:lang="gsw">
+          <lb n="8"/>
+          <w>Si</w>
+          <w>streckt</w>
+          <w>ihri</w>
+          <w>zittrige</w>
+          <w>Finger</w>
+          <w>us</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>Si</w>
+          <w>gröplet</w>
+          <w>und</w>
+          <w>töplet</w>
+          <w>,</w>
+          <lb n="10"/>
+          <w>Si</w>
+          <w>fröglet</w>
+          <w>und</w>
+          <w>pröblet</w>
+          <w>,</w>
+          <lb n="11"/>
+          <w>Si</w>
+          <w>tichet</w>
+          <w>as</w>
+          <w>Gatter</w>
+          <w>,</w>
+          <w>a</w>
+          <w>Garte</w>
+          <w>,</w>
+          <w>as</w>
+          <w>Hus</w>
+          <w>,</w>
+          <lb n="12"/>
+          <w>Jez</w>
+          <w>nimmt</w>
+          <w>si</w>
+          <w>drei</w>
+          <w>Sätz</w>
+          <w>-</w>
+          <lb n="13"/>
+          <w>Hilfd</w>
+          <w>d'Summerhäx</w>
+          <w>!</w>
+        </s>
+        <s n="45" xml:lang="gsw">
+          <lb n="14"/>
+          <w>Ghörsch</w>
+          <w>juchse</w>
+          <w>am</w>
+          <w>Bärg</w>
+          <w>wine</w>
+          <w>wüetige</w>
+          <w>Hängscht</w>
+          <w>?</w>
+        </s>
+        <s n="46" xml:lang="gsw">
+          <lb n="15"/>
+          <w>Es</w>
+          <w>ziet</w>
+          <w>a</w>
+          <w>de</w>
+          <w>Wände</w>
+          <w>,</w>
+          <lb n="16"/>
+          <w>Es</w>
+          <w>weiht</w>
+          <w>mit</w>
+          <w>de</w>
+          <w>Hände</w>
+          <w>,</w>
+          <lb n="17"/>
+          <w>Es</w>
+          <w>hocket</w>
+          <w>uf</w>
+          <w>d</w>
+          <w>Fluezagg</w>
+          <w>und</w>
+          <w>worget</w>
+          <w>,</w>
+          <w>das</w>
+          <w>Gspängscht</w>
+          <w>:</w>
+          <lb n="18"/>
+          <w>«</w>
+          <w>Ha</w>
+          <w>gmürdet</w>
+          <w>wi</w>
+          <w>lätz</w>
+          <w>—</w>
+          <lb n="19"/>
+          <w>DSummerhäx</w>
+          <w>!</w>
+        </s>
+        <s n="47" xml:lang="gsw">
+          <w>»</w>
+          <pb n="19" facs="104488_019"/>
+          <lb n="1"/>
+          <w>'s</w>
+          <w>Unglück</w>
+          <lb n="2"/>
+          <w>Nid</w>
+          <w>übernacht</w>
+          <w>isch</w>
+          <w>s</w>
+          <w>Unglück</w>
+          <w>cho</w>
+          <w>.</w>
+        </s>
+        <s n="48" xml:lang="gsw">
+          <lb n="3"/>
+          <w>Am</w>
+          <w>heiterhele</w>
+          <w>Tag</w>
+          <lb n="4"/>
+          <w>Het's</w>
+          <w>'s</w>
+          <w>Liebscht</w>
+          <w>us</w>
+          <w>euser</w>
+          <w>Mitti</w>
+          <w>gno</w>
+          <lb n="5"/>
+          <w>Wi</w>
+          <w>uf</w>
+          <w>ene</w>
+          <w>Donnerschlag</w>
+          <w>.</w>
+        </s>
+        <s n="49" xml:lang="gsw">
+          <lb n="6"/>
+          <w>So</w>
+          <w>paßt</w>
+          <w>höch</w>
+          <w>i</w>
+          <w>der</w>
+          <w>Luft</w>
+          <w>e</w>
+          <w>Weih</w>
+          <lb n="7"/>
+          <w>Und</w>
+          <w>schüßt</w>
+          <w>ufs</w>
+          <w>Tübli</w>
+          <w>hi</w>
+          <w>.</w>
+        </s>
+        <s n="50" xml:lang="gsw">
+          <lb n="8"/>
+          <w>Es</w>
+          <w>wehrt</w>
+          <w>si</w>
+          <w>nid</w>
+          <w>.</w>
+        </s>
+        <s n="51" xml:lang="gsw">
+          <w>En</w>
+          <w>Stoß</w>
+          <w>en</w>
+          <w>Schrei</w>
+          <w>—</w>
+          <lb n="9"/>
+          <w>Und</w>
+          <w>alles</w>
+          <w>isch</w>
+          <w>verbi</w>
+          <w>.</w>
+        </s>
+        <s n="52" xml:lang="gsw">
+          <pb n="20" facs="104488_020"/>
+          <lb n="1"/>
+          <w>'s</w>
+          <w>Chüzli</w>
+          <lb n="2"/>
+          <w>Was</w>
+          <w>ghöri</w>
+          <w>dusse</w>
+          <w>i</w>
+          <w>der</w>
+          <w>Nacht</w>
+          <w>?</w>
+        </s>
+        <s n="53" xml:lang="gsw">
+          <lb n="3"/>
+          <w>Es</w>
+          <w>Chüzli</w>
+          <w>brüelet</w>
+          <w>uf</w>
+          <w>der</w>
+          <w>Wacht</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Vom</w>
+          <w>Holz</w>
+          <w>här</w>
+          <w>rüeft's</w>
+          <w>sim</w>
+          <w>Gspane</w>
+          <w>.</w>
+        </s>
+        <s n="54" xml:lang="gsw">
+          <lb n="5"/>
+          <w>Und</w>
+          <w>wer's</w>
+          <w>en</w>
+          <w>liebi</w>
+          <w>,</w>
+          <w>armi</w>
+          <w>Seel</w>
+          <w>,</w>
+          <lb n="6"/>
+          <w>Wo</w>
+          <w>zrugg</w>
+          <w>in</w>
+          <w>ihres</w>
+          <w>Heimet</w>
+          <w>will</w>
+          <w>?</w>
+        </s>
+        <s n="55" xml:lang="gsw">
+          <lb n="7"/>
+          <w>Di</w>
+          <w>Totne</w>
+          <w>wänd</w>
+          <w>eim</w>
+          <w>mahne</w>
+          <w>!</w>
+        </s>
+        <s n="56" xml:lang="gsw">
+          <pb n="21" facs="104488_021"/>
+          <lb n="1"/>
+          <w>De</w>
+          <w>Totebaum</w>
+          <lb n="2"/>
+          <w>Uf</w>
+          <w>dine</w>
+          <w>Bägglene</w>
+          <w>lit</w>
+          <w>en</w>
+          <w>Schin</w>
+          <lb n="3"/>
+          <w>As</w>
+          <w>wi</w>
+          <w>vo</w>
+          <w>Rose-nund</w>
+          <w>Jlle</w>
+          <w>.</w>
+        </s>
+        <s n="57" xml:lang="gsw">
+          <lb n="4"/>
+          <w>Um's</w>
+          <w>Müli</w>
+          <w>geischtet's</w>
+          <w>so</w>
+          <w>eigen</w>
+          <w>und</w>
+          <w>fin</w>
+          <w>-</w>
+          <lb n="5"/>
+          <w>Das</w>
+          <w>wer</w>
+          <w>en</w>
+          <w>schöne</w>
+          <w>Gottswille</w>
+          <w>,</w>
+          <lb n="6"/>
+          <w>Wennd</w>
+          <w>'s</w>
+          <w>Chöpfli</w>
+          <w>lüpftisch</w>
+          <w>:</w>
+        </s>
+        <s n="58" xml:lang="gsw">
+          <w>«</w>
+          <w>Wo</w>
+          <w>bini</w>
+          <w>gsi</w>
+          <w>?</w>
+        </s>
+        <s n="59" xml:lang="gsw">
+          <lb n="7"/>
+          <w>J</w>
+          <w>ha</w>
+          <w>ghört</w>
+          <w>d'Angeli</w>
+          <w>singe</w>
+          <w>—</w>
+          <w>»</w>
+          <lb n="8"/>
+          <w>Zwe</w>
+          <w>Manne</w>
+          <w>laufe</w>
+          <w>am</w>
+          <w>Pfeischter</w>
+          <w>verbi</w>
+          <w>.</w>
+        </s>
+        <s n="60" xml:lang="gsw">
+          <lb n="9"/>
+          <w>Si</w>
+          <w>tüend</w>
+          <w>de</w>
+          <w>Totebaum</w>
+          <w>bringe</w>
+          <w>.</w>
+        </s>
+        <s n="61" xml:lang="gsw">
+          <pb n="22" facs="104488_022"/>
+          <lb n="1"/>
+          <w>Scho</w>
+          <w>wit</w>
+          <lb n="2"/>
+          <w>Du</w>
+          <w>bisch</w>
+          <w>scho</w>
+          <w>nümme</w>
+          <w>bi-n-is</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>Du</w>
+          <w>bisch</w>
+          <w>scho</w>
+          <w>wit</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Hesch</w>
+          <w>nochem</w>
+          <w>Ardeläbe</w>
+          <lb n="5"/>
+          <w>Kei</w>
+          <w>Langizit</w>
+          <w>.</w>
+        </s>
+        <s n="62" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Bisch</w>
+          <w>ganz</w>
+          <w>eleigge</w>
+          <w>ggange</w>
+          <lb n="7"/>
+          <w>Di</w>
+          <w>feischter</w>
+          <w>Brugg</w>
+          <w>,</w>
+          <lb n="8"/>
+          <w>Weisch</w>
+          <w>nüt</w>
+          <w>von</w>
+          <w>eusem</w>
+          <w>Plange</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>Und</w>
+          <w>luegsch</w>
+          <w>nid</w>
+          <w>zrugg</w>
+          <w>.</w>
+        </s>
+        <s n="63" xml:lang="gsw">
+          <lb n="10"/>
+          <w>s</w>
+          <w>stoht</w>
+          <w>zwüschen</w>
+          <w>euse</w>
+          <w>Wälte</w>
+          <lb n="11"/>
+          <w>Es</w>
+          <w>strängs</w>
+          <w>Verbüt</w>
+          <w>—</w>
+          <lb n="12"/>
+          <w>Du</w>
+          <w>bisch</w>
+          <w>scho</w>
+          <w>nümme</w>
+          <w>binis</w>
+          <w>,</w>
+          <lb n="13"/>
+          <w>Du</w>
+          <w>bisch</w>
+          <w>scho</w>
+          <w>wit</w>
+          <w>.</w>
+        </s>
+        <s n="64" xml:lang="gsw">
+          <pb n="23" facs="104488_023"/>
+          <lb n="1"/>
+          <w>D</w>
+          <w>Flügeli</w>
+          <lb n="2"/>
+          <w>Chuum</w>
+          <w>bisch</w>
+          <w>verwachet</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>Hesch</w>
+          <w>s</w>
+          <w>Chöpfli</w>
+          <w>glüpft</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Und</w>
+          <w>'s</w>
+          <w>Müli</w>
+          <w>büschelet</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>Und</w>
+          <w>dMuetter</w>
+          <w>gstüpft</w>
+          <w>.</w>
+        </s>
+        <s n="65" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Hesch</w>
+          <w>dAugli</w>
+          <w>gribe</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Und</w>
+          <w>dArmli</w>
+          <w>gstreckt</w>
+          <w>,</w>
+          <lb n="8"/>
+          <w>Und</w>
+          <w>eis</w>
+          <w>ums</w>
+          <w>ander</w>
+          <lb n="9"/>
+          <w>Mit</w>
+          <w>Juchse</w>
+          <w>gweckt</w>
+          <w>.</w>
+        </s>
+        <s n="66" xml:lang="gsw">
+          <lb n="10"/>
+          <w>Denn</w>
+          <w>simmer</w>
+          <w>zfride</w>
+          <lb n="11"/>
+          <w>Ad'</w>
+          <w>Arbet</w>
+          <w>he</w>
+          <w>—</w>
+          <lb n="12"/>
+          <w>As-der</w>
+          <w>Flügeli</w>
+          <w>wachse</w>
+          <w>,</w>
+          <lb n="13"/>
+          <w>Mir</w>
+          <w>händ</w>
+          <w>s</w>
+          <w>nid</w>
+          <w>gseh</w>
+          <w>.</w>
+        </s>
+        <s n="67" xml:lang="gsw">
+          <pb n="24" facs="104488_024"/>
+          <lb n="1"/>
+          <w>Glogge</w>
+          <lb n="2"/>
+          <w>Mer</w>
+          <w>ghört</w>
+          <w>s</w>
+          <w>so</w>
+          <w>eige</w>
+          <w>lüte</w>
+          <lb n="3"/>
+          <w>Vom</w>
+          <w>Chiletürmli</w>
+          <w>här</w>
+          <w>.</w>
+        </s>
+        <s n="68" xml:lang="gsw">
+          <lb n="4"/>
+          <w>Was</w>
+          <w>dreihsch</w>
+          <w>de</w>
+          <w>Chopf</w>
+          <w>uf</w>
+          <w>dSite</w>
+          <w>?</w>
+        </s>
+        <s n="69" xml:lang="gsw">
+          <lb n="5"/>
+          <w>Worum</w>
+          <w>isch's</w>
+          <w>Härz</w>
+          <w>so</w>
+          <w>schwer</w>
+          <w>?</w>
+        </s>
+        <s n="70" xml:lang="de">
+          <lb n="6"/>
+          <w>J</w>
+          <w>mues</w>
+          <w>mi</w>
+          <w>langsam</w>
+          <w>bsinne</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Was</w>
+          <w>das</w>
+          <w>für</w>
+          <w>Glogge</w>
+          <w>sind</w>
+          <w>.</w>
+        </s>
+        <s n="71" xml:lang="gsw">
+          <lb n="8"/>
+          <w>Du</w>
+          <w>aber</w>
+          <w>ghörsch</w>
+          <w>si</w>
+          <w>nümme</w>
+          <w>.</w>
+        </s>
+        <s n="72" xml:lang="gsw">
+          <lb n="9"/>
+          <w>Du</w>
+          <w>schlofsch</w>
+          <w>gar</w>
+          <w>fescht</w>
+          <w>,</w>
+          <w>mis</w>
+          <w>Chind</w>
+          <w>.</w>
+        </s>
+        <s n="73" xml:lang="gsw">
+          <pb n="25" facs="104488_025"/>
+          <lb n="1"/>
+          <w>Der</w>
+          <w>Ahni</w>
+          <lb n="2"/>
+          <w>Usem</w>
+          <w>Stübli</w>
+          <w>tönt</w>
+          <w>e</w>
+          <w>Schrei</w>
+          <w>:</w>
+          <lb n="3"/>
+          <w>«</w>
+          <w>Chindli</w>
+          <w>,</w>
+          <w>lach</w>
+          <w>mi</w>
+          <w>nid</w>
+          <w>elei</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Nimm</w>
+          <w>mi</w>
+          <w>mit</w>
+          <w>is</w>
+          <w>Himelrich</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>J</w>
+          <w>bi</w>
+          <w>alt</w>
+          <w>zum</w>
+          <w>Stärbe</w>
+          <w>rif</w>
+          <w>.</w>
+        </s>
+        <s n="74" xml:lang="gsw">
+          <w>»</w>
+          <lb n="6"/>
+          <w>'s</w>
+          <w>isch</w>
+          <w>der</w>
+          <w>Ahnivatter</w>
+          <w>gsi</w>
+          <w>.</w>
+        </s>
+        <s n="75" xml:lang="gsw">
+          <lb n="7"/>
+          <w>Tröscht</w>
+          <w>di</w>
+          <w>Gott</w>
+          <w>.</w>
+        </s>
+        <s n="76" xml:lang="gsw">
+          <w>Er</w>
+          <w>holt</w>
+          <w>di</w>
+          <w>gli</w>
+          <w>.</w>
+        </s>
+        <s n="77" xml:lang="gsw">
+          <pb n="27" facs="104488_027"/>
+          <lb n="1"/>
+          <w>Lieder</w>
+          <w>vom</w>
+          <w>Schattemöntsch</w>
+          <pb n="28" facs="104488_028"/>
+          <lb n="1"/>
+          <w>n</w>
+          <pb n="29" facs="104488_029"/>
+          <lb n="1"/>
+          <w>De</w>
+          <w>Schattemöntsch</w>
+          <lb n="2"/>
+          <w>Jm</w>
+          <w>Schatte</w>
+          <w>ha</w>
+          <w>—</w>
+          <w>n-i</w>
+          <w>müeße</w>
+          <w>stoh</w>
+          <lb n="3"/>
+          <w>Mis</w>
+          <w>Läbe</w>
+          <w>lang</w>
+          <w>,</w>
+          <w>mis</w>
+          <w>Läbe</w>
+          <w>lang</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Eleigge</w>
+          <w>mues</w>
+          <w>i</w>
+          <w>usegoh</w>
+          <lb n="5"/>
+          <w>De</w>
+          <w>feischter</w>
+          <w>Gang</w>
+          <w>.</w>
+        </s>
+        <s n="78" xml:lang="gsw">
+          <lb n="6"/>
+          <w>J</w>
+          <w>ha</w>
+          <w>scho</w>
+          <w>mängi</w>
+          <w>liebi</w>
+          <w>Nacht</w>
+          <lb n="7"/>
+          <w>Mi</w>
+          <w>Rächnig</w>
+          <w>mitem</w>
+          <w>Herrgott</w>
+          <w>gmacht</w>
+          <w>.</w>
+        </s>
+        <s n="79" xml:lang="de">
+          <lb n="8"/>
+          <w>Si</w>
+          <w>stimmt</w>
+          <w>nid</w>
+          <w>ganz</w>
+          <w>.</w>
+        </s>
+        <s n="80" xml:lang="gsw">
+          <w>Es</w>
+          <w>breicht</w>
+          <w>mer</w>
+          <w>vill</w>
+          <w>:</w>
+          <lb n="9"/>
+          <w>Mängs</w>
+          <w>guets</w>
+          <w>Wort</w>
+          <w>,</w>
+          <w>Sunne</w>
+          <w>,</w>
+          <w>Liebi</w>
+          <w>.</w>
+        </s>
+        <s n="81" xml:lang="gsw">
+          <w>Still</w>
+          <w>,</w>
+          <lb n="10"/>
+          <w>Das</w>
+          <w>tuet</w>
+          <w>iez</w>
+          <w>alles</w>
+          <w>nümme</w>
+          <w>weh</w>
+          <w>,</w>
+          <lb n="11"/>
+          <w>Und</w>
+          <w>s</w>
+          <w>wird</w>
+          <w>au</w>
+          <w>müeße</w>
+          <w>dere</w>
+          <w>geh</w>
+          <w>.</w>
+        </s>
+        <s n="82" xml:lang="gsw">
+          <pb n="30" facs="104488_030"/>
+          <lb n="1"/>
+          <w>Stärbe</w>
+          <lb n="2"/>
+          <w>Wer</w>
+          <w>hätt</w>
+          <w>i</w>
+          <w>junge</w>
+          <w>Johre</w>
+          <w>dänkt</w>
+          <lb n="3"/>
+          <w>A's</w>
+          <w>Stärbe</w>
+          <w>und</w>
+          <w>Verdärbe</w>
+          <w>!</w>
+        </s>
+        <s n="83" xml:lang="gsw">
+          <lb n="4"/>
+          <w>Wi</w>
+          <w>ha</w>
+          <w>—</w>
+          <w>n-i</w>
+          <w>d</w>
+          <w>Fähne</w>
+          <w>useghänkt</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>Und</w>
+          <w>noch</w>
+          <w>em</w>
+          <w>Glück</w>
+          <w>de</w>
+          <w>Chopf</w>
+          <w>verränkt</w>
+          <w>-</w>
+          <lb n="6"/>
+          <w>Jez</w>
+          <w>lit's</w>
+          <w>i</w>
+          <w>tusig</w>
+          <w>Schärbe</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Jo</w>
+          <w>Schärbe</w>
+          <w>.</w>
+        </s>
+        <s n="84" xml:lang="gsw">
+          <lb n="8"/>
+          <w>Vor</w>
+          <w>mir</w>
+          <w>di</w>
+          <w>hushöch</w>
+          <w>Brätterwand</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>Und</w>
+          <w>hindedra</w>
+          <w>es</w>
+          <w>Unbikannt</w>
+          <w>—</w>
+          <lb n="10"/>
+          <w>Läb</w>
+          <w>wohl</w>
+          <w>,</w>
+          <w>du</w>
+          <w>schöni</w>
+          <w>Arde</w>
+          <w>!</w>
+        </s>
+        <s n="85" xml:lang="gsw">
+          <lb n="11"/>
+          <w>Wi</w>
+          <w>wird's</w>
+          <w>mer</w>
+          <w>goh</w>
+          <w>,</w>
+          <w>wi</w>
+          <w>wird</w>
+          <w>s</w>
+          <w>mer</w>
+          <w>goh</w>
+          <w>?</w>
+        </s>
+        <s n="86" xml:lang="gsw">
+          <lb n="12"/>
+          <w>Mir</w>
+          <w>wänd's</w>
+          <w>im</w>
+          <w>Herrgott</w>
+          <w>überlo</w>
+          <w>,</w>
+          <lb n="13"/>
+          <w>Das</w>
+          <w>Stärbe</w>
+          <w>.</w>
+        </s>
+        <s n="87" xml:lang="gsw">
+          <pb n="31" facs="104488_031"/>
+          <lb n="1"/>
+          <w>Jm</w>
+          <w>Holz</w>
+          <lb n="2"/>
+          <w>Es</w>
+          <w>nochet</w>
+          <w>i</w>
+          <w>mim</w>
+          <w>letschte</w>
+          <w>Tag</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>s</w>
+          <w>goht</w>
+          <w>mit</w>
+          <w>mer</w>
+          <w>hindenabe</w>
+          <w>.</w>
+        </s>
+        <s n="88" xml:lang="gsw">
+          <lb n="4"/>
+          <w>Am</w>
+          <w>Büel</w>
+          <w>bim</w>
+          <w>junge</w>
+          <w>Buecheschlag</w>
+          <lb n="5"/>
+          <w>Dert</w>
+          <w>müend</w>
+          <w>er</w>
+          <w>mi</w>
+          <w>bigrabe</w>
+          <w>.</w>
+        </s>
+        <s n="89" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Jm</w>
+          <w>Holz</w>
+          <w>uß</w>
+          <w>isch</w>
+          <w>mis</w>
+          <w>Heimet</w>
+          <w>gsi</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Dert</w>
+          <w>het</w>
+          <w>s</w>
+          <w>mer</w>
+          <w>afoh</w>
+          <w>wohle</w>
+          <w>,</w>
+          <lb n="8"/>
+          <w>Wenn</w>
+          <w>alles</w>
+          <w>Herrgottschrüz</w>
+          <w>uf</w>
+          <w>mi</w>
+          <lb n="9"/>
+          <w>Het</w>
+          <w>welle</w>
+          <w>abetrole</w>
+          <w>:</w>
+          <lb n="10"/>
+          <w>«</w>
+          <w>Di</w>
+          <w>ergschte</w>
+          <w>Wätter</w>
+          <w>tobe</w>
+          <w>—</w>
+          <w>n-us</w>
+          <w>,</w>
+          <lb n="11"/>
+          <w>Denn</w>
+          <w>schine</w>
+          <w>wider</w>
+          <w>d</w>
+          <w>Stärne</w>
+          <w>.</w>
+        </s>
+        <s n="90" xml:lang="gsw">
+          <lb n="12"/>
+          <w>So</w>
+          <w>ruschets</w>
+          <w>Bärgwald-Bletterhus</w>
+          <lb n="13"/>
+          <w>Und</w>
+          <w>nimmt</w>
+          <w>eim</w>
+          <w>i</w>
+          <w>si</w>
+          <w>Schärme</w>
+          <w>.</w>
+        </s>
+        <s n="91" xml:lang="gsw">
+          <pb n="32" facs="104488_032"/>
+          <lb n="1"/>
+          <w>s</w>
+          <w>Letscht</w>
+          <lb n="2"/>
+          <w>s</w>
+          <w>wird</w>
+          <w>niemer</w>
+          <w>briegge</w>
+          <w>,</w>
+          <w>wenn</w>
+          <w>i</w>
+          <w>goh</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>Frönd</w>
+          <w>bin-i</w>
+          <w>uf</w>
+          <w>der</w>
+          <w>Arde</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Mues</w>
+          <w>keini</w>
+          <w>Lüt</w>
+          <w>dehinde</w>
+          <w>lo</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>Wo</w>
+          <w>wäg</w>
+          <w>mer</w>
+          <w>eländ</w>
+          <w>wärde</w>
+          <w>.</w>
+        </s>
+        <s n="92" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Das</w>
+          <w>isch</w>
+          <w>en</w>
+          <w>ebig</w>
+          <w>gfehlti</w>
+          <w>Sach</w>
+          <w>:</w>
+          <lb n="7"/>
+          <w>Den</w>
+          <w>einte</w>
+          <w>rägnet's</w>
+          <w>s</w>
+          <w>Glück</w>
+          <w>ufs</w>
+          <w>Dach</w>
+          <w>,</w>
+          <lb n="8"/>
+          <w>Den</w>
+          <w>andere</w>
+          <w>haglet's</w>
+          <w>Strofe</w>
+          <w>:</w>
+          <lb n="9"/>
+          <w>Jez</w>
+          <w>dreih</w>
+          <w>is</w>
+          <w>nümme</w>
+          <w>hin</w>
+          <w>und</w>
+          <w>här</w>
+          <w>:</w>
+          <lb n="10"/>
+          <w>Wenn</w>
+          <w>numes</w>
+          <w>Letscht</w>
+          <w>no</w>
+          <w>übere</w>
+          <w>wer</w>
+          <w>,</w>
+          <lb n="11"/>
+          <w>Wi</w>
+          <w>gärn</w>
+          <w>denn</w>
+          <w>wett</w>
+          <w>i</w>
+          <w>schlofe</w>
+          <w>!</w>
+        </s>
+        <s n="93" xml:lang="gsw">
+          <pb n="33" facs="104488_033"/>
+          <lb n="1"/>
+          <w>Diheilig</w>
+          <w>Stund</w>
+          <lb n="2"/>
+          <w>De</w>
+          <w>Staufbärg</w>
+          <w>stoht</w>
+          <w>im</w>
+          <w>Oberot</w>
+          <w>.</w>
+        </s>
+        <s n="94" xml:lang="gsw">
+          <lb n="3"/>
+          <w>Vergange</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Vergange</w>
+          <lb n="5"/>
+          <w>Jsch</w>
+          <w>alli</w>
+          <w>Freud</w>
+          <w>und</w>
+          <w>alli</w>
+          <w>Not</w>
+          <w>,</w>
+          <lb n="6"/>
+          <w>Eb</w>
+          <w>as</w>
+          <w>hüt</w>
+          <w>d</w>
+          <w>Sunne</w>
+          <w>abegoht</w>
+          <w>.</w>
+        </s>
+        <s n="95" xml:lang="de">
+          <lb n="7"/>
+          <w>J</w>
+          <w>plange</w>
+          <w>.</w>
+        </s>
+        <s n="96" xml:lang="gsw">
+          <lb n="8"/>
+          <w>Es</w>
+          <w>weis</w>
+          <w>kei</w>
+          <w>Möntsch</w>
+          <w>,</w>
+          <w>was</w>
+          <w>noche</w>
+          <w>chunnt</w>
+          <w>.</w>
+        </s>
+        <s n="97" xml:lang="gsw">
+          <lb n="9"/>
+          <w>Nid</w>
+          <w>chlage</w>
+          <w>,</w>
+          <lb n="10"/>
+          <w>Nid</w>
+          <w>chlage</w>
+          <w>.</w>
+        </s>
+        <s n="98" xml:lang="gsw">
+          <lb n="11"/>
+          <w>J</w>
+          <w>ha</w>
+          <w>ghushaltet</w>
+          <w>mit</w>
+          <w>mim</w>
+          <w>Pfund</w>
+          <w>.</w>
+        </s>
+        <s n="99" xml:lang="gsw">
+          <lb n="12"/>
+          <w>Jez</w>
+          <w>bhüet</w>
+          <w>ech</w>
+          <w>Gott</w>
+          <w>.</w>
+        </s>
+        <s n="100" xml:lang="gsw">
+          <w>Mi</w>
+          <w>heilig</w>
+          <w>Stund</w>
+          <lb n="13"/>
+          <w>Het</w>
+          <w>gschlage</w>
+          <w>.</w>
+        </s>
+        <s n="101" xml:lang="gsw">
+          <pb n="34" facs="104488_034"/>
+          <lb n="1"/>
+          <w>Fürobe</w>
+          <lb n="2"/>
+          <w>Du</w>
+          <w>hesch</w>
+          <w>nüt</w>
+          <w>gwüßt</w>
+          <w>vo</w>
+          <w>früe</w>
+          <w>bis</w>
+          <w>spot</w>
+          <lb n="3"/>
+          <w>As</w>
+          <w>für</w>
+          <w>di</w>
+          <w>andere</w>
+          <w>z'schaffe</w>
+          <w>.</w>
+        </s>
+        <s n="102" xml:lang="de">
+          <lb n="4"/>
+          <w>Jez</w>
+          <w>chunnt</w>
+          <w>uf</w>
+          <w>einisch</w>
+          <w>'s</w>
+          <w>Oberot</w>
+          <lb n="5"/>
+          <w>Und</w>
+          <w>seit</w>
+          <w>:</w>
+        </s>
+        <s n="103" xml:lang="gsw">
+          <w>«</w>
+          <w>Fürobe</w>
+          <w>mache</w>
+          <w>!</w>
+        </s>
+        <s n="104" xml:lang="gsw">
+          <w>»</w>
+          <lb n="6"/>
+          <w>Es</w>
+          <w>nimmt</w>
+          <w>d</w>
+          <w>Wält</w>
+          <w>z'ringselum</w>
+          <w>i</w>
+          <w>dArm</w>
+          <lb n="7"/>
+          <w>Wi</w>
+          <w>dMuetter</w>
+          <w>ihri</w>
+          <w>Chinde</w>
+          <w>:</w>
+          <lb n="8"/>
+          <w>«</w>
+          <w>Dir</w>
+          <w>wird</w>
+          <w>i</w>
+          <w>au</w>
+          <w>,</w>
+          <w>as</w>
+          <w>Gott</w>
+          <w>erbarm</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>En</w>
+          <w>Platz</w>
+          <w>zum</w>
+          <w>grueie</w>
+          <w>finde</w>
+          <w>.</w>
+        </s>
+        <s n="105" xml:lang="gsw">
+          <w>»</w>
+          <pb n="35" facs="104488_035"/>
+          <lb n="1"/>
+          <w>Dis</w>
+          <w>Härz</w>
+          <lb n="2"/>
+          <w>J</w>
+          <w>cha's</w>
+          <w>und</w>
+          <w>cha</w>
+          <w>s</w>
+          <w>nid</w>
+          <w>glaube</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>As</w>
+          <w>d'nümme</w>
+          <w>bi-nis</w>
+          <w>bisch</w>
+          <w>!</w>
+        </s>
+        <s n="106" xml:lang="gsw">
+          <lb n="4"/>
+          <w>Es</w>
+          <w>tropfet</w>
+          <w>ab</w>
+          <w>den</w>
+          <w>Auge</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>Bis</w>
+          <w>alles</w>
+          <w>feischter</w>
+          <w>isch</w>
+          <w>.</w>
+        </s>
+        <s n="107" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Dis</w>
+          <w>Härz</w>
+          <w>,</w>
+          <w>so</w>
+          <w>voll</w>
+          <w>vo</w>
+          <w>Liebi</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Es</w>
+          <w>het</w>
+          <w>si</w>
+          <w>überno</w>
+          <w>:</w>
+          <lb n="8"/>
+          <w>Vor</w>
+          <w>Chumber</w>
+          <w>und</w>
+          <w>vor</w>
+          <w>Müedi</w>
+          <lb n="9"/>
+          <w>Het's</w>
+          <w>nümme</w>
+          <w>möge</w>
+          <w>gschlo</w>
+          <w>.</w>
+        </s>
+        <s n="108" xml:lang="gsw">
+          <pb n="36" facs="104488_036"/>
+          <lb n="1"/>
+          <w>Jmene</w>
+          <w>Dichter</w>
+          <lb n="2"/>
+          <w>Du</w>
+          <w>hesch</w>
+          <w>is</w>
+          <w>zGaschtig</w>
+          <w>glade</w>
+          <w>:</w>
+          <lb n="3"/>
+          <w>«</w>
+          <w>Do</w>
+          <w>nähmed</w>
+          <w>,</w>
+          <w>sitzed</w>
+          <w>zue</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Jhr</w>
+          <w>chömed</w>
+          <w>alli</w>
+          <w>z'Gnade</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>'s</w>
+          <w>cha</w>
+          <w>jede</w>
+          <w>ha</w>
+          <w>bis</w>
+          <w>gnue</w>
+          <w>.</w>
+        </s>
+        <s n="109" xml:lang="gsw">
+          <w>»</w>
+          <lb n="6"/>
+          <w>Du</w>
+          <w>hesch</w>
+          <w>vergäbe</w>
+          <w>planget</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Bisch</w>
+          <w>furt</w>
+          <w>vom</w>
+          <w>vollne</w>
+          <w>Tisch</w>
+          <w>—</w>
+          <lb n="8"/>
+          <w>'s</w>
+          <w>isch</w>
+          <w>eim</w>
+          <w>nid</w>
+          <w>besser</w>
+          <w>ggange</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>Wo</w>
+          <w>am</w>
+          <w>Chrüz</w>
+          <w>ghanget</w>
+          <w>isch</w>
+          <w>.</w>
+        </s>
+        <s n="110" xml:lang="gsw">
+          <pb n="37" facs="104488_037"/>
+          <lb n="1"/>
+          <w>Totni</w>
+          <w>Liebi</w>
+          <pb n="39" facs="104488_039"/>
+          <lb n="1"/>
+          <w>Totni</w>
+          <w>Liebi</w>
+          <lb n="2"/>
+          <w>Jez</w>
+          <w>isch</w>
+          <w>mer</w>
+          <w>alles</w>
+          <w>,</w>
+          <w>alles</w>
+          <w>glich</w>
+          <w>:</w>
+          <lb n="3"/>
+          <w>J</w>
+          <w>bi</w>
+          <w>nid</w>
+          <w>arm</w>
+          <w>und</w>
+          <w>bi</w>
+          <w>nid</w>
+          <w>rich</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>J</w>
+          <w>bi</w>
+          <w>nid</w>
+          <w>warm</w>
+          <w>und</w>
+          <w>bi</w>
+          <w>nid</w>
+          <w>chalt</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>J</w>
+          <w>bi</w>
+          <w>nid</w>
+          <w>jung</w>
+          <w>und</w>
+          <w>bi</w>
+          <w>nid</w>
+          <w>alt</w>
+          <w>.</w>
+        </s>
+        <s n="111" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Keis</w>
+          <w>Stärndli</w>
+          <w>schint</w>
+          <w>mer</w>
+          <w>i</w>
+          <w>der</w>
+          <w>Nacht</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>De</w>
+          <w>Früelig</w>
+          <w>isch</w>
+          <w>für</w>
+          <w>mi</w>
+          <w>nid</w>
+          <w>gmacht</w>
+          <w>,</w>
+          <lb n="8"/>
+          <w>Es</w>
+          <w>tuet</w>
+          <w>mer</w>
+          <w>nüt</w>
+          <w>meh</w>
+          <w>wohl</w>
+          <w>und</w>
+          <w>weh</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>J</w>
+          <w>cha</w>
+          <w>keis</w>
+          <w>heiters</w>
+          <w>Gsicht</w>
+          <w>meh</w>
+          <w>gseh</w>
+          <w>-</w>
+          <lb n="10"/>
+          <w>Sid</w>
+          <w>as</w>
+          <w>i</w>
+          <w>weiß</w>
+          <w>:</w>
+          <w>'s</w>
+          <w>Schönscht</w>
+          <w>cha</w>
+          <w>verdärbe</w>
+          <w>,</w>
+          <lb n="11"/>
+          <w>Und</w>
+          <w>d</w>
+          <w>Liebi</w>
+          <w>-</w>
+          <w>d</w>
+          <w>Liebi</w>
+          <w>no</w>
+          <w>mues</w>
+          <w>stärbe</w>
+          <w>!</w>
+        </s>
+        <s n="112" xml:lang="gsw">
+          <pb n="40" facs="104488_040"/>
+          <lb n="1"/>
+          <w>Weisch</w>
+          <w>no</w>
+          <w>?</w>
+        </s>
+        <s n="113" xml:lang="gsw">
+          <lb n="2"/>
+          <w>So</w>
+          <w>hälf</w>
+          <w>is</w>
+          <w>Gott</w>
+          <w>eus</w>
+          <w>beide</w>
+          <w>!</w>
+        </s>
+        <s n="114" xml:lang="gsw">
+          <lb n="3"/>
+          <w>Weisch</w>
+          <w>no</w>
+          <w>bim</w>
+          <w>Buechehag</w>
+          <w>?</w>
+        </s>
+        <s n="115" xml:lang="gsw">
+          <lb n="4"/>
+          <w>«</w>
+          <w>Nüt</w>
+          <w>cha-n-is</w>
+          <w>iez</w>
+          <w>meh</w>
+          <w>scheide</w>
+          <lb n="5"/>
+          <w>As</w>
+          <w>zletschten</w>
+          <w>einisch</w>
+          <w>'s</w>
+          <w>Grab</w>
+          <w>!</w>
+        </s>
+        <s n="116" xml:lang="gsw">
+          <w>»</w>
+          <lb n="6"/>
+          <w>Jez</w>
+          <w>tüemmeris</w>
+          <w>chuum</w>
+          <w>meh</w>
+          <w>grüeße</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Göhnd</w>
+          <w>anenand</w>
+          <w>verbi</w>
+          <w>:</w>
+          <lb n="8"/>
+          <w>De</w>
+          <w>Tod</w>
+          <w>het</w>
+          <w>nid</w>
+          <w>dra</w>
+          <w>müeße</w>
+          <w>—</w>
+          <lb n="9"/>
+          <w>s</w>
+          <w>Läbe</w>
+          <w>isch</w>
+          <w>stercher</w>
+          <w>gsi</w>
+          <w>.</w>
+        </s>
+        <s n="117" xml:lang="gsw">
+          <pb n="41" facs="104488_041"/>
+          <lb n="1"/>
+          <w>Jm</w>
+          <w>Traum</w>
+          <lb n="2"/>
+          <w>Es</w>
+          <w>het</w>
+          <w>mer</w>
+          <w>traumt</w>
+          <w>,</w>
+          <w>du</w>
+          <w>seigisch</w>
+          <w>mine</w>
+          <lb n="3"/>
+          <w>As</w>
+          <w>wi</w>
+          <w>vor</w>
+          <w>alte</w>
+          <w>Zite</w>
+          <w>gsi</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Und</w>
+          <w>heigisch</w>
+          <w>gseit</w>
+          <w>:</w>
+        </s>
+        <s n="118" xml:lang="gsw">
+          <w>«</w>
+          <w>Frönd</w>
+          <w>müemmer</w>
+          <w>schine</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>Doch</w>
+          <w>nümme</w>
+          <w>lang</w>
+          <w>,</w>
+          <w>so</w>
+          <w>isch</w>
+          <w>s</w>
+          <w>verbi</w>
+          <w>.</w>
+        </s>
+        <s n="119" xml:lang="gsw">
+          <w>»</w>
+          <lb n="6"/>
+          <w>J</w>
+          <w>bi</w>
+          <w>verwachet</w>
+          <w>.</w>
+        </s>
+        <s n="120" xml:lang="gsw">
+          <w>Leer</w>
+          <w>isch</w>
+          <w>d'Stube</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Und</w>
+          <w>i</w>
+          <w>vergässe</w>
+          <w>und</w>
+          <w>ellei</w>
+          <w>.</w>
+        </s>
+        <s n="121" xml:lang="gsw">
+          <lb n="8"/>
+          <w>Und</w>
+          <w>doch</w>
+          <w>isch</w>
+          <w>s</w>
+          <w>,</w>
+          <w>wi</w>
+          <w>wenn</w>
+          <w>Angel</w>
+          <w>fluge</w>
+          <lb n="9"/>
+          <w>Zum</w>
+          <w>Pfeischter</w>
+          <w>us</w>
+          <w>,</w>
+          <w>und</w>
+          <w>uf</w>
+          <w>,</w>
+          <w>und</w>
+          <w>hei</w>
+          <w>-</w>
+          <pb n="42" facs="104488_042"/>
+          <lb n="1"/>
+          <w>DStärne</w>
+          <lb n="2"/>
+          <w>Ha</w>
+          <w>mängisch</w>
+          <w>zNacht</w>
+          <w>a</w>
+          <w>Himel</w>
+          <w>gluegt</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>Wo</w>
+          <w>d'Stärne</w>
+          <w>glitzeret</w>
+          <w>händ</w>
+          <w>:</w>
+          <lb n="4"/>
+          <w>Fahrt</w>
+          <w>keine</w>
+          <w>uf</w>
+          <w>der</w>
+          <w>ander</w>
+          <w>zue</w>
+          <w>?</w>
+        </s>
+        <s n="122" xml:lang="gsw">
+          <lb n="5"/>
+          <w>Goht's</w>
+          <w>witer</w>
+          <w>ohni</w>
+          <w>And</w>
+          <w>?</w>
+        </s>
+        <s n="123" xml:lang="gsw">
+          <lb n="6"/>
+          <w>s</w>
+          <w>mues</w>
+          <w>au</w>
+          <w>dert</w>
+          <w>obe</w>
+          <w>no</w>
+          <w>kei</w>
+          <w>Stäg</w>
+          <lb n="7"/>
+          <w>Vo</w>
+          <w>eim</w>
+          <w>zum</w>
+          <w>andere</w>
+          <w>si</w>
+          <w>,</w>
+          <lb n="8"/>
+          <w>s</w>
+          <w>goht</w>
+          <w>jede</w>
+          <w>Stärn</w>
+          <w>si</w>
+          <w>eignig</w>
+          <w>Wäg</w>
+          <lb n="9"/>
+          <w>Bim</w>
+          <w>andere</w>
+          <w>verbi</w>
+          <w>.</w>
+        </s>
+        <s n="124" xml:lang="gsw">
+          <pb n="43" facs="104488_043"/>
+          <lb n="1"/>
+          <w>De</w>
+          <w>Näbel</w>
+          <lb n="2"/>
+          <w>Wenn</w>
+          <w>nume</w>
+          <w>d</w>
+          <w>Sunne</w>
+          <w>wider</w>
+          <w>chem</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>Und</w>
+          <w>euse</w>
+          <w>Näbel</w>
+          <w>obsi</w>
+          <w>nehm</w>
+          <lb n="4"/>
+          <w>Mit</w>
+          <w>alle</w>
+          <w>schwere</w>
+          <w>Sorge</w>
+          <w>.</w>
+        </s>
+        <s n="125" xml:lang="gsw">
+          <lb n="5"/>
+          <w>Er</w>
+          <w>hocket</w>
+          <w>a</w>
+          <w>der</w>
+          <w>Jurawand</w>
+          <w>,</w>
+          <lb n="6"/>
+          <w>Und</w>
+          <w>wott</w>
+          <w>mit</w>
+          <w>siner</w>
+          <w>chalte</w>
+          <w>Hand</w>
+          <lb n="7"/>
+          <w>Was</w>
+          <w>Ote</w>
+          <w>het</w>
+          <w>,</w>
+          <w>verworge</w>
+          <w>.</w>
+        </s>
+        <s n="126" xml:lang="gsw">
+          <lb n="8"/>
+          <w>Denn</w>
+          <w>wachst</w>
+          <w>de</w>
+          <w>Chumber</w>
+          <w>übers</w>
+          <w>Dach</w>
+          <lb n="9"/>
+          <w>Und</w>
+          <w>luschteret</w>
+          <w>us</w>
+          <w>jedem</w>
+          <w>Fach</w>
+          <w>,</w>
+          <lb n="10"/>
+          <w>Und</w>
+          <w>lot</w>
+          <w>si</w>
+          <w>nid</w>
+          <w>verjage</w>
+          <w>:</w>
+          <lb n="11"/>
+          <w>Er</w>
+          <w>spinnt</w>
+          <w>eim</w>
+          <w>langsam</w>
+          <w>,</w>
+          <w>langsami</w>
+          <lb n="12"/>
+          <w>Und</w>
+          <w>singt</w>
+          <w>sis</w>
+          <w>Totelied</w>
+          <w>:</w>
+        </s>
+        <s n="127" xml:lang="gsw">
+          <w>«</w>
+          <w>Verbi</w>
+          <w>,</w>
+          <lb n="13"/>
+          <w>Jhr</w>
+          <w>chömed</w>
+          <w>nümme</w>
+          <w>z'Gnade</w>
+          <w>!</w>
+        </s>
+        <s n="128" xml:lang="de">
+          <w>»</w>
+          <pb n="44" facs="104488_044"/>
+          <lb n="1"/>
+          <w>Heb</w>
+          <w>Sorg</w>
+          <lb n="2"/>
+          <w>Heb</w>
+          <w>Sorg</w>
+          <w>zum</w>
+          <w>alte</w>
+          <w>Porzelan</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>Heb</w>
+          <w>Sorg</w>
+          <w>zum</w>
+          <w>junge</w>
+          <w>Glück</w>
+          <w>.</w>
+        </s>
+        <s n="129" xml:lang="gsw">
+          <lb n="4"/>
+          <w>Es</w>
+          <w>wott</w>
+          <w>nid</w>
+          <w>z'chalt</w>
+          <w>und</w>
+          <w>wott</w>
+          <w>nid</w>
+          <w>z'warm</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>Suscht</w>
+          <w>springt</w>
+          <w>s</w>
+          <w>i</w>
+          <w>tusig</w>
+          <w>Stück</w>
+          <w>.</w>
+        </s>
+        <s n="130" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Und</w>
+          <w>isch</w>
+          <w>es</w>
+          <w>Härz</w>
+          <w>voll</w>
+          <w>Liebi</w>
+          <w>dis</w>
+          <w>:</w>
+          <lb n="7"/>
+          <w>Gang</w>
+          <w>hübscheli</w>
+          <w>um</w>
+          <w>dermit</w>
+          <w>.</w>
+        </s>
+        <s n="131" xml:lang="gsw">
+          <lb n="8"/>
+          <w>Du</w>
+          <w>findsch</w>
+          <w>nid</w>
+          <w>zwöimols</w>
+          <w>Paredis</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>Chausch</w>
+          <w>goh</w>
+          <w>so</w>
+          <w>wit</w>
+          <w>as</w>
+          <w>d</w>
+          <w>witt</w>
+          <w>.</w>
+        </s>
+        <s n="132" xml:lang="gsw">
+          <pb n="45" facs="104488_045"/>
+          <lb n="1"/>
+          <w>Ubere</w>
+          <lb n="2"/>
+          <w>s</w>
+          <w>het</w>
+          <w>Tage</w>
+          <w>ggeh</w>
+          <w>,</w>
+          <w>mer</w>
+          <w>nehm</w>
+          <w>si</w>
+          <w>nümme</w>
+          <w>zrugg</w>
+          <w>.</w>
+        </s>
+        <s n="133" xml:lang="gsw">
+          <lb n="3"/>
+          <w>Mer</w>
+          <w>isch</w>
+          <w>verzwiflet</w>
+          <w>uf</w>
+          <w>de</w>
+          <w>Chneune</w>
+          <w>gläge</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Het</w>
+          <w>bättet</w>
+          <w>und</w>
+          <w>het</w>
+          <w>keini</w>
+          <w>Wort</w>
+          <w>meh</w>
+          <w>gha</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>Und</w>
+          <w>het</w>
+          <w>sis</w>
+          <w>Leid</w>
+          <w>keim</w>
+          <w>Möntsche</w>
+          <w>chönne</w>
+          <w>säge</w>
+          <lb n="6"/>
+          <w>s</w>
+          <w>isch</w>
+          <w>übere</w>
+          <w>.</w>
+        </s>
+        <s n="134" xml:lang="gsw">
+          <lb n="7"/>
+          <w>s</w>
+          <w>het</w>
+          <w>Stunde</w>
+          <w>g</w>
+          <w>geh</w>
+          <w>,</w>
+          <w>so</w>
+          <w>voll</w>
+          <w>,</w>
+          <w>so</w>
+          <w>voll</w>
+          <w>vo</w>
+          <w>Glück</w>
+          <w>,</w>
+          <lb n="8"/>
+          <w>s</w>
+          <w>Härz</w>
+          <w>isch</w>
+          <w>eim</w>
+          <w>zsannt</w>
+          <w>den</w>
+          <w>Auge-n</w>
+          <w>überloffe</w>
+          <w>.</w>
+        </s>
+        <s n="135" xml:lang="gsw">
+          <lb n="9"/>
+          <w>De</w>
+          <w>Himel</w>
+          <w>isch</w>
+          <w>uf</w>
+          <w>dArden</w>
+          <w>abe</w>
+          <w>cho</w>
+          <w>,</w>
+          <lb n="10"/>
+          <w>Und</w>
+          <w>d</w>
+          <w>Sunne</w>
+          <w>het</w>
+          <w>de</w>
+          <w>hinderscht</w>
+          <w>Egge</w>
+          <w>troffe</w>
+          <w>—</w>
+          <lb n="11"/>
+          <w>s</w>
+          <w>isch</w>
+          <w>übere</w>
+          <w>.</w>
+        </s>
+        <s n="136" xml:lang="gsw">
+          <lb n="12"/>
+          <w>Jez</w>
+          <w>stöhmmer</w>
+          <w>ufem</w>
+          <w>höche</w>
+          <w>stille</w>
+          <w>Bärg</w>
+          <lb n="13"/>
+          <w>Und</w>
+          <w>luege</w>
+          <w>übers</w>
+          <w>Land</w>
+          <w>am</w>
+          <w>Summerobe</w>
+          <w>:</w>
+          <lb n="14"/>
+          <w>Wie</w>
+          <w>lang</w>
+          <w>isch</w>
+          <w>s</w>
+          <w>ächt</w>
+          <w>no</w>
+          <w>bis</w>
+          <w>i</w>
+          <w>dEbigkeit</w>
+          <w>?</w>
+        </s>
+        <s n="137" xml:lang="de">
+          <lb n="15"/>
+          <w>Jsch's</w>
+          <w>Stärbe</w>
+          <w>schwer</w>
+          <w>?</w>
+        </s>
+        <s n="138" xml:lang="gsw">
+          <w>-</w>
+          <w>Mer</w>
+          <w>wänd</w>
+          <w>nid</w>
+          <w>goge</w>
+          <w>froge</w>
+          <w>,</w>
+          <lb n="16"/>
+          <w>s</w>
+          <w>goht</w>
+          <w>übere</w>
+          <w>.</w>
+        </s>
+        <s n="139" xml:lang="gsw">
+          <pb n="46" facs="104488_046"/>
+          <lb n="1"/>
+          <w>Liebha</w>
+          <w>vergässe</w>
+          <lb n="2"/>
+          <w>Wer</w>
+          <w>wett</w>
+          <w>noch</w>
+          <w>Johr</w>
+          <w>und</w>
+          <w>Tag</w>
+          <w>und</w>
+          <w>Stund</w>
+          <lb n="3"/>
+          <w>Es</w>
+          <w>Läbe</w>
+          <w>mässe</w>
+          <w>?</w>
+        </s>
+        <s n="140" xml:lang="gsw">
+          <lb n="4"/>
+          <w>Zwo</w>
+          <w>Sache</w>
+          <w>mache</w>
+          <w>chrank</w>
+          <w>und</w>
+          <w>gsund</w>
+          <w>:</w>
+          <lb n="5"/>
+          <w>Liebha-</w>
+          <w>vergässe</w>
+          <w>!</w>
+        </s>
+        <s n="141" xml:lang="gsw">
+          <pb n="47" facs="104488_047"/>
+          <lb n="1"/>
+          <w>De</w>
+          <w>Chrieg</w>
+          <pb n="49" facs="104488_049"/>
+          <lb n="1"/>
+          <w>De</w>
+          <w>Chrieg</w>
+          <lb n="2"/>
+          <w>Ghörsch</w>
+          <w>donnere</w>
+          <w>ab</w>
+          <w>der</w>
+          <w>Gisliflue</w>
+          <w>?</w>
+        </s>
+        <s n="142" xml:lang="gsw">
+          <lb n="3"/>
+          <w>Es</w>
+          <w>isch</w>
+          <w>de</w>
+          <w>Chrieg</w>
+          <w>.</w>
+        </s>
+        <s n="143" xml:lang="gsw">
+          <w>Mach</w>
+          <w>s</w>
+          <w>Pfeischter</w>
+          <w>zue</w>
+          <w>!</w>
+        </s>
+        <s n="144" xml:lang="gsw">
+          <lb n="4"/>
+          <w>Mag</w>
+          <w>d'Sunne</w>
+          <w>au</w>
+          <w>no</w>
+          <w>abe</w>
+          <w>schine</w>
+          <w>?</w>
+        </s>
+        <s n="145" xml:lang="gsw">
+          <lb n="5"/>
+          <w>Sind</w>
+          <w>Hus</w>
+          <w>und</w>
+          <w>Heimet</w>
+          <w>morn</w>
+          <w>no</w>
+          <w>mine</w>
+          <w>?</w>
+        </s>
+        <s n="146" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Jsch</w>
+          <w>alles</w>
+          <w>nid</w>
+          <w>en</w>
+          <w>böse</w>
+          <w>Traum</w>
+          <w>?</w>
+        </s>
+        <s n="147" xml:lang="gsw">
+          <lb n="7"/>
+          <w>s</w>
+          <w>git</w>
+          <w>wider</w>
+          <w>Bluescht</w>
+          <w>am</w>
+          <w>Opfelbaum</w>
+          <lb n="8"/>
+          <w>Und</w>
+          <w>Vögel</w>
+          <w>druff</w>
+          <w>,</w>
+          <w>wo</w>
+          <w>Lieder</w>
+          <w>singe</w>
+          <w>-</w>
+          <lb n="9"/>
+          <w>Und</w>
+          <w>eusereim</w>
+          <w>wotts</w>
+          <w>Härz</w>
+          <w>verspringe</w>
+          <w>.</w>
+        </s>
+        <s n="148" xml:lang="gsw">
+          <pb n="50" facs="104488_050"/>
+          <lb n="1"/>
+          <w>Chreihe</w>
+          <lb n="2"/>
+          <w>Händer</w>
+          <w>di</w>
+          <w>schwarze</w>
+          <w>Vögel</w>
+          <w>gseh</w>
+          <w>?</w>
+        </s>
+        <s n="149" xml:lang="gsw">
+          <lb n="3"/>
+          <w>Wo</w>
+          <w>chöme</w>
+          <w>si</w>
+          <w>här</w>
+          <w>?</w>
+        </s>
+        <s n="150" xml:lang="gsw">
+          <w>Wo</w>
+          <w>göhnd</w>
+          <w>si</w>
+          <w>he</w>
+          <w>?</w>
+        </s>
+        <s n="151" xml:lang="gsw">
+          <lb n="4"/>
+          <w>No</w>
+          <w>nie</w>
+          <w>het's</w>
+          <w>settigi</w>
+          <w>Schare</w>
+          <w>gha</w>
+          <w>!</w>
+        </s>
+        <s n="152" xml:lang="gsw">
+          <lb n="5"/>
+          <w>Si</w>
+          <w>warte-n</w>
+          <w>uf</w>
+          <w>öppis</w>
+          <w>.</w>
+        </s>
+        <s n="153" xml:lang="gsw">
+          <w>De</w>
+          <w>gröscht</w>
+          <w>foht</w>
+          <w>a</w>
+          <w>:</w>
+          <lb n="6"/>
+          <w>«</w>
+          <w>Dert</w>
+          <w>unde</w>
+          <w>,</w>
+          <w>dert</w>
+          <w>unde</w>
+          <w>änet</w>
+          <w>em</w>
+          <w>Rhi</w>
+          <lb n="7"/>
+          <w>Söll</w>
+          <w>iezig</w>
+          <w>en</w>
+          <w>große</w>
+          <w>Stärbet</w>
+          <w>si</w>
+          <w>.</w>
+        </s>
+        <s n="154" xml:lang="gsw">
+          <lb n="8"/>
+          <w>Si</w>
+          <w>ligge</w>
+          <w>zhüffewis</w>
+          <w>,</w>
+          <w>Fründ</w>
+          <w>und</w>
+          <w>Find</w>
+          <w>—</w>
+          <lb n="9"/>
+          <w>Furt</w>
+          <w>,</w>
+          <w>furt</w>
+          <w>eb</w>
+          <w>alli</w>
+          <w>bigrabe</w>
+          <w>sind</w>
+          <w>»</w>
+          <lb n="10"/>
+          <w>Si</w>
+          <w>brüele</w>
+          <w>und</w>
+          <w>fladere</w>
+          <w>übere</w>
+          <w>Wald</w>
+          <w>.</w>
+        </s>
+        <s n="155" xml:lang="gsw">
+          <lb n="11"/>
+          <w>«</w>
+          <w>Mer</w>
+          <w>chöme</w>
+          <w>wider</w>
+          <w>.</w>
+        </s>
+        <s n="156" xml:lang="gsw">
+          <w>»</w>
+          <w>Wer</w>
+          <w>weiß</w>
+          <w>wi</w>
+          <w>bald</w>
+          <w>?</w>
+        </s>
+        <s n="157" xml:lang="gsw">
+          <pb n="51" facs="104488_051"/>
+          <lb n="1"/>
+          <w>D'Kanone</w>
+          <lb n="2"/>
+          <w>DKanone</w>
+          <w>chrache</w>
+          <w>vom</w>
+          <w>Elsiß</w>
+          <w>här</w>
+          <w>:</w>
+          <lb n="3"/>
+          <w>«</w>
+          <w>Schwer</w>
+          <w>—</w>
+          <lb n="4"/>
+          <w>Schwer</w>
+          <w>-</w>
+          <lb n="5"/>
+          <w>Jsch</w>
+          <w>eusers</w>
+          <w>Läbe</w>
+          <w>.</w>
+        </s>
+        <s n="158" xml:lang="gsw">
+          <w>De</w>
+          <w>Hunger</w>
+          <w>tuet</w>
+          <w>weh</w>
+          <w>,</w>
+          <lb n="6"/>
+          <w>Und</w>
+          <w>rot</w>
+          <w>lit</w>
+          <w>'s</w>
+          <w>Bluet</w>
+          <w>ufem</w>
+          <w>wiße</w>
+          <w>Schnee</w>
+          <w>.</w>
+        </s>
+        <s n="159" xml:lang="gsw">
+          <w>»</w>
+          <lb n="7"/>
+          <w>«</w>
+          <w>Bum</w>
+          <w>-</w>
+          <lb n="8"/>
+          <w>Bum</w>
+          <w>-</w>
+          <lb n="9"/>
+          <w>Mer</w>
+          <w>chehre</w>
+          <w>nid</w>
+          <w>um</w>
+          <w>,</w>
+          <w>nid</w>
+          <w>um</w>
+          <w>.</w>
+        </s>
+        <s n="160" xml:lang="gsw">
+          <lb n="10"/>
+          <w>Mer</w>
+          <w>träge</w>
+          <w>vo</w>
+          <w>eim</w>
+          <w>is</w>
+          <w>ander</w>
+          <w>Land</w>
+          <lb n="11"/>
+          <w>Es</w>
+          <w>chlises</w>
+          <w>Fürli</w>
+          <w>,</w>
+          <w>en</w>
+          <w>große</w>
+          <w>Brand</w>
+          <w>!</w>
+        </s>
+        <s n="161" xml:lang="de">
+          <w>»</w>
+          <lb n="12"/>
+          <w>-Worum</w>
+          <w>-</w>
+          <w>?</w>
+        </s>
+        <s n="162" xml:lang="gsw">
+          <pb n="52" facs="104488_052"/>
+          <lb n="1"/>
+          <w>De</w>
+          <w>Nachtzug</w>
+          <lb n="2"/>
+          <w>De</w>
+          <w>Nachtzug</w>
+          <w>rollet</w>
+          <w>übere</w>
+          <w>Damm</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>Lang</w>
+          <w>lang</w>
+          <lb n="4"/>
+          <w>Was</w>
+          <w>händ</w>
+          <w>si</w>
+          <w>ächt</w>
+          <w>wider</w>
+          <w>glade</w>
+          <w>?</w>
+        </s>
+        <s n="163" xml:lang="de">
+          <lb n="5"/>
+          <w>Kanone</w>
+          <w>und</w>
+          <w>Pulver</w>
+          <w>und</w>
+          <w>Maschinegwehr</w>
+          <w>!</w>
+        </s>
+        <s n="164" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Und</w>
+          <w>d</w>
+          <w>Wält</w>
+          <w>git</w>
+          <w>e</w>
+          <w>Höll</w>
+          <w>und</w>
+          <w>de</w>
+          <w>Himel</w>
+          <w>wird</w>
+          <w>leer</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Und</w>
+          <w>dMöntsche</w>
+          <w>müend</w>
+          <w>ufe</w>
+          <w>Schrage</w>
+          <w>.</w>
+        </s>
+        <s n="165" xml:lang="gsw">
+          <lb n="8"/>
+          <w>En</w>
+          <w>Garte</w>
+          <w>voll</w>
+          <w>Rose</w>
+          <w>isch</w>
+          <w>dArde</w>
+          <w>gsi-</w>
+          <lb n="9"/>
+          <w>Verbi</w>
+          <w>-</w>
+          <w>Verbi-</w>
+          <lb n="10"/>
+          <w>Si</w>
+          <w>tüend</w>
+          <w>si</w>
+          <w>verstampfe</w>
+          <w>,</w>
+          <w>verhage</w>
+          <w>.</w>
+        </s>
+        <s n="166" xml:lang="gsw">
+          <lb n="11"/>
+          <w>De</w>
+          <w>Bode</w>
+          <w>rauchnet</w>
+          <w>vom</w>
+          <w>Bluet</w>
+          <w>und</w>
+          <w>Haß</w>
+          <w>,</w>
+          <lb n="12"/>
+          <w>'s</w>
+          <w>isch</w>
+          <w>niene</w>
+          <w>kei</w>
+          <w>Troscht</w>
+          <w>und</w>
+          <w>uf</w>
+          <w>niemer</w>
+          <w>Verlaß</w>
+          <w>,</w>
+          <lb n="13"/>
+          <w>Herrgott</w>
+          <w>,</w>
+          <w>wenn</w>
+          <w>losch</w>
+          <w>es</w>
+          <w>lo</w>
+          <w>tage</w>
+          <w>?</w>
+        </s>
+        <s n="167" xml:lang="gsw">
+          <pb n="53" facs="104488_053"/>
+          <lb n="1"/>
+          <w>Herrgott</w>
+          <lb n="2"/>
+          <w>Keis</w>
+          <w>Eggeli</w>
+          <w>git</w>
+          <w>s</w>
+          <w>meh</w>
+          <w>uf</w>
+          <w>der</w>
+          <w>Wält</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>Wo</w>
+          <w>Fride</w>
+          <w>—</w>
+          <w>n</w>
+          <w>isch</w>
+          <w>und</w>
+          <w>Rue</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Und</w>
+          <w>alles</w>
+          <w>wäge</w>
+          <w>Ruem</w>
+          <w>und</w>
+          <w>Gält</w>
+          <w>!</w>
+        </s>
+        <s n="168" xml:lang="gsw">
+          <lb n="5"/>
+          <w>Herrgott</w>
+          <w>,</w>
+          <w>und</w>
+          <w>du</w>
+          <w>luegsch</w>
+          <w>zue</w>
+          <w>?</w>
+        </s>
+        <s n="169" xml:lang="gsw">
+          <pb n="55" facs="104488_055"/>
+          <lb n="1"/>
+          <w>Zit</w>
+          <w>und</w>
+          <w>Ebigkeit</w>
+          <pb n="56" facs="104488_056"/>
+          <lb n="1"/>
+          <w>e</w>
+          <pb n="57" facs="104488_057"/>
+          <lb n="1"/>
+          <w>Wunder</w>
+          <lb n="2"/>
+          <w>Wenn</w>
+          <w>d</w>
+          <w>Nacht</w>
+          <w>stockärdefeischter</w>
+          <w>isch</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>So</w>
+          <w>tuet</w>
+          <w>s</w>
+          <w>doch</w>
+          <w>wider</w>
+          <w>tage</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Nume</w>
+          <w>mit</w>
+          <w>Chumber</w>
+          <w>und</w>
+          <w>mit</w>
+          <w>Angscht</w>
+          <lb n="5"/>
+          <w>De</w>
+          <w>Himel</w>
+          <w>nid</w>
+          <w>verhage</w>
+          <w>.</w>
+        </s>
+        <s n="170" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Es</w>
+          <w>chönne</w>
+          <w>hüt</w>
+          <w>no</w>
+          <w>Wunder</w>
+          <w>gscheh</w>
+          <lb n="7"/>
+          <w>Jm</w>
+          <w>große</w>
+          <w>Herrgottsgarte</w>
+          <w>.</w>
+        </s>
+        <s n="171" xml:lang="gsw">
+          <lb n="8"/>
+          <w>Eismols</w>
+          <w>göhnd</w>
+          <w>hundert</w>
+          <w>Chnöpfli</w>
+          <w>uf</w>
+          <w>:</w>
+          <lb n="9"/>
+          <w>Muesch</w>
+          <w>nume</w>
+          <w>möge</w>
+          <w>gwarte</w>
+          <w>.</w>
+        </s>
+        <s n="172" xml:lang="gsw">
+          <pb n="58" facs="104488_058"/>
+          <lb n="1"/>
+          <w>Troscht</w>
+          <lb n="2"/>
+          <w>Es</w>
+          <w>het</w>
+          <w>en</w>
+          <w>dicke</w>
+          <w>Näbel</w>
+          <w>gha</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>Mer</w>
+          <w>hätt</w>
+          <w>fascht</w>
+          <w>chönne</w>
+          <w>putsche</w>
+          <w>dra</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Do</w>
+          <w>chunnt</w>
+          <w>uf</w>
+          <w>einisch</w>
+          <w>d</w>
+          <w>Sunne</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>Es</w>
+          <w>heiteret</w>
+          <w>,</w>
+          <w>si</w>
+          <w>het's</w>
+          <w>g'gunne</w>
+          <w>.</w>
+        </s>
+        <s n="173" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Und</w>
+          <w>lisch</w>
+          <w>im</w>
+          <w>Eländ</w>
+          <w>wi</w>
+          <w>im</w>
+          <w>Grab</w>
+          <w>:</w>
+          <lb n="7"/>
+          <w>En</w>
+          <w>Angel</w>
+          <w>welzt</w>
+          <w>de</w>
+          <w>Stei</w>
+          <w>drab</w>
+          <w>ab</w>
+          <w>.</w>
+        </s>
+        <s n="174" xml:lang="gsw">
+          <lb n="8"/>
+          <w>Denn</w>
+          <w>gsehsch</w>
+          <w>uf</w>
+          <w>eimol</w>
+          <w>s</w>
+          <w>Himelblau</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>Und</w>
+          <w>suechsch</w>
+          <w>di</w>
+          <w>Schmärz</w>
+          <w>-</w>
+          <w>wo</w>
+          <w>isch</w>
+          <w>er</w>
+          <w>an</w>
+          <w>?</w>
+        </s>
+        <s n="175" xml:lang="gsw">
+          <pb n="59" facs="104488_059"/>
+          <lb n="1"/>
+          <w>Du</w>
+          <lb n="2"/>
+          <w>Vom</w>
+          <w>Himel</w>
+          <w>rislet</w>
+          <w>Schnee</w>
+          <w>um</w>
+          <w>Schnee</w>
+          <lb n="3"/>
+          <w>Und</w>
+          <w>deckt</w>
+          <w>die</w>
+          <w>grüene</w>
+          <w>Matte</w>
+          <w>zue</w>
+          <w>.</w>
+        </s>
+        <s n="176" xml:lang="gsw">
+          <lb n="4"/>
+          <w>Er</w>
+          <w>wott</w>
+          <w>nüt</w>
+          <w>meh</w>
+          <w>vom</w>
+          <w>Läbe</w>
+          <w>gseh</w>
+          <lb n="5"/>
+          <w>As</w>
+          <w>nume</w>
+          <w>wißi</w>
+          <w>,</w>
+          <w>chalti</w>
+          <w>Rue</w>
+          <w>,</w>
+          <lb n="6"/>
+          <w>As</w>
+          <w>nume</w>
+          <w>Rue</w>
+          <w>.</w>
+        </s>
+        <s n="177" xml:lang="gsw">
+          <lb n="7"/>
+          <w>s</w>
+          <w>Lilache</w>
+          <w>,</w>
+          <w>schwer</w>
+          <w>vom</w>
+          <w>wiße</w>
+          <w>Staub</w>
+          <w>,</w>
+          <lb n="8"/>
+          <w>Lit</w>
+          <w>ufem</w>
+          <w>totestillne</w>
+          <w>Land</w>
+          <w>.</w>
+        </s>
+        <s n="178" xml:lang="gsw">
+          <lb n="9"/>
+          <w>Kei</w>
+          <w>Vogel</w>
+          <w>meh</w>
+          <w>,</w>
+          <w>keis</w>
+          <w>Bluescht</w>
+          <w>,</w>
+          <w>keis</w>
+          <w>Laub</w>
+          <w>.</w>
+        </s>
+        <s n="179" xml:lang="gsw">
+          <lb n="10"/>
+          <w>Gottlob</w>
+          <w>,</w>
+          <w>du</w>
+          <w>läbscht</w>
+          <w>jo</w>
+          <w>.</w>
+        </s>
+        <s n="180" xml:lang="gsw">
+          <w>Gimmer</w>
+          <w>dHand</w>
+          <w>.</w>
+        </s>
+        <s n="181" xml:lang="gsw">
+          <pb n="60" facs="104488_060"/>
+          <lb n="1"/>
+          <w>'s</w>
+          <w>Läbe</w>
+          <lb n="2"/>
+          <w>Mängisch</w>
+          <w>isch</w>
+          <w>s</w>
+          <w>eim</w>
+          <w>,</w>
+          <w>weis</w>
+          <w>nid</w>
+          <w>wie</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>s</w>
+          <w>well</w>
+          <w>kei</w>
+          <w>Wäg</w>
+          <w>und</w>
+          <w>groti</w>
+          <w>nie</w>
+          <w>.</w>
+        </s>
+        <s n="182" xml:lang="gsw">
+          <lb n="4"/>
+          <w>Undereinisch</w>
+          <w>wachst</w>
+          <w>de</w>
+          <w>Muet</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>Und</w>
+          <w>es</w>
+          <w>tribt</w>
+          <w>und</w>
+          <w>singt</w>
+          <w>im</w>
+          <w>Bluet</w>
+          <w>,</w>
+          <lb n="6"/>
+          <w>DWält</w>
+          <w>blüiet</w>
+          <w>wine</w>
+          <w>Rosehag</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>J</w>
+          <w>der</w>
+          <w>Seel</w>
+          <w>wird's</w>
+          <w>wider</w>
+          <w>Tag</w>
+          <w>:</w>
+          <lb n="8"/>
+          <w>So</w>
+          <w>isch</w>
+          <w>s</w>
+          <w>Läbe</w>
+          <w>.</w>
+        </s>
+        <s n="183" xml:lang="gsw">
+          <w>Hi</w>
+          <w>und</w>
+          <w>zrugg</w>
+          <lb n="9"/>
+          <w>Nimmt's</w>
+          <w>eim</w>
+          <w>hübscheli</w>
+          <w>über</w>
+          <w>d</w>
+          <w>Brugg</w>
+          <w>.</w>
+        </s>
+        <s n="184" xml:lang="gsw">
+          <pb n="61" facs="104488_061"/>
+          <lb n="1"/>
+          <w>Jmene</w>
+          <w>Chind</w>
+          <lb n="2"/>
+          <w>Du</w>
+          <w>Wunderbluescht</w>
+          <w>am</w>
+          <w>Läbesbaum</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>Du</w>
+          <w>bisch</w>
+          <w>vom</w>
+          <w>Paredis</w>
+          <w>en</w>
+          <w>Traum</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Du</w>
+          <w>bisch</w>
+          <w>für</w>
+          <w>d'rde</w>
+          <w>en</w>
+          <w>Verspruch</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>En</w>
+          <w>großi</w>
+          <w>Rächnig</w>
+          <w>ohni</w>
+          <w>Bruch</w>
+          <w>,</w>
+          <lb n="6"/>
+          <w>En</w>
+          <w>Sunneschin</w>
+          <w>,</w>
+          <w>es</w>
+          <w>großes</w>
+          <w>Plange</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>En</w>
+          <w>Punkt</w>
+          <w>uf</w>
+          <w>alles</w>
+          <w>,</w>
+          <w>was</w>
+          <w>vergange</w>
+          <w>,</w>
+          <lb n="8"/>
+          <w>Es</w>
+          <w>Morgerot</w>
+          <w>vom</w>
+          <w>neue</w>
+          <w>Tag</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>Es</w>
+          <w>Finkelied</w>
+          <w>vom</w>
+          <w>Schlehehag</w>
+          <w>,</w>
+          <lb n="10"/>
+          <w>En</w>
+          <w>Chumber</w>
+          <w>,</w>
+          <w>wo</w>
+          <w>de</w>
+          <w>Wind</w>
+          <w>verweiht</w>
+          <w>,</w>
+          <lb n="11"/>
+          <w>Es</w>
+          <w>Grüeße</w>
+          <w>us</w>
+          <w>der</w>
+          <w>Ebigkeit</w>
+          <w>.</w>
+        </s>
+        <s n="185" xml:lang="de">
+          <pb n="62" facs="104488_062"/>
+          <lb n="1"/>
+          <w>Ebigs</w>
+          <w>Für</w>
+          <lb n="2"/>
+          <w>s</w>
+          <w>Bluescht</w>
+          <w>verweiht</w>
+          <w>und</w>
+          <w>d</w>
+          <w>Zit</w>
+          <w>verrünnt</w>
+          <w>.</w>
+        </s>
+        <s n="186" xml:lang="gsw">
+          <lb n="3"/>
+          <w>s</w>
+          <w>git</w>
+          <w>es</w>
+          <w>Für</w>
+          <w>wo</w>
+          <w>ebig</w>
+          <w>brünnt</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>s</w>
+          <w>git</w>
+          <w>en</w>
+          <w>Glascht</w>
+          <w>wo</w>
+          <w>nie</w>
+          <w>vergoht</w>
+          <w>:</w>
+          <lb n="5"/>
+          <w>D</w>
+          <w>Liebi</w>
+          <w>zündt</w>
+          <w>no</w>
+          <w>übere</w>
+          <w>Tod</w>
+          <w>.</w>
+        </s>
+        <s n="187" xml:lang="gsw">
+          <pb n="63" facs="104488_063"/>
+          <lb n="1"/>
+          <w>Heiligtage</w>
+          <pb n="65" facs="104488_065"/>
+          <lb n="1"/>
+          <w>Wienecht</w>
+          <lb n="2"/>
+          <w>übers</w>
+          <w>Meer</w>
+          <w>und</w>
+          <w>dur</w>
+          <w>Wüeschtesand</w>
+          <lb n="3"/>
+          <w>Sind</w>
+          <w>si</w>
+          <w>im</w>
+          <w>Liecht</w>
+          <w>no</w>
+          <w>,</w>
+          <w>vom</w>
+          <w>Morgeland</w>
+          <lb n="4"/>
+          <w>Zu</w>
+          <w>urebige</w>
+          <w>Färne</w>
+          <w>:</w>
+          <lb n="5"/>
+          <w>Möntscheseel</w>
+          <w>,</w>
+          <w>folg</w>
+          <w>dine</w>
+          <w>Stärne</w>
+          <w>!</w>
+        </s>
+        <s n="188" xml:lang="gsw">
+          <pb n="66" facs="104488_066"/>
+          <lb n="1"/>
+          <w>Charfritig</w>
+          <lb n="2"/>
+          <w>Mitem</w>
+          <w>Judas</w>
+          <w>foht's</w>
+          <w>Stärben</w>
+          <w>a</w>
+          <w>:</w>
+          <lb n="3"/>
+          <w>Faltschi</w>
+          <w>Liebi</w>
+          <w>isch</w>
+          <w>bitter</w>
+          <w>.</w>
+        </s>
+        <s n="189" xml:lang="gsw">
+          <lb n="4"/>
+          <w>Bluetigi</w>
+          <w>Schmärze</w>
+          <w>vo</w>
+          <w>Golgatha</w>
+          <lb n="5"/>
+          <w>Wärde</w>
+          <w>—</w>
+          <w>n</w>
+          <w>all</w>
+          <w>Tag</w>
+          <w>no</w>
+          <w>erlitte</w>
+          <w>.</w>
+        </s>
+        <s n="190" xml:lang="gsw">
+          <pb n="67" facs="104488_067"/>
+          <lb n="1"/>
+          <w>Oschtere</w>
+          <lb n="2"/>
+          <w>Oschtere</w>
+          <w>,</w>
+          <w>das</w>
+          <w>heißt</w>
+          <w>uferstoh</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>Alles</w>
+          <w>Chrüz</w>
+          <w>dehinde</w>
+          <w>lo</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Alle</w>
+          <w>Tod</w>
+          <w>zum</w>
+          <w>Läbe</w>
+          <w>wecke</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>Lib</w>
+          <w>und</w>
+          <w>Seel</w>
+          <w>gäg</w>
+          <w>d</w>
+          <w>Sunne</w>
+          <w>strecke</w>
+          <w>.</w>
+        </s>
+        <s n="191" xml:lang="gsw">
+          <pb n="68" facs="104488_068"/>
+          <lb n="1"/>
+          <w>Himelfahrt</w>
+          <lb n="2"/>
+          <w>s</w>
+          <w>lot</w>
+          <w>der</w>
+          <w>Liebi</w>
+          <w>im</w>
+          <w>Grab</w>
+          <w>kei</w>
+          <w>Rue</w>
+          <w>.</w>
+        </s>
+        <s n="192" xml:lang="gsw">
+          <lb n="3"/>
+          <w>Us</w>
+          <w>der</w>
+          <w>Angi</w>
+          <w>und</w>
+          <w>Nöchi</w>
+          <lb n="4"/>
+          <w>Ziet's</w>
+          <w>esi</w>
+          <w>obsi</w>
+          <w>de</w>
+          <w>Bärge</w>
+          <w>zue</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>Us</w>
+          <w>der</w>
+          <w>Teufi</w>
+          <w>i</w>
+          <w>d</w>
+          <w>Höchi</w>
+          <w>.</w>
+        </s>
+        <s n="193" xml:lang="de">
+          <pb n="69" facs="104488_069"/>
+          <lb n="1"/>
+          <w>Pfingschte</w>
+          <lb n="2"/>
+          <w>Pfingschte</w>
+          <w>-</w>
+          <w>Wunder</w>
+          <w>,</w>
+          <w>wo</w>
+          <w>Läbe</w>
+          <w>heißt</w>
+          <w>!</w>
+        </s>
+        <s n="194" xml:lang="de">
+          <lb n="3"/>
+          <w>Alles</w>
+          <w>wott</w>
+          <w>wachsen</w>
+          <w>und</w>
+          <w>wärde</w>
+          <w>.</w>
+        </s>
+        <s n="195" xml:lang="gsw">
+          <lb n="4"/>
+          <w>Übere</w>
+          <w>Tod</w>
+          <w>use</w>
+          <w>günnt's</w>
+          <w>de</w>
+          <w>Geischt</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>Er</w>
+          <w>weiht</w>
+          <w>wi</w>
+          <w>—</w>
+          <w>ne</w>
+          <w>Sturm</w>
+          <w>über</w>
+          <w>dArde</w>
+          <w>!</w>
+        </s>
+        <s n="196" xml:lang="gsw">
+          <pb n="70" facs="104488_070"/>
+          <lb n="1"/>
+          <w>Allerseele</w>
+          <lb n="2"/>
+          <w>Allerseele</w>
+          <w>-</w>
+          <w>Heiligi</w>
+          <w>Chlag</w>
+          <w>!</w>
+        </s>
+        <s n="197" xml:lang="de">
+          <lb n="3"/>
+          <w>Allerseele-Ebigkeitstag</w>
+          <w>!</w>
+        </s>
+        <s n="198" xml:lang="gsw">
+          <lb n="4"/>
+          <w>Liebi</w>
+          <w>schafft</w>
+          <w>Wälte</w>
+          <w>us</w>
+          <w>Leid</w>
+          <w>und</w>
+          <w>Not</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>Rose</w>
+          <w>wachse</w>
+          <w>us</w>
+          <w>Grab</w>
+          <w>und</w>
+          <w>Tod</w>
+          <w>.</w>
+        </s>
+        <s n="199" xml:lang="it">
+			
+		</s>
+      </p>
+    </body>
+  </text>
+</TEI>

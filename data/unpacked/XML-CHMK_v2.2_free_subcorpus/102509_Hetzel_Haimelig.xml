@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Haimelig!</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="shelf_mark_idiotikon">Ma. Bs Hetz 2</note>
+        <note type="ocr_source">digital text retrieved through OCR</note>
+        <noteGrp type="dialect_municipality">
+          <note type="name">Stadt Basel</note>
+          <note type="abbr">BsStdt</note>
+          <note type="onch-id">802002701</note>
+        </noteGrp>
+        <noteGrp type="dialect_region">
+          <note type="name">Basel</note>
+          <note type="abbr">Bs</note>
+          <note type="chmk-id">CH-2</note>
+        </noteGrp>
+        <noteGrp type="dialect_canton">
+          <note type="name">Basel-Stadt</note>
+          <note type="chmk-id">BS</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Hetzel, Elisabeth. 1885. Haimelig!: Fir Jung und Alt. Basel: Emil Birkhäuser. https://www.e-helvetica.nb.admin.ch/search?urn=nbdig-7983 (zugegriffen: 10. Februar 2019).</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Haimelig!</title>
+            <title type="subtitle">Fir Jung und Alt</title>
+            <title type="abbreviated">Hetzel Haimelig</title>
+            <author>
+              <idno type="id">20878</idno>
+              <forename>Elisabeth</forename>
+              <surname>Hetzel</surname>
+              <name>Hetzel, Elisabeth</name>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition>1. Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Emil Birkhäuser</publisher>
+            <pubPlace>Basel</pubPlace>
+            <date type="publication_year">1885</date>
+            <date type="first_published">1885</date>
+            <date type="accessed_date">10/02/2019</date>
+            <ref type="target">https://www.e-helvetica.nb.admin.ch/search?urn=nbdig-7983</ref>
+          </publicationStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>102509</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Fraktur</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Prosa</term>
+          <term type="category">Belletristik</term>
+          <term type="formal_description">Erzählunge(n)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="it">
+			
+		</s>
+      </p>
+    </body>
+  </text>
+</TEI>

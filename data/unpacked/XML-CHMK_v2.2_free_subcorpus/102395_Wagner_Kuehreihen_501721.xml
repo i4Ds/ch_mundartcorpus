@@ -1,0 +1,492 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kühreihen der Entlibucher.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="shelf_mark_idiotikon">Ma. B Unsp</note>
+        <note type="artikel_id">501721</note>
+        <note type="ocr_source">digital text retrieved through OCR</note>
+        <noteGrp type="dialect_region">
+          <note type="name">Luzern Entlebuch</note>
+          <note type="abbr">LE., LEntl., LEntleb.</note>
+          <note type="chmk-id">LU-1</note>
+        </noteGrp>
+        <noteGrp type="dialect_region">
+          <note type="name">Fünf Orte</note>
+          <note type="abbr">VO, VOrte</note>
+          <note type="chmk-id">CH-9</note>
+        </noteGrp>
+        <noteGrp type="dialect_region">
+          <note type="name">Vier Waldstätte</note>
+          <note type="abbr">Vw</note>
+          <note type="chmk-id">CH-8</note>
+        </noteGrp>
+        <noteGrp type="dialect_canton">
+          <note type="name">Luzern</note>
+          <note type="chmk-id">LU</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Anonymus. 1805. Kühreihen der Entlibucher.. In: Schweizer-Kühreihen und Schweizer-Küherlieder, hg. von Wagner, Franz Sigmund, 28–29. Bern: Haller. https://www.e-rara.ch/bau_1/doi/10.3931/e-rara-50795 (zugegriffen: 30. September 2019).</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Kühreihen der Entlibucher.</title>
+            <title type="subtitle"/>
+            <title type="abbreviated">Wagner Kühreihen</title>
+            <author>
+              <idno type="id">25983</idno>
+              <surname>Anonymus</surname>
+              <name>Anonymus, Luzern (Entlebuch)</name>
+            </author>
+            <editor role="publisher">Wagner, Franz Sigmund</editor>
+          </titleStmt>
+          <editionStmt>
+            <edition>1. Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Haller</publisher>
+            <pubPlace>Bern</pubPlace>
+            <date type="publication_year">1805</date>
+            <date type="first_published">1805</date>
+            <date type="accessed_date">30/09/2019</date>
+            <ref type="target">https://www.e-rara.ch/bau_1/doi/10.3931/e-rara-50795</ref>
+          </publicationStmt>
+          <seriesStmt>
+            <title>Schweizer-Kühreihen und Schweizer-Küherlieder</title>
+          </seriesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>102395</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Fraktur</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Lyrik (Versform)</term>
+          <term type="category">Belletristik</term>
+          <term type="formal_description">Lyrik</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="de">
+          <pb n="28" facs="102395_028"/>
+          <lb n="1"/>
+          <w>Kühreihen</w>
+          <w>der</w>
+          <w>Entlibucher</w>
+          <w>.</w>
+        </s>
+        <s n="2" xml:lang="gsw">
+          <lb n="2"/>
+          <w>Uese</w>
+          <w>Aetti</w>
+          <w>—</w>
+          <w>bas</w>
+          <w>er</w>
+          <w>tha</w>
+          <w>ti</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>Mit</w>
+          <w>dem</w>
+          <w>Ku</w>
+          <w>hli</w>
+          <w>,</w>
+          <w>—</w>
+          <w>und</w>
+          <w>dem</w>
+          <w>Stuhli</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Vor</w>
+          <w>das</w>
+          <w>ganze</w>
+          <w>La</w>
+          <w>ndli</w>
+          <w>stah</w>
+          <w>!</w>
+        </s>
+        <s n="3" xml:lang="gsw">
+          <lb n="5"/>
+          <w>Er</w>
+          <w>cha</w>
+          <w>Ku</w>
+          <w>beli</w>
+          <w>Bra</w>
+          <w>ntli</w>
+          <w>mache</w>
+          <w>,</w>
+          <lb n="6"/>
+          <w>s</w>
+          <w>braucht</w>
+          <w>e</w>
+          <w>Ma</w>
+          <w>zu</w>
+          <w>solige</w>
+          <w>Sache</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>My</w>
+          <w>Aett</w>
+          <w>isch</w>
+          <w>gar</w>
+          <w>ne</w>
+          <w>brafe</w>
+          <w>Ma</w>
+          <w>,</w>
+          <lb n="8"/>
+          <w>Wie</w>
+          <w>me</w>
+          <w>keine</w>
+          <w>finde</w>
+          <w>cha</w>
+          <w>.</w>
+        </s>
+        <s n="4" xml:lang="gsw">
+          <lb n="9"/>
+          <w>Jsch</w>
+          <w>nit</w>
+          <w>alte</w>
+          <w>,</w>
+          <w>cha</w>
+          <w>Holz</w>
+          <w>spalte</w>
+          <w>,</w>
+          <lb n="10"/>
+          <w>Schrybe</w>
+          <w>,</w>
+          <w>la</w>
+          <w>se</w>
+          <w>und</w>
+          <w>das</w>
+          <w>Wa</w>
+          <w>se</w>
+          <w>,</w>
+          <lb n="11"/>
+          <w>Jsch</w>
+          <w>ne</w>
+          <w>gar</w>
+          <w>g'studierte</w>
+          <w>Ma</w>
+          <w>!</w>
+        </s>
+        <s n="5" xml:lang="gsw">
+          <lb n="12"/>
+          <w>Cho</w>
+          <w>nti</w>
+          <w>so</w>
+          <w>wie</w>
+          <w>my</w>
+          <w>Aetti</w>
+          <w>schryben</w>
+          <w>,</w>
+          <lb n="13"/>
+          <w>Lang</w>
+          <w>wett</w>
+          <w>i</w>
+          <w>nit</w>
+          <w>me</w>
+          <w>ledig</w>
+          <w>biyben</w>
+          <w>,</w>
+          <lb n="14"/>
+          <w>So</w>
+          <w>wi</w>
+          <w>der</w>
+          <w>Aetti</w>
+          <w>wettis</w>
+          <w>ha</w>
+          <w>,</w>
+          <lb n="15"/>
+          <w>Smu</w>
+          <w>ßt</w>
+          <w>mer</w>
+          <w>endli</w>
+          <w>o</w>
+          <w>gut</w>
+          <w>gah</w>
+          <w>!</w>
+        </s>
+        <s n="6" xml:lang="gsw">
+          <lb n="16"/>
+          <w>Bub</w>
+          <w>nimm</w>
+          <w>sBra</w>
+          <w>ntli</w>
+          <w>,</w>
+          <w>gang</w>
+          <w>jez</w>
+          <w>endli</w>
+          <w>,</w>
+          <lb n="17"/>
+          <w>Rimm</w>
+          <w>d's</w>
+          <w>schwarz</w>
+          <w>Kuhli</w>
+          <w>,</w>
+          <w>trybs</w>
+          <w>zum</w>
+          <w>Uhli</w>
+          <w>,</w>
+          <lb n="18"/>
+          <w>Du</w>
+          <w>must</w>
+          <w>aber</w>
+          <w>tugli</w>
+          <w>thu</w>
+          <w>!</w>
+        </s>
+        <s n="7" xml:lang="gsw">
+          <lb n="19"/>
+          <w>s</w>
+          <w>thuts</w>
+          <w>gar</w>
+          <w>brenne</w>
+          <w>,</w>
+          <w>es</w>
+          <w>thuts</w>
+          <w>gar</w>
+          <w>sta</w>
+          <w>che</w>
+          <w>,</w>
+          <lb n="20"/>
+          <w>s'Ueterli</w>
+          <w>will</w>
+          <w>ihm</w>
+          <w>schier</w>
+          <w>zerbrache</w>
+          <w>,</w>
+          <lb n="21"/>
+          <w>Es</w>
+          <w>lydet</w>
+          <w>notti</w>
+          <w>o</w>
+          <w>so</w>
+          <w>gun</w>
+          <w>!</w>
+        </s>
+        <s n="8" xml:lang="gsw">
+          <lb n="22"/>
+          <w>Hab</w>
+          <w>mer</w>
+          <w>ja</w>
+          <w>fry</w>
+          <w>Sorg</w>
+          <w>derzu</w>
+          <w>.</w>
+        </s>
+        <s n="9" xml:lang="gsw">
+          <pb n="29" facs="102395_029"/>
+          <lb n="1"/>
+          <w>Bub</w>
+          <w>chum</w>
+          <w>abe</w>
+          <w>us</w>
+          <w>em</w>
+          <w>Gade</w>
+          <w>,</w>
+          <lb n="2"/>
+          <w>Must</w>
+          <w>mer</w>
+          <w>jez</w>
+          <w>'sFusterli</w>
+          <w>mache</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>D</w>
+          <w>Milch</w>
+          <w>und</w>
+          <w>d'Nidle</w>
+          <w>dryne</w>
+          <w>zthu</w>
+          <w>.</w>
+        </s>
+        <s n="10" xml:lang="gsw">
+          <lb n="4"/>
+          <w>U</w>
+          <w>wenn</w>
+          <w>des</w>
+          <w>recht</w>
+          <w>chast</w>
+          <w>z'same</w>
+          <w>trybe</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>So</w>
+          <w>will</w>
+          <w>di</w>
+          <w>de</w>
+          <w>o</w>
+          <w>lasse</w>
+          <w>wybe</w>
+          <w>,</w>
+          <lb n="6"/>
+          <w>Du</w>
+          <w>hest</w>
+          <w>mer</w>
+          <w>viel</w>
+          <w>ze</w>
+          <w>s'hizigs</w>
+          <w>Blut</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Thust</w>
+          <w>mer</w>
+          <w>notti</w>
+          <w>nit</w>
+          <w>me</w>
+          <w>gut</w>
+          <w>.</w>
+        </s>
+        <s n="11" xml:lang="gsw">
+          <lb n="8"/>
+          <w>Aetti</w>
+          <w>ney</w>
+          <w>—</w>
+          <w>will's</w>
+          <w>no</w>
+          <w>la</w>
+          <w>blybe</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>Will</w>
+          <w>fur</w>
+          <w>einist</w>
+          <w>no</w>
+          <w>nit</w>
+          <w>wybe</w>
+          <w>,</w>
+          <lb n="10"/>
+          <w>Will</w>
+          <w>no</w>
+          <w>nit</w>
+          <w>zum</w>
+          <w>Pfarrer</w>
+          <w>gah</w>
+          <w>;</w>
+          <lb n="11"/>
+          <w>DBube</w>
+          <w>su</w>
+          <w>st</w>
+          <w>mer</w>
+          <w>de</w>
+          <w>alli</w>
+          <w>säge</w>
+          <w>,</w>
+          <lb n="12"/>
+          <w>Muß</w>
+          <w>es</w>
+          <w>Wiegeli</w>
+          <w>zuehe</w>
+          <w>lege</w>
+          <w>,</w>
+          <lb n="13"/>
+          <w>Jmu</w>
+          <w>ßi</w>
+          <w>no</w>
+          <w>zum</w>
+          <w>Pfarrer</w>
+          <w>gah</w>
+          <w>,</w>
+          <lb n="14"/>
+          <w>Daß</w>
+          <w>er</w>
+          <w>mi</w>
+          <w>well</w>
+          <w>wybe</w>
+          <w>lah</w>
+          <w>.</w>
+        </s>
+        <s n="12" xml:lang="gsw">
+          <lb n="15"/>
+          <w>Hie</w>
+          <w>vom</w>
+          <w>Gade</w>
+          <w>,</w>
+          <w>grad</w>
+          <w>vor</w>
+          <w>abe</w>
+          <w>,</w>
+          <lb n="16"/>
+          <w>Vo</w>
+          <w>mym</w>
+          <w>Stühli</w>
+          <w>,</w>
+          <w>grad</w>
+          <w>vor</w>
+          <w>use</w>
+          <w>,</w>
+          <lb n="17"/>
+          <w>Luegi</w>
+          <w>dort</w>
+          <w>mym</w>
+          <w>Lieb'li</w>
+          <w>zu</w>
+          <w>:</w>
+          <lb n="18"/>
+          <w>'s</w>
+          <w>thut</w>
+          <w>mer</w>
+          <w>gar</w>
+          <w>chlyni</w>
+          <w>Aeugli</w>
+          <w>mache</w>
+          <w>,</w>
+          <lb n="19"/>
+          <w>s</w>
+          <w>thut</w>
+          <w>mer</w>
+          <w>gar</w>
+          <w>fru</w>
+          <w>ntli</w>
+          <w>—</w>
+          <w>fruntli</w>
+          <w>lache</w>
+          <w>;</w>
+          <lb n="20"/>
+          <w>Bin</w>
+          <w>i</w>
+          <w>scho</w>
+          <w>nume</w>
+          <w>sAettis</w>
+          <w>Bub</w>
+          <w>,</w>
+          <lb n="21"/>
+          <w>Deich</w>
+          <w>my</w>
+          <w>Theil</w>
+          <w>,</w>
+          <w>u</w>
+          <w>lach</w>
+          <w>dezu</w>
+          <w>!</w>
+        </s>
+        <s n="13" xml:lang="it">
+			
+		</s>
+      </p>
+    </body>
+  </text>
+</TEI>

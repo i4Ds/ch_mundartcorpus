@@ -1,0 +1,1135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Der Omisäger</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="ocr_source">digital text retrieved through OCR</note>
+        <noteGrp type="dialect_region">
+          <note type="name">Appenzell</note>
+          <note type="abbr">Ap</note>
+          <note type="chmk-id">CH-1</note>
+        </noteGrp>
+        <noteGrp type="dialect_canton">
+          <note type="name">Appenzell Innerrhoden</note>
+          <note type="chmk-id">AI</note>
+        </noteGrp>
+        <noteGrp type="dialect_canton">
+          <note type="name">Appenzell Ausserrhoden</note>
+          <note type="chmk-id">AR</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Tobler, Alfred. 1905. Der Omisäger: Alte Parodie einer Leichenbitterformel im Appenzellischen Kurzenberger Dialekt.. In: Schweizerisches Archiv für Volkskunde, hg. von Schweizerische Gesellschaft für Volkskunde, 9:313–314. Zürich: Druck von Juchli &amp; Beck. https://www.e-periodica.ch/digbib/view?pid=sav-001%3A1905%3A9#349 (zugegriffen: 9. Juni 2021).</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Der Omisäger</title>
+            <title type="subtitle">Alte Parodie einer Leichenbitterformel im Appenzellischen Kurzenberger Dialekt.</title>
+            <title type="abbreviated">Tobler Omisäger</title>
+            <author>
+              <idno type="id">21236</idno>
+              <forename>Alfred</forename>
+              <surname>Tobler</surname>
+              <name>Tobler, Alfred</name>
+            </author>
+            <editor role="publisher">Schweizerische Gesellschaft für Volkskunde</editor>
+          </titleStmt>
+          <editionStmt>
+            <edition>1. Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Druck von Juchli &amp; Beck</publisher>
+            <pubPlace>Zürich</pubPlace>
+            <date type="publication_year">1905</date>
+            <date type="first_published">1905</date>
+            <date type="accessed_date">09/06/2021</date>
+            <ref type="target">https://www.e-periodica.ch/digbib/view?pid=sav-001%3A1905%3A9#349</ref>
+          </publicationStmt>
+          <seriesStmt>
+            <title>Schweizerisches Archiv für Volkskunde</title>
+            <biblScope>Band 9</biblScope>
+          </seriesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>105834</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Antiqua</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Prosa</term>
+          <term type="category">journalistischer Text</term>
+          <term type="formal_description">Zeitschrift</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="de">
+          <pb n="313" facs="105834_313"/>
+          <lb n="1"/>
+          <w>Miszellen</w>
+          <w>.</w>
+        </s>
+        <s n="2" xml:lang="gsw">
+          <w>—</w>
+          <w>Mëlanges</w>
+          <w>.</w>
+        </s>
+        <s n="3" xml:lang="de">
+          <lb n="2"/>
+          <w>313</w>
+          <lb n="3"/>
+          <w>siebenziger</w>
+          <w>Jahren</w>
+          <w>des</w>
+          <w>vorigen</w>
+          <w>Jahrhunderts</w>
+          <w>üblich</w>
+          <w>,</w>
+          <w>wurden</w>
+          <w>dann</w>
+          <lb n="4"/>
+          <w>aber</w>
+          <w>durch</w>
+          <w>eine</w>
+          <w>Andacht</w>
+          <w>ersetzt</w>
+          <w>und</w>
+          <w>zwar</w>
+          <w>in</w>
+          <w>der</w>
+          <w>Weise</w>
+          <w>,</w>
+          <w>dass</w>
+          <lb n="5"/>
+          <w>jeden</w>
+          <w>Sonntag</w>
+          <w>Abend</w>
+          <w>im</w>
+          <w>Schulhause</w>
+          <w>gemeinschaftlich</w>
+          <w>ein</w>
+          <w>Rosenkranz</w>
+          <lb n="6" type="sh" ana="Rosen-kranz"/>
+          <w>gebetet</w>
+          <w>wird</w>
+          <w>.</w>
+        </s>
+        <s n="4" xml:lang="de">
+          <w>Der</w>
+          <w>Flurumgang</w>
+          <w>wurde</w>
+          <w>im</w>
+          <w>Sommer</w>
+          <w>abgehalten</w>
+          <lb n="7" type="sh" ana="abge-halten"/>
+          <w>,</w>
+          <w>jeden</w>
+          <w>Monat</w>
+          <w>einmal</w>
+          <w>,</w>
+          <w>jedesmal</w>
+          <w>an</w>
+          <w>einem</w>
+          <w>Sonntag</w>
+          <w>.</w>
+        </s>
+        <s n="5" xml:lang="gsw">
+          <w>Der</w>
+          <lb n="8"/>
+          <w>Weg</w>
+          <w>,</w>
+          <w>der</w>
+          <w>dabei</w>
+          <w>eingeschlagen</w>
+          <w>wurde</w>
+          <w>,</w>
+          <w>war</w>
+          <w>aber</w>
+          <w>nicht</w>
+          <w>jedesmal</w>
+          <lb n="9"/>
+          <w>der</w>
+          <w>gleiche</w>
+          <w>:</w>
+          <w>vielmehr</w>
+          <w>zog</w>
+          <w>die</w>
+          <w>Prozession</w>
+          <w>an</w>
+          <w>diesem</w>
+          <w>Sonntag</w>
+          <lb n="10"/>
+          <w>dahin</w>
+          <w>,</w>
+          <w>an</w>
+          <w>einem</w>
+          <w>andern</w>
+          <w>dorthin</w>
+          <w>.</w>
+        </s>
+        <s n="6" xml:lang="gsw">
+          <w>Es</w>
+          <w>war</w>
+          <w>eher</w>
+          <w>eine</w>
+          <w>Art</w>
+          <w>Zelgumgang</w>
+          <lb n="11" type="sh" ana="Zelgum-gang"/>
+          <w>.</w>
+          <w>Dem</w>
+          <w>Zuge</w>
+          <w>der</w>
+          <w>Betenden</w>
+          <w>wurde</w>
+          <w>stets</w>
+          <w>ein</w>
+          <w>Fähnchen</w>
+          <w>vorangetragen</w>
+          <lb n="12" type="sh" ana="vor-angetragen"/>
+          <w>.</w>
+          <lb n="13"/>
+          <w>Anglikon</w>
+          <w>geht</w>
+          <w>vom</w>
+          <w>,</w>
+          <w>Heiligchrüztag</w>
+          <w>»</w>
+          <w>(</w>
+          <w>3</w>
+          <w>.</w>
+        </s>
+        <s n="7" xml:lang="de">
+          <w>Mai</w>
+          <w>)</w>
+          <w>bis</w>
+          <w>zur</w>
+          <w>Ernte</w>
+          <lb n="14"/>
+          <w>jeden</w>
+          <w>Sonntag</w>
+          <w>Nachmittag</w>
+          <w>um</w>
+          <w>,</w>
+          <w>und</w>
+          <w>es</w>
+          <w>können</w>
+          <w>während</w>
+          <w>der</w>
+          <lb n="15"/>
+          <w>Dauer</w>
+          <w>der</w>
+          <w>Prozession</w>
+          <w>zwei</w>
+          <w>Rosenkränze</w>
+          <w>gebetet</w>
+          <w>werden</w>
+          <w>.</w>
+        </s>
+        <s n="8" xml:lang="de">
+          <w>Bei</w>
+          <lb n="16"/>
+          <w>ungünstigem</w>
+          <w>Wetter</w>
+          <w>unterbleibt</w>
+          <w>der</w>
+          <w>,</w>
+          <w>Umgang</w>
+          <w>»</w>
+          <w>.</w>
+        </s>
+        <s n="9" xml:lang="de">
+          <lb n="17"/>
+          <w>Unterlunkhofen</w>
+          <w>endlich</w>
+          <w>veranstaltet</w>
+          <w>ebenfalls</w>
+          <w>den</w>
+          <w>Sommer</w>
+          <lb n="18"/>
+          <w>hindurch</w>
+          <w>,</w>
+          <w>d</w>
+          <w>.</w>
+        </s>
+        <s n="10" xml:lang="gsw">
+          <w>h</w>
+          <w>.</w>
+        </s>
+        <s n="11" xml:lang="de">
+          <w>vom</w>
+          <w>ersten</w>
+          <w>Sonntag</w>
+          <w>im</w>
+          <w>Juni</w>
+          <w>bis</w>
+          <w>zum</w>
+          <w>Rosenkranzfest</w>
+          <lb n="19" type="sh" ana="Rosenkranz-fest"/>
+          <w>(</w>
+          <w>1</w>
+          <w>.</w>
+        </s>
+        <s n="12" xml:lang="gsw">
+          <w>Sonntag</w>
+          <w>im</w>
+          <w>Oktober</w>
+          <w>)</w>
+          <w>jeden</w>
+          <w>Sonntag</w>
+          <w>,</w>
+          <w>jeweilen</w>
+          <w>abends</w>
+          <w>,</w>
+          <lb n="20"/>
+          <w>einen</w>
+          <w>besondern</w>
+          <w>Bittgang</w>
+          <w>um</w>
+          <w>einen</w>
+          <w>'eil</w>
+          <w>des</w>
+          <w>Dorfes</w>
+          <w>herum</w>
+          <w>,</w>
+          <w>mit</w>
+          <lb n="21"/>
+          <w>Kreuz</w>
+          <w>und</w>
+          <w>Fahuen</w>
+          <w>an</w>
+          <w>der</w>
+          <w>Spitze</w>
+          <w>.</w>
+        </s>
+        <s n="13" xml:lang="de">
+          <w>Die</w>
+          <w>Dauer</w>
+          <w>der</w>
+          <w>Prozession</w>
+          <lb n="22"/>
+          <w>beträgt</w>
+          <w>etwa</w>
+          <w>eine</w>
+          <w>halbe</w>
+          <w>Stunde</w>
+          <w>,</w>
+          <w>und</w>
+          <w>es</w>
+          <w>wird</w>
+          <w>während</w>
+          <w>derselben</w>
+          <lb n="23"/>
+          <w>bloss</w>
+          <w>ein</w>
+          <w>Rosenkranz</w>
+          <w>gebetet</w>
+          <w>.</w>
+        </s>
+        <s n="14" xml:lang="de">
+          <lb n="24"/>
+          <w>Miszellen</w>
+          <w>.</w>
+        </s>
+        <s n="15" xml:lang="gsw">
+          <w>—</w>
+          <w>Mëlanges</w>
+          <w>.</w>
+        </s>
+        <s n="16" xml:lang="gsw">
+          <lb n="25"/>
+          <w>Der</w>
+          <w>Omisäger</w>
+          <w>.</w>
+        </s>
+        <s n="17" xml:lang="de">
+          <lb n="26"/>
+          <w>(</w>
+          <w>Alte</w>
+          <w>Parodie</w>
+          <w>einer</w>
+          <w>Leichenbitterformel</w>
+          <w>im</w>
+          <w>Appenzellischen</w>
+          <w>Kurzenberger</w>
+          <lb n="27"/>
+          <w>Dialekt</w>
+          <w>.</w>
+        </s>
+        <s n="18" xml:lang="gsw">
+          <w>)</w>
+          <lb n="28"/>
+          <w>I</w>
+          <w>wüüsch-i</w>
+          <w>en</w>
+          <w>guette</w>
+          <w>Tag</w>
+          <w>;</w>
+          <w>geb-i</w>
+          <w>Gott</w>
+          <w>!</w>
+        </s>
+        <s n="19" xml:lang="gsw">
+          <w>—</w>
+          <w>Fässlesch</w>
+          <w>Haness</w>
+          <w>ischt</w>
+          <lb n="29"/>
+          <w>gstoorbe</w>
+          <w>.</w>
+        </s>
+        <s n="20" xml:lang="gsw">
+          <w>D'Schwöschter</w>
+          <w>Saara</w>
+          <w>sälig</w>
+          <w>,</w>
+          <w>wo</w>
+          <w>no</w>
+          <w>lippt</w>
+          <w>[</w>
+          <w>lebt</w>
+          <w>]</w>
+          <w>,</w>
+          <w>'s</w>
+          <w>Wyb</w>
+          <w>und</w>
+          <w>beidi</w>
+          <lb n="30"/>
+          <w>Chend</w>
+          <w>,</w>
+          <w>de</w>
+          <w>Vetter</w>
+          <w>Tebes</w>
+          <w>'lobias</w>
+          <w>]</w>
+          <w>im</w>
+          <w>Chräätobl</w>
+          <w>ond</w>
+          <w>d'Doratee</w>
+          <w>[</w>
+          <w>Dorothea</w>
+          <w>]</w>
+          <w>i</w>
+          <w>de</w>
+          <lb n="31"/>
+          <w>Sale</w>
+          <w>[</w>
+          <w>Gegend</w>
+          <w>bei</w>
+          <w>Heiden</w>
+          <w>]</w>
+          <w>,</w>
+          <w>diä</w>
+          <w>Here</w>
+          <w>Voorsteher</w>
+          <w>i-de</w>
+          <w>Grueb</w>
+          <w>[</w>
+          <w>Ort</w>
+          <w>bei</w>
+          <w>Heiden</w>
+          <w>]</w>
+          <lb n="32"/>
+          <w>do</w>
+          <w>Fux</w>
+          <w>ond</w>
+          <w>de</w>
+          <w>Haas</w>
+          <w>,</w>
+          <w>de</w>
+          <w>Karinaalvogel</w>
+          <w>Kanarienvogel</w>
+          <w>]</w>
+          <w>,</w>
+          <w>älf</w>
+          <w>Ienne-n-ond</w>
+          <w>de</w>
+          <lb n="33"/>
+          <w>Gügerler</w>
+          <w>[</w>
+          <w>lahn</w>
+          <w>]</w>
+          <w>losid</w>
+          <w>bitte</w>
+          <w>,</w>
+          <w>dem</w>
+          <w>verstoorbene</w>
+          <w>Fässler</w>
+          <w>die</w>
+          <w>letscht</w>
+          <w>Ehr</w>
+          <w>z'</w>
+          <w>erwyse</w>
+          <lb n="34" type="sh" ana="er-wyse"/>
+          <w>.</w>
+          <w>Gsangbüecher</w>
+          <w>moond-'r</w>
+          <w>kani</w>
+          <w>mitneh</w>
+          <w>,</w>
+          <w>aber</w>
+          <w>langi</w>
+          <w>Tschööpe</w>
+          <w>[</w>
+          <w>Fräcke</w>
+          <w>]</w>
+          <w>.</w>
+        </s>
+        <s n="21" xml:lang="gsw">
+          <lb n="35"/>
+          <w>Dehenne</w>
+          <w>[</w>
+          <w>hinten</w>
+          <w>in</w>
+          <w>der</w>
+          <w>Kirche</w>
+          <w>]</w>
+          <w>tod-me</w>
+          <w>Zäh</w>
+          <w>klappe</w>
+          <w>,</w>
+          <w>im</w>
+          <w>Füärägoh</w>
+          <w>[</w>
+          <w>Vorgehen</w>
+          <lb n="36"/>
+          <w>gegen</w>
+          <w>das</w>
+          <w>Chor</w>
+          <w>]</w>
+          <w>tod-me</w>
+          <w>hüüneulen</w>
+          <w>]</w>
+          <w>.</w>
+        </s>
+        <s n="22" xml:lang="gsw">
+          <w>Es</w>
+          <w>werd</w>
+          <w>e</w>
+          <w>tondesch-e</w>
+          <w>wackeri</w>
+          <lb n="37"/>
+          <w>Prei</w>
+          <w>[</w>
+          <w>Predigt</w>
+          <w>]</w>
+          <w>gee</w>
+          <w>.</w>
+        </s>
+        <s n="23" xml:lang="gsw">
+          <w>De</w>
+          <w>Lyb</w>
+          <w>ond</w>
+          <w>de</w>
+          <w>Grend</w>
+          <w>wäärid</w>
+          <w>no</w>
+          <w>guett</w>
+          <w>am-m'r</w>
+          <w>ich</w>
+          <pb n="314" facs="105834_314"/>
+          <lb n="1"/>
+          <w>Miszellen</w>
+          <w>.</w>
+        </s>
+        <s n="24" xml:lang="gsw">
+          <w>—</w>
+          <w>Mölanges</w>
+          <w>.</w>
+        </s>
+        <s n="25" xml:lang="gsw">
+          <lb n="2"/>
+          <w>314</w>
+          <lb n="3"/>
+          <w>wäre</w>
+          <w>noch</w>
+          <w>tauglich</w>
+          <w>an</w>
+          <w>Leib</w>
+          <w>und</w>
+          <w>Kopf</w>
+          <w>für</w>
+          <w>den</w>
+          <w>Laufberuf</w>
+          <w>eines</w>
+          <w>Leichenbitters</w>
+          <lb n="4" type="sh" ana="Leichen-bitters"/>
+          <w>]</w>
+          <w>,</w>
+          <w>aber</w>
+          <w>d'Bää</w>
+          <w>sönd</w>
+          <w>känn</w>
+          <w>Strohl</w>
+          <w>meh</w>
+          <w>werth</w>
+          <w>.</w>
+        </s>
+        <s n="26" xml:lang="gsw">
+          <w>—</w>
+          <w>I</w>
+          <w>wöösch-i</w>
+          <w>Allsame-n-e</w>
+          <lb n="5"/>
+          <w>ruesammi</w>
+          <w>Nacht</w>
+          <w>.</w>
+        </s>
+        <s n="27" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Wolfh</w>
+          <w>ald</w>
+          <w>en</w>
+          <w>.</w>
+        </s>
+        <s n="28" xml:lang="de">
+          <lb n="7"/>
+          <w>Alfr</w>
+          <w>.</w>
+        </s>
+        <s n="29" xml:lang="en">
+          <w>Tobler</w>
+          <w>.</w>
+        </s>
+        <s n="30" xml:lang="gsw">
+          <lb n="8"/>
+          <w>Zu</w>
+          <w>den</w>
+          <w>Knahenschaften</w>
+          <w>.</w>
+        </s>
+        <s n="31" xml:lang="de">
+          <lb n="9"/>
+          <w>Ein</w>
+          <w>historisches</w>
+          <w>Dokument</w>
+          <w>zu</w>
+          <w>dem</w>
+          <w>von</w>
+          <w>Herrn</w>
+          <w>Prof</w>
+          <w>.</w>
+        </s>
+        <s n="32" xml:lang="de">
+          <w>Dr</w>
+          <w>.</w>
+        </s>
+        <s n="33" xml:lang="gsw">
+          <w>E</w>
+          <w>.</w>
+        </s>
+        <s n="34" xml:lang="de">
+          <w>Hoffmann-</w>
+          <lb n="10"/>
+          <w>Krayer</w>
+          <w>nachgewiesenen</w>
+          <w>Horvortreten</w>
+          <w>der</w>
+          <w>Knabenschaften</w>
+          <w>bei</w>
+          <w>geschiehtlichen</w>
+          <lb n="11"/>
+          <w>Ereignissen</w>
+          <w>und</w>
+          <w>Feiern</w>
+          <w>bildet</w>
+          <w>der</w>
+          <w>jedenfalls</w>
+          <w>sehr</w>
+          <w>alte</w>
+          <w>Spruch</w>
+          <w>,</w>
+          <w>der</w>
+          <w>an</w>
+          <w>der</w>
+          <lb n="12"/>
+          <w>St</w>
+          <w>.</w>
+        </s>
+        <s n="35" xml:lang="de">
+          <w>Annakapelle</w>
+          <w>beim</w>
+          <w>bekannten</w>
+          <w>Ahorn</w>
+          <w>zu</w>
+          <w>Truns</w>
+          <w>,</w>
+          <w>wo</w>
+          <w>1424</w>
+          <w>der</w>
+          <w>Graue</w>
+          <w>Bund</w>
+          <lb n="13"/>
+          <w>beschworen</w>
+          <w>wurde</w>
+          <w>,</w>
+          <w>angeschrieben</w>
+          <w>steht</w>
+          <w>und</w>
+          <w>sich</w>
+          <w>auf</w>
+          <w>die</w>
+          <w>früher</w>
+          <w>alle</w>
+          <w>20</w>
+          <w>Jahre</w>
+          <lb n="14"/>
+          <w>erfolgte</w>
+          <w>Erneuerung</w>
+          <w>des</w>
+          <w>Bundes</w>
+          <w>bezieht</w>
+          <w>.</w>
+        </s>
+        <s n="36" xml:lang="gsw">
+          <w>Er</w>
+          <w>lautet</w>
+          <w>:</w>
+          <lb n="15"/>
+          <w>All</w>
+          <w>locken</w>
+          <w>liess</w>
+          <w>man</w>
+          <w>läuten</w>
+          <w>,</w>
+          <lb n="16"/>
+          <w>Den</w>
+          <w>Akt</w>
+          <w>zu</w>
+          <w>machen</w>
+          <w>kund</w>
+          <lb n="17"/>
+          <w>Die</w>
+          <w>Kn</w>
+          <w>a</w>
+          <w>b</w>
+          <w>en</w>
+          <w>schaft</w>
+          <w>begleiten</w>
+          <lb n="18"/>
+          <w>Mit</w>
+          <w>Gwehr</w>
+          <w>den</w>
+          <w>hohen</w>
+          <w>Bund</w>
+          <w>,</w>
+          <lb n="19"/>
+          <w>Indess</w>
+          <w>die</w>
+          <w>Mörser</w>
+          <w>knallen</w>
+          <w>,</w>
+          <lb n="20"/>
+          <w>Ertönt</w>
+          <w>der</w>
+          <w>Widerhall</w>
+          <lb n="21"/>
+          <w>So</w>
+          <w>wird</w>
+          <w>das</w>
+          <w>Fest</w>
+          <w>gefeiert</w>
+          <lb n="22"/>
+          <w>Und</w>
+          <w>neuerdings</w>
+          <w>vollbracht</w>
+          <w>,</w>
+          <lb n="23"/>
+          <w>Der</w>
+          <w>Bundeschwur</w>
+          <w>erneuert</w>
+          <lb n="24"/>
+          <w>Und</w>
+          <w>'s</w>
+          <w>Bündnis</w>
+          <w>fester</w>
+          <w>gmacht</w>
+          <w>.</w>
+        </s>
+        <s n="37" xml:lang="de">
+          <lb n="25"/>
+          <w>ete</w>
+          <w>.</w>
+        </s>
+        <s n="38" xml:lang="de">
+          <lb n="26"/>
+          <w>Dr</w>
+          <w>.</w>
+        </s>
+        <s n="39" xml:lang="de">
+          <w>Ernst</w>
+          <w>Buss</w>
+          <w>.</w>
+        </s>
+        <s n="40" xml:lang="gsw">
+          <lb n="27"/>
+          <w>Glar</w>
+          <w>u</w>
+          <w>s</w>
+          <w>.</w>
+        </s>
+        <s n="41" xml:lang="de">
+          <lb n="28"/>
+          <w>Abergläubische</w>
+          <w>Kirchweihsitte</w>
+          <w>im</w>
+          <w>Kloster</w>
+          <w>Rheinau</w>
+          <w>.</w>
+        </s>
+        <s n="42" xml:lang="de">
+          <lb n="29"/>
+          <w>Am</w>
+          <w>Vorabend</w>
+          <w>der</w>
+          <w>Kirchweihe</w>
+          <w>läutete</w>
+          <w>man</w>
+          <w>zur</w>
+          <w>Vesper</w>
+          <w>und</w>
+          <w>begann</w>
+          <lb n="30"/>
+          <w>'1</w>
+          <w>,</w>
+          <w>3</w>
+          <w>Uhr</w>
+          <w>den</w>
+          <w>Psalmengesang</w>
+          <w>.</w>
+        </s>
+        <s n="43" xml:lang="gsw">
+          <w>Nach</w>
+          <w>dem</w>
+          <w>Benedicamus</w>
+          <w>gingen</w>
+          <w>die</w>
+          <w>Mönche</w>
+          <w>unter</w>
+          <lb n="31"/>
+          <w>Vorantragung</w>
+          <w>von</w>
+          <w>Fahne</w>
+          <w>und</w>
+          <w>Kreuz</w>
+          <w>in</w>
+          <w>Prozession</w>
+          <w>mit</w>
+          <w>Kerzen</w>
+          <w>und</w>
+          <w>Inzens</w>
+          <lb n="32"/>
+          <w>durch</w>
+          <w>die</w>
+          <w>Kirche</w>
+          <w>zu</w>
+          <w>einem</w>
+          <w>jeden</w>
+          <w>Altar</w>
+          <w>des</w>
+          <w>obern</w>
+          <w>und</w>
+          <w>untern</w>
+          <w>Chores</w>
+          <w>und</w>
+          <lb n="33"/>
+          <w>sangen</w>
+          <w>dort</w>
+          <w>Antiphon</w>
+          <w>,</w>
+          <w>Versikel</w>
+          <w>und</w>
+          <w>Oration</w>
+          <w>zu</w>
+          <w>Ehren</w>
+          <w>jener</w>
+          <w>Heiligen</w>
+          <w>,</w>
+          <w>denen</w>
+          <lb n="34"/>
+          <w>der</w>
+          <w>betreffende</w>
+          <w>Altar</w>
+          <w>geweiht</w>
+          <w>war</w>
+          <w>.</w>
+        </s>
+        <s n="44" xml:lang="de">
+          <w>Der</w>
+          <w>Text</w>
+          <w>ist</w>
+          <w>uns</w>
+          <w>samt</w>
+          <w>Gesang</w>
+          <w>im</w>
+          <w>Cantarium</w>
+          <lb n="35" type="sh" ana="Can-tarium"/>
+          <w>Rhenoviense</w>
+          <w>(</w>
+          <w>Handschrift</w>
+          <w>757</w>
+          <w>der</w>
+          <w>Stiftsbibl</w>
+          <w>.</w>
+        </s>
+        <s n="45" xml:lang="de">
+          <w>Einsiedeln</w>
+          <w>)</w>
+          <w>noch</w>
+          <w>erhalten</w>
+          <w>.</w>
+        </s>
+        <s n="46" xml:lang="de">
+          <w>Die</w>
+          <lb n="36"/>
+          <w>Reihenfolge</w>
+          <w>der</w>
+          <w>Altäre</w>
+          <w>war</w>
+          <w>diese</w>
+          <w>:</w>
+        </s>
+        <s n="47" xml:lang="de">
+          <w>St</w>
+          <w>.</w>
+        </s>
+        <s n="48" xml:lang="gsw">
+          <w>Benedikt</w>
+          <w>,</w>
+          <w>St</w>
+          <w>.</w>
+        </s>
+        <s n="49" xml:lang="gsw">
+          <w>Blasius</w>
+          <w>,</w>
+          <w>St</w>
+          <w>.</w>
+        </s>
+        <s n="50" xml:lang="de">
+          <w>Nikolaus</w>
+          <w>,</w>
+          <w>Kreuzaltar</w>
+          <lb n="37" type="sh" ana="Kreuz-altar"/>
+          <w>,</w>
+          <w>eine</w>
+          <w>Station</w>
+          <w>in</w>
+          <w>der</w>
+          <w>Mitte</w>
+          <w>der</w>
+          <w>Kirche</w>
+          <w>,</w>
+          <w>Altar</w>
+          <w>der</w>
+          <w>hl</w>
+          <w>.</w>
+        </s>
+        <s n="51" xml:lang="de">
+          <w>Jungfrauen</w>
+          <w>,</w>
+          <w>St</w>
+          <w>.</w>
+        </s>
+        <s n="52" xml:lang="gsw">
+          <w>Findan</w>
+          <w>,</w>
+          <lb n="38"/>
+          <w>Apostelaltar</w>
+          <w>.</w>
+        </s>
+        <s n="53" xml:lang="de">
+          <w>Überall</w>
+          <w>wurde</w>
+          <w>vom</w>
+          <w>Abt</w>
+          <w>geräuchert</w>
+          <w>.</w>
+        </s>
+        <s n="54" xml:lang="de">
+          <w>Zuletzt</w>
+          <w>kehrte</w>
+          <w>die</w>
+          <w>rozession</w>
+          <lb n="39" type="sh" ana="ro-zession"/>
+          <w>an</w>
+          <w>den</w>
+          <w>Hochalter</w>
+          <w>zurück</w>
+          <w>,</w>
+          <w>wo</w>
+          <w>das</w>
+          <w>Volk</w>
+          <w>gesegnet</w>
+          <w>und</w>
+          <w>das</w>
+          <w>Salve</w>
+          <lb n="40"/>
+          <w>Regina</w>
+          <w>gesungen</w>
+          <w>wurde</w>
+          <w>.</w>
+        </s>
+        <s n="55" xml:lang="de">
+          <w>Weil</w>
+          <w>diese</w>
+          <w>Prozession</w>
+          <w>durch</w>
+          <w>keinerlei</w>
+          <w>liturgische</w>
+          <lb n="41"/>
+          <w>Vorschrift</w>
+          <w>begründet</w>
+          <w>und</w>
+          <w>wohl</w>
+          <w>auch</w>
+          <w>sonst</w>
+          <w>nirgends</w>
+          <w>in</w>
+          <w>Übung</w>
+          <w>war</w>
+          <w>,</w>
+          <w>wurde</w>
+          <lb n="42"/>
+          <w>sie</w>
+          <w>vermutlich</w>
+          <w>bei</w>
+          <w>Anlass</w>
+          <w>der</w>
+          <w>Visitation</w>
+          <w>von</w>
+          <w>1613</w>
+          <w>unterdrückt</w>
+          <w>.</w>
+        </s>
+        <s n="56" xml:lang="gsw">
+          <w>'</w>
+          <w>)</w>
+          <lb n="43"/>
+          <w>Während</w>
+          <w>der</w>
+          <w>gemeldeten</w>
+          <w>Sitte</w>
+          <w>,</w>
+          <w>trotzdem</w>
+          <w>sie</w>
+          <w>nicht</w>
+          <w>liturgisch</w>
+          <w>gewesen</w>
+          <w>,</w>
+          <lb n="44"/>
+          <w>nichts</w>
+          <w>abergläubisches</w>
+          <w>anhaftete</w>
+          <w>,</w>
+          <w>sondern</w>
+          <w>ihr</w>
+          <w>eigentlich</w>
+          <w>eine</w>
+          <w>sehr</w>
+          <w>schöne</w>
+          <lb n="45"/>
+          <w>religiöse</w>
+          <w>Idee</w>
+          <w>zu</w>
+          <w>Gruude</w>
+          <w>lag</w>
+          <w>,</w>
+          <w>kann</w>
+          <w>das</w>
+          <w>Gleiche</w>
+          <w>von</w>
+          <w>einer</w>
+          <w>andern</w>
+          <w>alten</w>
+          <w>Kirchweihprozession</w>
+          <lb n="46" type="sh" ana="Kirch-weihprozession"/>
+          <w>nicht</w>
+          <w>behauptet</w>
+          <w>werden</w>
+          <w>,</w>
+          <w>Man</w>
+          <w>ging</w>
+          <w>in</w>
+          <w>der</w>
+          <w>Kirche</w>
+          <w>umher</w>
+          <w>,</w>
+          <w>an</w>
+          <w>der</w>
+          <lb n="47"/>
+          <w>geschlossenen</w>
+          <w>Türe</w>
+          <w>aber</w>
+          <w>hing</w>
+          <w>an</w>
+          <w>einer</w>
+          <w>Schnur</w>
+          <w>ein</w>
+          <w>La</w>
+          <w>ch</w>
+          <w>s</w>
+          <w>.</w>
+        </s>
+        <s n="57" xml:lang="gsw">
+          <w>Zappelte</w>
+          <w>er</w>
+          <w>,</w>
+          <lb n="48"/>
+          <w>'</w>
+          <w>)</w>
+          <w>Custodia</w>
+          <w>,</w>
+          <w>C</w>
+          <w>I</w>
+          <w>,</w>
+          <w>Tomus</w>
+          <w>I</w>
+          <w>,</w>
+          <w>pag</w>
+          <w>.</w>
+        </s>
+        <s n="58" xml:lang="gsw">
+          <w>34</w>
+          <w>H</w>
+          <w>.</w>
+        </s>
+        <s n="59" xml:lang="de">
+          <w>Stiftsbibl</w>
+          <w>.</w>
+        </s>
+        <s n="60" xml:lang="it">
+          <w>Einsiedeln</w>
+          <w>.</w>
+        </s>
+        <s n="61" xml:lang="gsw">
+          <w>R</w>
+          <w>812</w>
+          <w>.</w>
+        </s>
+        <s n="62" xml:lang="it">
+			
+		</s>
+      </p>
+    </body>
+  </text>
+</TEI>

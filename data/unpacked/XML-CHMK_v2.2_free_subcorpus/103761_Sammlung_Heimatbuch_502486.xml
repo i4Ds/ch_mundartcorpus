@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Alpemorge</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="shelf_mark_idiotikon">Ma. Ap Rot 2</note>
+        <note type="artikel_id">502486</note>
+        <note type="ocr_source">digital text retrieved through OCR</note>
+        <noteGrp type="dialect_canton">
+          <note type="name">Appenzell Innerrhoden</note>
+          <note type="chmk-id">AI</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Fitze, Jean. 1927. Alpemorge. In: Heimatbuch für junge Appenzeller: Eine Sammlung heimatlicher Lesestoffe für Schule und Haus, hg. von Landesschulkommission von Appenzell Ausserrhoden, 23. Herisau.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Alpemorge</title>
+            <title type="subtitle"/>
+            <title type="abbreviated">Sammlung Heimatbuch</title>
+            <author>
+              <idno type="id">26311</idno>
+              <forename>Jean</forename>
+              <surname>Fitze</surname>
+              <name>Fitze, Jean</name>
+            </author>
+            <editor role="publisher">Landesschulkommission von Appenzell Ausserrhoden</editor>
+          </titleStmt>
+          <editionStmt>
+            <edition>1. Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>unbekannt/unpubliziert</publisher>
+            <pubPlace>Herisau</pubPlace>
+            <date type="publication_year">1927</date>
+            <date type="first_published">1927</date>
+          </publicationStmt>
+          <seriesStmt>
+            <title>Heimatbuch für junge Appenzeller: Eine Sammlung heimatlicher Lesestoffe für Schule und Haus</title>
+          </seriesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>103761</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Antiqua</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Lyrik (Versform)</term>
+          <term type="category">Keine der oben genannten</term>
+          <term type="formal_description">Schulbuch</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="de">
+          <pb n="23" facs="103761_023_502486"/>
+          <lb n="1"/>
+          <w>Alpemorge</w>
+          <w>.</w>
+        </s>
+        <s n="2" xml:lang="gsw">
+          <lb n="2"/>
+          <w>Mi</w>
+          <w>Alp</w>
+          <w>schloft</w>
+          <w>all</w>
+          <w>no</w>
+          <w>wie</w>
+          <w>im</w>
+          <w>Tromm</w>
+          <lb n="3"/>
+          <w>Ond</w>
+          <w>cha</w>
+          <w>schier</w>
+          <w>nüd</w>
+          <w>verwache</w>
+          <w>!</w>
+        </s>
+        <s n="3" xml:lang="gsw">
+          <lb n="4"/>
+          <w>Ond</w>
+          <w>sfille-n-isch</w>
+          <w>no</w>
+          <w>omm</w>
+          <w>ond</w>
+          <w>omm</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>Ke</w>
+          <w>Jüchsli</w>
+          <w>ghörscht</w>
+          <w>,</w>
+          <w>ke</w>
+          <w>Lache</w>
+          <w>.</w>
+        </s>
+        <s n="4" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Wie</w>
+          <w>rüebig</w>
+          <w>isch</w>
+          <w>i</w>
+          <w>Fels</w>
+          <w>ond</w>
+          <w>Grond</w>
+          <w>!</w>
+        </s>
+        <s n="5" xml:lang="gsw">
+          <lb n="7"/>
+          <w>Es</w>
+          <w>wartet</w>
+          <w>alls</w>
+          <w>of</w>
+          <w>d'Morgestond</w>
+          <w>.</w>
+        </s>
+        <s n="6" xml:lang="gsw">
+          <lb n="8"/>
+          <w>Jetz</w>
+          <w>tuet</w>
+          <w>de</w>
+          <w>Wald</w>
+          <w>en</w>
+          <w>große</w>
+          <w>Schnuuf</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>Mueß</w>
+          <w>mit</w>
+          <w>em</w>
+          <w>Schlof</w>
+          <w>no</w>
+          <w>ringe</w>
+          <w>.</w>
+        </s>
+        <s n="7" xml:lang="gsw">
+          <lb n="10"/>
+          <w>E</w>
+          <w>Finkli</w>
+          <w>rüeft</w>
+          <w>ond</w>
+          <w>wachet</w>
+          <w>uf</w>
+          <lb n="11"/>
+          <w>Ond</w>
+          <w>will</w>
+          <w>e</w>
+          <w>Liedli</w>
+          <w>singe</w>
+          <w>:</w>
+          <lb n="12"/>
+          <w>Wach</w>
+          <w>uf</w>
+          <w>,</w>
+          <w>wach</w>
+          <w>uf</w>
+          <w>,</w>
+          <w>du</w>
+          <w>Alpewelt</w>
+          <w>!</w>
+        </s>
+        <s n="8" xml:lang="gsw">
+          <lb n="13"/>
+          <w>Wenn</w>
+          <w>d'Sonne</w>
+          <w>chont</w>
+          <w>ond's</w>
+          <w>rings</w>
+          <w>omme</w>
+          <w>hellt</w>
+          <w>.</w>
+        </s>
+        <s n="9" xml:lang="gsw">
+          <lb n="14"/>
+          <w>Of</w>
+          <w>emol</w>
+          <w>blitzt</w>
+          <w>en</w>
+          <w>Sonnestrahl</w>
+          <lb n="15"/>
+          <w>Am</w>
+          <w>Säntisgipfel</w>
+          <w>obe</w>
+          <w>,</w>
+          <lb n="16"/>
+          <w>Ond</w>
+          <w>d'Nebel</w>
+          <w>flüchet</w>
+          <w>fort</w>
+          <w>is</w>
+          <w>Tal</w>
+          <w>,</w>
+          <lb n="17"/>
+          <w>Es</w>
+          <w>liidef's</w>
+          <w>nomme</w>
+          <w>dobe</w>
+          <w>.</w>
+        </s>
+        <s n="10" xml:lang="gsw">
+          <lb n="18"/>
+          <w>Mi</w>
+          <w>Alp</w>
+          <w>ischt</w>
+          <w>endli</w>
+          <w>au</w>
+          <w>verwacht</w>
+          <lb n="19"/>
+          <w>Im</w>
+          <w>Sonneschii</w>
+          <w>ond</w>
+          <w>lacht</w>
+          <w>—</w>
+          <w>ond</w>
+          <w>lacht</w>
+          <w>.</w>
+        </s>
+        <s n="11" xml:lang="de">
+          <lb n="20"/>
+          <w>J</w>
+          <w>.</w>
+        </s>
+        <s n="12" xml:lang="de">
+          <w>Fitze</w>
+          <w>.</w>
+        </s>
+        <s n="13" xml:lang="it">
+			
+		</s>
+      </p>
+    </body>
+  </text>
+</TEI>

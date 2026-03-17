@@ -1,0 +1,385 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>'S Liedli vom zfredene Thurgauer</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="artikel_id">501660</note>
+        <note type="ocr_source">digital text copied from pdf source</note>
+        <noteGrp type="dialect_municipality">
+          <note type="name">Ermatingen</note>
+          <note type="abbr">ThErm., ThErmat.</note>
+          <note type="onch-id">802004646</note>
+        </noteGrp>
+        <noteGrp type="dialect_region">
+          <note type="name">Thurgau Untersee</note>
+          <note type="abbr">ThUSee</note>
+          <note type="chmk-id">TG-4</note>
+        </noteGrp>
+        <noteGrp type="dialect_region">
+          <note type="name">Bodensee</note>
+          <note type="chmk-id">CH-3</note>
+        </noteGrp>
+        <noteGrp type="dialect_region">
+          <note type="name">Seerücken</note>
+          <note type="chmk-id">TG-7</note>
+        </noteGrp>
+        <noteGrp type="dialect_canton">
+          <note type="name">Thurgau</note>
+          <note type="chmk-id">TG</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Nägeli, Otto. 2014. 'S Liedli vom zfredene Thurgauer. In: Thurgauer Mundart in Geschichte und Gegenwart, hg. von Graf, Martin Hannes, 5:85. 2., überarbeitete und erweiterte Auflage. Bern: Schweizerische Akademie der Geistes- und Sozialwissenschaften. https://www.idiotikon.ch/Texte/Graf/Thurgauer_Mundart_low.pdf (zugegriffen: 16. November 2021).</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">'S Liedli vom zfredene Thurgauer</title>
+            <title type="subtitle"/>
+            <title type="abbreviated">Sammlung Mundart</title>
+            <author>
+              <idno type="id">21056</idno>
+              <forename>Otto</forename>
+              <surname>Nägeli</surname>
+              <name>Nägeli, Otto</name>
+            </author>
+            <editor role="publisher">Graf, Martin Hannes</editor>
+          </titleStmt>
+          <editionStmt>
+            <edition>2., überarbeitete und erweiterte Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Schweizerische Akademie der Geistes- und Sozialwissenschaften</publisher>
+            <pubPlace>Bern</pubPlace>
+            <date type="publication_year">2014</date>
+            <date type="accessed_date">16/11/2021</date>
+            <ref type="target">https://www.idiotikon.ch/Texte/Graf/Thurgauer_Mundart_low.pdf</ref>
+          </publicationStmt>
+          <seriesStmt>
+            <title>Thurgauer Mundart in Geschichte und Gegenwart</title>
+            <biblScope>Band 5</biblScope>
+          </seriesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>105748</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Antiqua</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Lyrik (Versform)</term>
+          <term type="category">Belletristik</term>
+          <term type="formal_description">Erzählunge(n)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="gsw">
+          <pb n="85" facs="105748_085"/>
+          <lb n="1"/>
+          <w>'S</w>
+          <w>Liedli</w>
+          <w>vom</w>
+          <w>zfredene</w>
+          <w>Thurgauer</w>
+          <lb n="2"/>
+          <w>De</w>
+          <w>Thurgi</w>
+          <w>ist</w>
+          <w>e</w>
+          <w>prächtigs</w>
+          <w>Land</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>Glaub's</w>
+          <w>no</w>
+          <w>,</w>
+          <w>sol</w>
+          <w>wer</w>
+          <w>i</w>
+          <w>taub</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Ond</w>
+          <w>wänn's</w>
+          <w>vil</w>
+          <w>Wy</w>
+          <w>ond</w>
+          <w>Öpfel</w>
+          <w>get</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>So</w>
+          <w>häm-mer</w>
+          <w>Gält</w>
+          <w>wie</w>
+          <w>Laub</w>
+          <w>.</w>
+        </s>
+        <s n="2" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Zwor</w>
+          <w>goht's</w>
+          <w>halt</w>
+          <w>o</w>
+          <w>ned</w>
+          <w>all</w>
+          <w>eso</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Mer</w>
+          <w>send</w>
+          <w>ned</w>
+          <w>arm</w>
+          <w>,</w>
+          <w>ned</w>
+          <w>rych</w>
+          <w>;</w>
+          <lb n="8"/>
+          <w>Mer</w>
+          <w>hand</w>
+          <w>so</w>
+          <w>,</w>
+          <w>wa</w>
+          <w>me</w>
+          <w>nötig</w>
+          <w>bruucht</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>Doch</w>
+          <w>zfrede</w>
+          <w>sem-mer</w>
+          <w>glych</w>
+          <w>.</w>
+        </s>
+        <s n="3" xml:lang="gsw">
+          <lb n="10"/>
+          <w>E</w>
+          <w>bravi</w>
+          <w>Frau</w>
+          <w>ond</w>
+          <w>liebi</w>
+          <w>Chend</w>
+          <w>,</w>
+          <lb n="11"/>
+          <w>E</w>
+          <w>Huus</w>
+          <w>ned</w>
+          <w>z'</w>
+          <w>groß</w>
+          <w>,</w>
+          <w>ned</w>
+          <w>z'</w>
+          <w>chly</w>
+          <w>,</w>
+          <lb n="12"/>
+          <w>Ond</w>
+          <w>z'</w>
+          <w>schaffe</w>
+          <w>gnueg</w>
+          <w>.</w>
+        </s>
+        <s n="4" xml:lang="gsw">
+          <w>Do</w>
+          <w>cha</w>
+          <w>me</w>
+          <w>jo</w>
+          <lb n="13"/>
+          <w>Wol</w>
+          <w>glücklech</w>
+          <w>si</w>
+          <w>deby</w>
+          <w>.</w>
+        </s>
+        <s n="5" xml:lang="gsw">
+          <lb n="14"/>
+          <w>Ond</w>
+          <w>hät</w>
+          <w>me</w>
+          <w>dänn</w>
+          <w>de</w>
+          <w>ganze</w>
+          <w>Tag</w>
+          <lb n="15"/>
+          <w>Rächt</w>
+          <w>gschafft</w>
+          <w>vo</w>
+          <w>früeh</w>
+          <w>bis</w>
+          <w>spot</w>
+          <w>,</w>
+          <lb n="16"/>
+          <w>So</w>
+          <w>sitzt</w>
+          <w>me</w>
+          <w>z'</w>
+          <w>Obed</w>
+          <w>uf</w>
+          <w>de</w>
+          <w>Bank</w>
+          <lb n="17"/>
+          <w>Vor</w>
+          <w>'s</w>
+          <w>Huus</w>
+          <w>,</w>
+          <w>im</w>
+          <w>Obedrot</w>
+          <w>.</w>
+        </s>
+        <s n="6" xml:lang="gsw">
+          <lb n="18"/>
+          <w>Luegt</w>
+          <w>,</w>
+          <w>wie</w>
+          <w>de</w>
+          <w>Säntis</w>
+          <w>z'</w>
+          <w>allerletst</w>
+          <lb n="19"/>
+          <w>No</w>
+          <w>grüezt</w>
+          <w>zom</w>
+          <w>Thurgi</w>
+          <w>här</w>
+          <lb n="20"/>
+          <w>Mit</w>
+          <w>some</w>
+          <w>glüehig-rote</w>
+          <w>Chopf</w>
+          <w>,</w>
+          <lb n="21"/>
+          <w>Als</w>
+          <w>öb</w>
+          <w>'s</w>
+          <w>sys</w>
+          <w>Brüütli</w>
+          <w>wär</w>
+          <w>.</w>
+        </s>
+        <s n="7" xml:lang="gsw">
+          <lb n="22"/>
+          <w>Er</w>
+          <w>fänd</w>
+          <w>o</w>
+          <w>sicher</w>
+          <w>wyt</w>
+          <w>omhär</w>
+          <lb n="23"/>
+          <w>Ka</w>
+          <w>brävers</w>
+          <w>,</w>
+          <w>schöners</w>
+          <w>meh</w>
+          <w>;</w>
+          <lb n="24"/>
+          <w>Da</w>
+          <w>wyst</w>
+          <w>em</w>
+          <w>jo</w>
+          <w>de</w>
+          <w>Spiegel</w>
+          <w>scho</w>
+          <w>,</w>
+          <lb n="25"/>
+          <w>De</w>
+          <w>glitzrig</w>
+          <w>Bodesee</w>
+          <w>.</w>
+        </s>
+        <s n="8" xml:lang="gsw">
+          <lb n="26"/>
+          <w>Ond</w>
+          <w>glaubsch</w>
+          <w>es</w>
+          <w>ned</w>
+          <w>,</w>
+          <w>so</w>
+          <w>chomm</w>
+          <w>im</w>
+          <w>Mäi</w>
+          <lb n="27"/>
+          <w>I's</w>
+          <w>Bluest</w>
+          <w>,</w>
+          <w>so</w>
+          <w>wyß</w>
+          <w>wie</w>
+          <w>Schnee</w>
+          <w>,</w>
+          <lb n="28"/>
+          <w>Was</w>
+          <w>gelt's</w>
+          <w>,</w>
+          <w>du</w>
+          <w>gest</w>
+          <w>dänn</w>
+          <w>sälber</w>
+          <w>zue</w>
+          <w>,</w>
+          <lb n="29"/>
+          <w>Es</w>
+          <w>chönn</w>
+          <w>nünt</w>
+          <w>Schöners</w>
+          <w>ge</w>
+          <w>!</w>
+        </s>
+        <s n="9" xml:lang="gsw">
+          <lb n="30"/>
+          <w>Drom</w>
+          <w>isch</w>
+          <w>'s</w>
+          <w>mer</w>
+          <w>o</w>
+          <w>vil</w>
+          <w>lieber</w>
+          <w>jo</w>
+          <lb n="31"/>
+          <w>Als</w>
+          <w>Hüüffe</w>
+          <w>Guet</w>
+          <w>ond</w>
+          <w>Gält</w>
+          <w>;</w>
+          <lb n="32"/>
+          <w>Chorzom</w>
+          <w>,</w>
+          <w>my</w>
+          <w>Ländli</w>
+          <w>gäb</w>
+          <w>i</w>
+          <w>ned</w>
+          <lb n="33"/>
+          <w>Om</w>
+          <w>alles</w>
+          <w>i</w>
+          <w>der</w>
+          <w>Wält</w>
+          <w>!</w>
+        </s>
+        <s n="10" xml:lang="it">
+			
+		</s>
+      </p>
+    </body>
+  </text>
+</TEI>

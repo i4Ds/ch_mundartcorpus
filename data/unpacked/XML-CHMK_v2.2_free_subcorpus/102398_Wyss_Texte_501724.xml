@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Appenzeller-Lied.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="shelf_mark_idiotikon">Ma. B (JR)Wyss 3</note>
+        <note type="artikel_id">501724</note>
+        <note type="ocr_source">digital text retrieved through OCR</note>
+        <noteGrp type="dialect_region">
+          <note type="name">Appenzell</note>
+          <note type="abbr">Ap</note>
+          <note type="chmk-id">CH-1</note>
+        </noteGrp>
+        <noteGrp type="dialect_canton">
+          <note type="name">Appenzell Innerrhoden</note>
+          <note type="chmk-id">AI</note>
+        </noteGrp>
+        <noteGrp type="dialect_canton">
+          <note type="name">Appenzell Ausserrhoden</note>
+          <note type="chmk-id">AR</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Anonymus. 1826. Appenzeller-Lied.. In: Texte zu der Sammlung von Schweizer-Kühreihen und Volksliedern, hg. von Wyss, Johann Rudolf, 79. 4., viel vermehrte und verbesserte Ausgabe. Bern: Joh. Jak. Burgdorfer. https://www.e-helvetica.nb.admin.ch/view/nbdig-10096!urn%3Anbn%3Ach%3Anbdig-10096%3Anbdig-10096.pdf?q=&amp;v=all&amp;urn=nbdig-10096&amp;start=0&amp;rows=20&amp;sort=score%20desc%2C%20ehs_urn_id%20asc (zugegriffen: 16. November 2021).</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Appenzeller-Lied.</title>
+            <title type="subtitle"/>
+            <title type="abbreviated">Wyss Texte</title>
+            <author>
+              <idno type="id">24825</idno>
+              <surname>Anonymus</surname>
+              <name>Anonymus, Appenzell</name>
+            </author>
+            <editor role="publisher">Wyss, Johann Rudolf</editor>
+          </titleStmt>
+          <editionStmt>
+            <edition>4., viel vermehrte und verbesserte Ausgabe</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Joh. Jak. Burgdorfer</publisher>
+            <pubPlace>Bern</pubPlace>
+            <date type="publication_year">1826</date>
+            <date type="first_published">1818</date>
+            <date type="accessed_date">16/11/2021</date>
+            <ref type="target">https://www.e-helvetica.nb.admin.ch/view/nbdig-10096!urn%3Anbn%3Ach%3Anbdig-10096%3Anbdig-10096.pdf?q=&amp;v=all&amp;urn=nbdig-10096&amp;start=0&amp;rows=20&amp;sort=score%20desc%2C%20ehs_urn_id%20asc</ref>
+          </publicationStmt>
+          <seriesStmt>
+            <title>Texte zu der Sammlung von Schweizer-Kühreihen und Volksliedern</title>
+          </seriesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>102398</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Fraktur</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Lyrik (Versform)</term>
+          <term type="category">Belletristik</term>
+          <term type="formal_description">Lieder</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="de">
+          <pb n="79" facs="102398_079_501724"/>
+          <lb n="1"/>
+          <w>Appenzeller-Lied</w>
+          <w>.</w>
+        </s>
+        <s n="2" xml:lang="gsw">
+          <lb n="2"/>
+          <w>c</w>
+          <lb n="3"/>
+          <w>in</w>
+          <w>i</w>
+          <w>nit</w>
+          <w>e</w>
+          <w>lustige</w>
+          <w>Schwyzer-Bue</w>
+          <w>?</w>
+        </s>
+        <s n="3" xml:lang="gsw">
+          <lb n="4"/>
+          <w>Bin</w>
+          <w>i</w>
+          <w>nit</w>
+          <w>e</w>
+          <w>lustige</w>
+          <w>Bue</w>
+          <w>?</w>
+        </s>
+        <s n="4" xml:lang="gsw">
+          <lb n="5"/>
+          <w>Do</w>
+          <w>nimm</w>
+          <w>i</w>
+          <w>mei</w>
+          <w>Dauseli</w>
+          <w>und</w>
+          <w>mei</w>
+          <w>Brenteli</w>
+          <w>,</w>
+          <lb n="6"/>
+          <w>Und</w>
+          <w>dann</w>
+          <w>geh</w>
+          <w>i</w>
+          <w>zu</w>
+          <w>meim</w>
+          <w>Senteli</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Und</w>
+          <w>do</w>
+          <w>mill</w>
+          <w>i</w>
+          <w>,</w>
+          <w>mill</w>
+          <w>i</w>
+          <w>glei</w>
+          <w>mei</w>
+          <w>Chneh</w>
+          <w>.</w>
+        </s>
+        <s n="5" xml:lang="gsw">
+          <lb n="8"/>
+          <w>Bin</w>
+          <w>i</w>
+          <w>nit</w>
+          <w>e</w>
+          <w>lustige</w>
+          <w>Bue</w>
+          <w>?</w>
+        </s>
+        <s n="6" xml:lang="gsw">
+          <lb n="9"/>
+          <w>Bin</w>
+          <w>i</w>
+          <w>nit</w>
+          <w>e</w>
+          <w>lustige</w>
+          <w>Bue</w>
+          <w>?</w>
+        </s>
+        <s n="7" xml:lang="gsw">
+          <lb n="10"/>
+          <w>Jodldo</w>
+          <w>zc</w>
+          <w>.</w>
+        </s>
+        <s n="8" xml:lang="it">
+			
+		</s>
+      </p>
+    </body>
+  </text>
+</TEI>

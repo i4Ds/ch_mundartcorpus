@@ -1,0 +1,439 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Alpenblumen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="shelf_mark_idiotikon">Ma. Bs Gey</note>
+        <note type="ocr_source">digital text retrieved through OCR</note>
+        <noteGrp type="dialect_municipality">
+          <note type="name">Küssnacht</note>
+          <note type="abbr">SchwKü., SchwKüssn.</note>
+          <note type="onch-id">802001331</note>
+        </noteGrp>
+        <noteGrp type="dialect_region">
+          <note type="name">Vierwaldstättersee</note>
+          <note type="abbr">VwSee</note>
+          <note type="chmk-id">CH-5</note>
+        </noteGrp>
+        <noteGrp type="dialect_region">
+          <note type="name">Fünf Orte</note>
+          <note type="abbr">VO, VOrte</note>
+          <note type="chmk-id">CH-9</note>
+        </noteGrp>
+        <noteGrp type="dialect_region">
+          <note type="name">Vier Waldstätte</note>
+          <note type="abbr">Vw</note>
+          <note type="chmk-id">CH-8</note>
+        </noteGrp>
+        <noteGrp type="dialect_region">
+          <note type="name">Drei Waldstätte</note>
+          <note type="abbr">Wst</note>
+          <note type="chmk-id">CH-7</note>
+        </noteGrp>
+        <noteGrp type="dialect_canton">
+          <note type="name">Schwyz</note>
+          <note type="chmk-id">SZ</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Geyer, Agnes Emerita. 1813. Alpenblumen. Basel: Samuel Flick Verlag. https://www.e-rara.ch/zut/content/titleinfo/7901348 (zugegriffen: 12. Juli 2021).</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Alpenblumen</title>
+            <title type="subtitle"/>
+            <title type="abbreviated">Geyer Alpenblumen</title>
+            <author>
+              <idno type="id">20833</idno>
+              <forename>Agnes Emerita</forename>
+              <surname>Geyer</surname>
+              <name>Geyer, Agnes Emerita</name>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition>1. Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Samuel Flick Verlag</publisher>
+            <pubPlace>Basel</pubPlace>
+            <date type="publication_year">1813</date>
+            <date type="first_published">1813</date>
+            <date type="accessed_date">12/07/2021</date>
+            <ref type="target">https://www.e-rara.ch/zut/content/titleinfo/7901348</ref>
+          </publicationStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>102505</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Fraktur</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Lyrik (Versform)</term>
+          <term type="category">Belletristik</term>
+          <term type="formal_description">Lyrik</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="gsw">
+          <pb n="43" facs="102505_043"/>
+          <lb n="1"/>
+          <w>Mänzi</w>
+          <w>und</w>
+          <w>Bethi</w>
+          <w>.</w>
+        </s>
+        <s n="2" xml:lang="gsw">
+          <lb n="2"/>
+          <w>Jm</w>
+          <w>Dialekt</w>
+          <w>von</w>
+          <w>Küßnacht</w>
+          <w>,</w>
+          <w>Kanton</w>
+          <w>Schwytz</w>
+          <w>.</w>
+        </s>
+        <s n="3" xml:lang="gsw">
+          <lb n="3"/>
+          <w>4ächtig</w>
+          <w>bin</w>
+          <w>i</w>
+          <w>bynem</w>
+          <w>gsy</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>S</w>
+          <w>ist</w>
+          <w>mer</w>
+          <w>äbe</w>
+          <w>gru</w>
+          <w>sli</w>
+          <w>fry</w>
+          <w>.</w>
+        </s>
+        <s n="4" xml:lang="gsw">
+          <lb n="5"/>
+          <w>Mänge</w>
+          <w>meynt</w>
+          <w>,</w>
+          <w>es</w>
+          <w>sys</w>
+          <w>my</w>
+          <w>G'spusä</w>
+          <w>,</w>
+          <lb n="6"/>
+          <w>Thätit</w>
+          <w>gäre</w>
+          <w>zsämmen</w>
+          <w>husa</w>
+          <w>—</w>
+          <lb n="7"/>
+          <w>Bis</w>
+          <w>am</w>
+          <w>Lanzig</w>
+          <w>chönts</w>
+          <w>es</w>
+          <w>gä</w>
+          <w>,</w>
+          <lb n="8"/>
+          <w>Ließ</w>
+          <w>mers</w>
+          <w>sälber</w>
+          <w>nüme</w>
+          <w>nä</w>
+          <w>.</w>
+        </s>
+        <s n="5" xml:lang="gsw">
+          <lb n="9"/>
+          <w>Spinne</w>
+          <w>chas</w>
+          <w>verflummert</w>
+          <w>fin</w>
+          <w>;</w>
+          <lb n="10"/>
+          <w>S'</w>
+          <w>trüllet</w>
+          <w>wie</w>
+          <w>ne</w>
+          <w>Wätterspinn</w>
+          <w>;</w>
+          <lb n="11"/>
+          <w>S'</w>
+          <w>blinzlet</w>
+          <w>näbed</w>
+          <w>Chunkle</w>
+          <w>durä</w>
+          <w>,</w>
+          <lb n="12"/>
+          <w>Und</w>
+          <w>lad's</w>
+          <w>Rädli</w>
+          <w>zwürig</w>
+          <w>schnurä</w>
+          <w>;</w>
+          <lb n="13"/>
+          <w>Das</w>
+          <w>bedüdet</w>
+          <w>:</w>
+        </s>
+        <s n="6" xml:lang="gsw">
+          <w>Mänzi</w>
+          <w>gang</w>
+          <w>!</w>
+        </s>
+        <s n="7" xml:lang="gsw">
+          <lb n="14"/>
+          <w>Blybst</w>
+          <w>mer</w>
+          <w>aber</w>
+          <w>wieder</w>
+          <w>z'lang</w>
+          <w>.</w>
+        </s>
+        <s n="8" xml:lang="gsw">
+          <lb n="15"/>
+          <w>S'</w>
+          <w>wär</w>
+          <w>sust</w>
+          <w>arigs</w>
+          <w>,</w>
+          <w>zwar</w>
+          <w>nid</w>
+          <w>rich</w>
+          <w>;</w>
+          <lb n="16"/>
+          <w>Ae</w>
+          <w>,</w>
+          <w>das</w>
+          <w>wär</w>
+          <w>mer</w>
+          <w>z'lest</w>
+          <w>no</w>
+          <w>glich</w>
+          <w>!</w>
+        </s>
+        <s n="9" xml:lang="gsw">
+          <lb n="17"/>
+          <w>S'</w>
+          <w>wird</w>
+          <w>wohl</w>
+          <w>d'</w>
+          <w>Wyherarbet</w>
+          <w>chönne</w>
+          <w>,</w>
+          <lb n="18"/>
+          <w>Und</w>
+          <w>eim</w>
+          <w>au</w>
+          <w>es</w>
+          <w>Freudli</w>
+          <w>gönne</w>
+          <lb n="19"/>
+          <w>Am'ne</w>
+          <w>Suntig</w>
+          <w>,</w>
+          <w>s'</w>
+          <w>ist</w>
+          <w>nit</w>
+          <w>z'</w>
+          <w>viel</w>
+          <w>,</w>
+          <lb n="20"/>
+          <w>S</w>
+          <w>Schöppli</w>
+          <w>Most</w>
+          <w>him</w>
+          <w>Chegelspiel</w>
+          <w>.</w>
+        </s>
+        <s n="10" xml:lang="gsw">
+          <pb n="44" facs="102505_044"/>
+          <lb n="1"/>
+          <w>Mängi</w>
+          <w>föpplet</w>
+          <w>:</w>
+        </s>
+        <s n="11" xml:lang="gsw">
+          <w>«</w>
+          <w>G'sehsches</w>
+          <w>gärn</w>
+          <w>.</w>
+        </s>
+        <s n="12" xml:lang="gsw">
+          <lb n="2"/>
+          <w>«</w>
+          <w>Luegst</w>
+          <w>ufs</w>
+          <w>,</w>
+          <w>wie</w>
+          <w>der</w>
+          <w>Nigi-Stärn</w>
+          <w>;</w>
+          <lb n="3"/>
+          <w>«</w>
+          <w>J</w>
+          <w>der</w>
+          <w>Chilä</w>
+          <w>stahst</w>
+          <w>a'</w>
+          <w>d'</w>
+          <w>Thürä</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>«</w>
+          <w>Daß</w>
+          <w>es</w>
+          <w>grad</w>
+          <w>muß</w>
+          <w>vor</w>
+          <w>der</w>
+          <w>fürä</w>
+          <w>.</w>
+        </s>
+        <s n="13" xml:lang="gsw">
+          <lb n="5"/>
+          <w>«</w>
+          <w>Eine</w>
+          <w>meynti</w>
+          <w>s'</w>
+          <w>wär</w>
+          <w>der</w>
+          <w>z'schlächt</w>
+          <w>—</w>
+          <lb n="6"/>
+          <w>«</w>
+          <w>Am'ne</w>
+          <w>Suntig</w>
+          <w>g'scht</w>
+          <w>mes</w>
+          <w>rächt</w>
+          <w>.</w>
+        </s>
+        <s n="14" xml:lang="gsw">
+          <w>»</w>
+          <lb n="7"/>
+          <w>Sydem</w>
+          <w>Heuet</w>
+          <w>sin</w>
+          <w>i</w>
+          <w>dra</w>
+          <w>,</w>
+          <lb n="8"/>
+          <w>Ha's</w>
+          <w>scho</w>
+          <w>da</w>
+          <w>chli</w>
+          <w>gäre</w>
+          <w>gha</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>Unterm</w>
+          <w>Mähä</w>
+          <w>denk</w>
+          <w>i</w>
+          <w>währli</w>
+          <w>:</w>
+          <lb n="10"/>
+          <w>Worbets</w>
+          <w>dir</w>
+          <w>,</w>
+          <w>isch</w>
+          <w>nid</w>
+          <w>se</w>
+          <w>gfährli</w>
+          <w>,</w>
+          <lb n="11"/>
+          <w>Roth</w>
+          <w>gsy</w>
+          <w>bin</w>
+          <w>i</w>
+          <w>wie</w>
+          <w>es</w>
+          <w>Für</w>
+          <w>;</w>
+          <lb n="12"/>
+          <w>Aber</w>
+          <w>frundli</w>
+          <w>nie</w>
+          <w>wie</w>
+          <w>hür</w>
+          <w>!</w>
+        </s>
+        <s n="15" xml:lang="gsw">
+          <w>—</w>
+          <lb n="13"/>
+          <w>Jnnerli</w>
+          <w>hät</w>
+          <w>näimys</w>
+          <w>gsait</w>
+          <w>:</w>
+          <lb n="14"/>
+          <w>Die</w>
+          <w>isch</w>
+          <w>,</w>
+          <w>wo</w>
+          <w>det</w>
+          <w>z'sammä</w>
+          <w>trait</w>
+          <w>:</w>
+          <lb n="15"/>
+          <w>Syder</w>
+          <w>muß</w>
+          <w>i</w>
+          <w>tägli</w>
+          <w>liechte</w>
+          <lb n="16"/>
+          <w>Myni</w>
+          <w>Augä</w>
+          <w>zunem</w>
+          <w>richte</w>
+          <w>;</w>
+          <lb n="17"/>
+          <w>eLuegis</w>
+          <w>ächt</w>
+          <w>vergäbe</w>
+          <w>a</w>
+          <w>?</w>
+        </s>
+        <s n="16" xml:lang="gsw">
+          <w>—</w>
+          <lb n="18"/>
+          <w>Mutter</w>
+          <w>!</w>
+        </s>
+        <s n="17" xml:lang="gsw">
+          <w>'s</w>
+          <w>Bethi</w>
+          <w>mueßi</w>
+          <w>ha</w>
+          <w>!</w>
+        </s>
+        <s n="18" xml:lang="it">
+			
+		</s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,444 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>'S Eerdbesem</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="shelf_mark_idiotikon">Dubletten</note>
+        <note type="artikel_id">500963</note>
+        <note type="ocr_source">digital text retrieved through OCR</note>
+        <noteGrp type="dialect_region">
+          <note type="name">Appenzell Ausserrhoden Kurzenberg</note>
+          <note type="abbr">ApK.</note>
+          <note type="chmk-id">AR-2</note>
+        </noteGrp>
+        <noteGrp type="dialect_region">
+          <note type="name">Vorderland</note>
+          <note type="abbr">ApV., ApVorderl.</note>
+          <note type="chmk-id">AR-4</note>
+        </noteGrp>
+        <noteGrp type="dialect_region">
+          <note type="name">Appenzell</note>
+          <note type="abbr">Ap</note>
+          <note type="chmk-id">CH-1</note>
+        </noteGrp>
+        <noteGrp type="dialect_canton">
+          <note type="name">Appenzell Ausserrhoden</note>
+          <note type="chmk-id">AR</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Tobler, Titus. 1885. 'S Eerdbesem. In: Aus den Kantonen St. Gallen &amp; Appenzell, hg. von Sutermeister, Otto, 2:13–14. Schwizer-Dütsch. Sammlung deutsch-schweizerischer Mundart-Literatur. Zürich: Orell Füssli Verlag.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">'S Eerdbesem</title>
+            <title type="subtitle"/>
+            <title type="abbreviated">Sammlung St Gallen Appenzell</title>
+            <author>
+              <idno type="id">21239</idno>
+              <forename>Titus</forename>
+              <surname>Tobler</surname>
+              <name>Tobler, Titus</name>
+            </author>
+            <editor role="publisher">Sutermeister, Otto</editor>
+          </titleStmt>
+          <editionStmt>
+            <edition>1. Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Orell Füssli Verlag</publisher>
+            <pubPlace>Zürich</pubPlace>
+            <date type="publication_year">1885</date>
+            <date type="first_published">1835</date>
+          </publicationStmt>
+          <seriesStmt>
+            <title>Aus den Kantonen St. Gallen &amp; Appenzell</title>
+            <biblScope>Band 2</biblScope>
+          </seriesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>105832</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Fraktur</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Drama (Theater)</term>
+          <term type="category">Belletristik</term>
+          <term type="formal_description">Buch</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="gsw">
+          <pb n="13" facs="105832_013"/>
+          <lb n="1"/>
+          <w>S</w>
+          <w>Eerdbesem</w>
+          <w>.</w>
+        </s>
+        <s n="2" xml:lang="de">
+          <lb n="2"/>
+          <w>(</w>
+          <w>Kurzenberger</w>
+          <w>Dialekt</w>
+          <w>.</w>
+        </s>
+        <s n="3" xml:lang="gsw">
+          <w>)</w>
+          <lb n="3"/>
+          <w>Kathry</w>
+          <w>.</w>
+        </s>
+        <s n="4" xml:lang="gsw">
+          <lb n="4"/>
+          <w>Guete</w>
+          <w>Taag</w>
+          <w>,</w>
+          <w>Frau</w>
+          <w>Bäsi</w>
+          <w>Vree</w>
+          <w>!</w>
+        </s>
+        <s n="5" xml:lang="gsw">
+          <lb n="5"/>
+          <w>Sägid</w>
+          <w>doch</w>
+          <w>,</w>
+          <w>wie</w>
+          <w>is'</w>
+          <w>Eu</w>
+          <w>g'gange</w>
+          <w>?</w>
+        </s>
+        <s n="6" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Uüs</w>
+          <w>hät's</w>
+          <w>schröckeli</w>
+          <w>gfüercht</w>
+          <w>efange</w>
+          <w>—</w>
+          <lb n="7"/>
+          <w>G'groomplet</w>
+          <w>hät's</w>
+          <w>ond</w>
+          <w>gschütt</w>
+          <w>ond</w>
+          <w>too</w>
+          <w>,</w>
+          <lb n="8"/>
+          <w>'S</w>
+          <w>eb</w>
+          <w>der</w>
+          <w>jüngst</w>
+          <w>Tag</w>
+          <w>grad</w>
+          <w>well</w>
+          <w>koo</w>
+          <w>.</w>
+        </s>
+        <s n="7" xml:lang="gsw">
+          <lb n="9"/>
+          <w>Bäsi</w>
+          <w>Vree</w>
+          <w>.</w>
+        </s>
+        <s n="8" xml:lang="gsw">
+          <lb n="10"/>
+          <w>Wie's</w>
+          <w>is</w>
+          <w>g'gange</w>
+          <w>sei</w>
+          <w>,</w>
+          <w>Kathry</w>
+          <w>?</w>
+        </s>
+        <s n="9" xml:lang="gsw">
+          <lb n="11"/>
+          <w>Grad</w>
+          <w>wie</w>
+          <w>dier</w>
+          <w>;</w>
+          <w>mer</w>
+          <w>send</w>
+          <w>verschrocke</w>
+          <lb n="12"/>
+          <w>Ab</w>
+          <w>dem</w>
+          <w>Roomplen</w>
+          <w>ond</w>
+          <w>dem</w>
+          <w>Stooß</w>
+          <w>;</w>
+          <lb n="13"/>
+          <w>Händ</w>
+          <w>nöd</w>
+          <w>gwißt</w>
+          <w>,</w>
+          <w>tuet</w>
+          <w>Epper</w>
+          <w>klocke</w>
+          <w>,</w>
+          <lb n="14"/>
+          <w>Oder</w>
+          <w>schloond</w>
+          <w>ond</w>
+          <w>stampfed</w>
+          <w>d'Roß</w>
+          <w>;</w>
+          <lb n="15"/>
+          <w>Eentli</w>
+          <w>koont's</w>
+          <w>üs</w>
+          <w>no</w>
+          <w>i</w>
+          <w>Sy</w>
+          <w>:</w>
+          <lb n="16"/>
+          <w>En</w>
+          <w>Eerdbesem</w>
+          <w>möcht</w>
+          <w>s</w>
+          <w>gsee</w>
+          <w>sy</w>
+          <w>!</w>
+        </s>
+        <s n="10" xml:lang="de">
+          <lb n="17"/>
+          <w>Kathry</w>
+          <w>.</w>
+        </s>
+        <s n="11" xml:lang="gsw">
+          <lb n="18"/>
+          <w>En</w>
+          <w>Eerdbesem</w>
+          <w>!</w>
+        </s>
+        <s n="12" xml:lang="gsw">
+          <w>Ach</w>
+          <w>min</w>
+          <w>Gott</w>
+          <w>!</w>
+        </s>
+        <s n="13" xml:lang="gsw">
+          <lb n="19"/>
+          <w>'S</w>
+          <w>wert</w>
+          <w>woll</w>
+          <w>eppes</w>
+          <w>Schröckeligs</w>
+          <w>düüte</w>
+          <w>!</w>
+        </s>
+        <s n="14" xml:lang="gsw">
+          <lb n="20"/>
+          <w>S</w>
+          <w>ist</w>
+          <w>e</w>
+          <w>Schand</w>
+          <w>ond</w>
+          <w>ist</w>
+          <w>e</w>
+          <w>Spott</w>
+          <w>,</w>
+          <lb n="21"/>
+          <w>Wie's</w>
+          <w>au</w>
+          <w>zuegoht</w>
+          <w>ond're</w>
+          <w>Lüüte</w>
+          <w>!</w>
+        </s>
+        <s n="15" xml:lang="gsw">
+          <lb n="22"/>
+          <w>Seeltse</w>
+          <w>wär's</w>
+          <w>mer</w>
+          <w>e</w>
+          <w>kä</w>
+          <w>Ding</w>
+          <w>,</w>
+          <lb n="23"/>
+          <w>Wenn</w>
+          <w>scho</w>
+          <w>d'Welt</w>
+          <w>hüt</w>
+          <w>ondergieng</w>
+          <w>;</w>
+          <lb n="24"/>
+          <w>Jo</w>
+          <w>,</w>
+          <w>i</w>
+          <w>ha's</w>
+          <w>vom</w>
+          <w>Vatter</w>
+          <w>ghöört</w>
+          <w>,</w>
+          <lb n="25"/>
+          <w>Alti</w>
+          <w>Pfärrer</w>
+          <w>händ's</w>
+          <w>au</w>
+          <w>glehrt</w>
+          <w>,</w>
+          <lb n="26"/>
+          <w>Daß</w>
+          <w>,</w>
+          <w>wenn</w>
+          <w>d'Glogge</w>
+          <w>klägli</w>
+          <w>lüüted</w>
+          <w>,</w>
+          <lb n="27"/>
+          <w>D'Steerne</w>
+          <w>Funke</w>
+          <w>falle</w>
+          <w>lohnd</w>
+          <w>,</w>
+          <lb n="28"/>
+          <w>Krieg</w>
+          <w>ond</w>
+          <w>Pästilenz</w>
+          <w>denn</w>
+          <w>koond</w>
+          <w>.</w>
+        </s>
+        <s n="16" xml:lang="gsw">
+          <lb n="29"/>
+          <w>Bäsi</w>
+          <w>Vree</w>
+          <w>.</w>
+        </s>
+        <s n="17" xml:lang="gsw">
+          <lb n="30"/>
+          <w>Ach</w>
+          <w>,</w>
+          <w>Kathry</w>
+          <w>,</w>
+          <w>bis</w>
+          <w>ned</w>
+          <w>so</w>
+          <w>domm</w>
+          <w>!</w>
+        </s>
+        <s n="18" xml:lang="gsw">
+          <lb n="31"/>
+          <w>Komm</w>
+          <w>,</w>
+          <w>i</w>
+          <w>ka</w>
+          <w>der's</w>
+          <w>hoorkly</w>
+          <w>säge</w>
+          <w>,</w>
+          <lb n="32"/>
+          <w>Wie</w>
+          <w>das</w>
+          <w>koont</w>
+          <w>,</w>
+          <w>komm</w>
+          <w>ani</w>
+          <w>,</w>
+          <w>komm</w>
+          <w>:</w>
+          <lb n="33"/>
+          <w>D'Welt</w>
+          <w>wird</w>
+          <w>vo</w>
+          <w>me</w>
+          <w>Wallfisch</w>
+          <w>trääge</w>
+          <w>;</w>
+          <lb n="34"/>
+          <w>Wenn</w>
+          <w>denn</w>
+          <w>der</w>
+          <w>de</w>
+          <w>Schwanz</w>
+          <w>vertschütt</w>
+          <w>,</w>
+          <pb n="14" facs="105832_014_500963"/>
+          <lb n="1"/>
+          <w>Gnapped</w>
+          <w>Alls</w>
+          <w>,</w>
+          <w>daß</w>
+          <w>'s</w>
+          <w>kracht</w>
+          <w>ond</w>
+          <w>kyt</w>
+          <w>.</w>
+        </s>
+        <s n="19" xml:lang="gsw">
+          <lb n="2"/>
+          <w>D'Steerne</w>
+          <w>händ's</w>
+          <w>wie</w>
+          <w>Du</w>
+          <w>ond</w>
+          <w>i</w>
+          <w>:</w>
+          <lb n="3"/>
+          <w>Ette</w>
+          <w>—</w>
+          <w>n</w>
+          <w>emol</w>
+          <w>e</w>
+          <w>Tröpflinase</w>
+          <w>;</w>
+          <lb n="4"/>
+          <w>Werfid</w>
+          <w>denn</w>
+          <w>de</w>
+          <w>Züüg</w>
+          <w>gad</w>
+          <w>ase</w>
+          <lb n="5"/>
+          <w>Vo</w>
+          <w>si</w>
+          <w>,</w>
+          <w>wie</w>
+          <w>der</w>
+          <w>Jerg</w>
+          <w>im</w>
+          <w>Loh</w>
+          <w>;</w>
+          <w>—</w>
+          <lb n="6"/>
+          <w>Komm</w>
+          <w>Kathry</w>
+          <w>,</w>
+          <w>'s</w>
+          <w>ist</w>
+          <w>doch</w>
+          <w>eso</w>
+          <w>!</w>
+        </s>
+        <s n="20" xml:lang="it">
+			
+		</s>
+      </p>
+    </body>
+  </text>
+</TEI>

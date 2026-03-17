@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Heimisbach</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="shelf_mark_idiotikon">Ma. B (S)Gfel 1</note>
+        <note type="ocr_source">digital text retrieved through OCR</note>
+        <noteGrp type="dialect_region">
+          <note type="name">Bern Emmental</note>
+          <note type="abbr">BE.</note>
+          <note type="chmk-id">BE-5</note>
+        </noteGrp>
+        <noteGrp type="dialect_region">
+          <note type="name">Bern Unterland</note>
+          <note type="abbr">BU.</note>
+          <note type="chmk-id">BE-23</note>
+        </noteGrp>
+        <noteGrp type="dialect_canton">
+          <note type="name">Bern</note>
+          <note type="chmk-id">BE</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Gfeller, Simon. 2003. Heimisbach: Bilder u Bigäbeheiten us em Bureläbe. Hg. von Simon Gfeller Stiftung, Heimisbach. 2. Auflage [der Neuausgabe]. Bern/Langnau/Murten: Licorne-Verlag.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Heimisbach</title>
+            <title type="subtitle">Bilder u Bigäbeheiten us em Bureläbe</title>
+            <title type="abbreviated">Gfeller Heimisbach</title>
+            <author>
+              <idno type="id">20596</idno>
+              <forename>Simon</forename>
+              <surname>Gfeller</surname>
+              <name>Gfeller, Simon</name>
+            </author>
+            <editor role="publisher">Simon Gfeller Stiftung, Heimisbach</editor>
+          </titleStmt>
+          <editionStmt>
+            <edition>2. Auflage [der Neuausgabe]</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Licorne-Verlag</publisher>
+            <pubPlace>Bern/Langnau/Murten</pubPlace>
+            <date type="publication_year">2003</date>
+            <date type="first_published">1910</date>
+            <idno type="ISBN">3-85654-830-0</idno>
+          </publicationStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>102314</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Antiqua</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Prosa</term>
+          <term type="category">Belletristik</term>
+          <term type="formal_description">Erzählunge(n)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="it">
+			
+		</s>
+      </p>
+    </body>
+  </text>
+</TEI>

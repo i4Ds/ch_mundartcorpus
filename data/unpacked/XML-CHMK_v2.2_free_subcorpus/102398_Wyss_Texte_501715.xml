@@ -1,0 +1,438 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Der Hochzyt-Tanz.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="shelf_mark_idiotikon">Ma. B (JR)Wyss 3</note>
+        <note type="artikel_id">501715</note>
+        <note type="ocr_source">digital text retrieved through OCR</note>
+        <noteGrp type="dialect_region">
+          <note type="name">Bern Emmental</note>
+          <note type="abbr">BE.</note>
+          <note type="chmk-id">BE-5</note>
+        </noteGrp>
+        <noteGrp type="dialect_region">
+          <note type="name">Bern Unterland</note>
+          <note type="abbr">BU.</note>
+          <note type="chmk-id">BE-23</note>
+        </noteGrp>
+        <noteGrp type="dialect_canton">
+          <note type="name">Bern</note>
+          <note type="chmk-id">BE</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Anonymus. 1826. Der Hochzyt-Tanz.. In: Texte zu der Sammlung von Schweizer-Kühreihen und Volksliedern, hg. von Wyss, Johann Rudolf, 55. 4., viel vermehrte und verbesserte Ausgabe. Bern: Joh. Jak. Burgdorfer. https://www.e-helvetica.nb.admin.ch/view/nbdig-10096!urn%3Anbn%3Ach%3Anbdig-10096%3Anbdig-10096.pdf?q=&amp;v=all&amp;urn=nbdig-10096&amp;start=0&amp;rows=20&amp;sort=score%20desc%2C%20ehs_urn_id%20asc (zugegriffen: 16. November 2021).</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Der Hochzyt-Tanz.</title>
+            <title type="subtitle"/>
+            <title type="abbreviated">Wyss Texte</title>
+            <author>
+              <idno type="id">25169</idno>
+              <surname>Anonymus</surname>
+              <name>Anonymus, Bern (Emmental)</name>
+            </author>
+            <editor role="publisher">Wyss, Johann Rudolf</editor>
+          </titleStmt>
+          <editionStmt>
+            <edition>4., viel vermehrte und verbesserte Ausgabe</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Joh. Jak. Burgdorfer</publisher>
+            <pubPlace>Bern</pubPlace>
+            <date type="publication_year">1826</date>
+            <date type="first_published">1812</date>
+            <date type="accessed_date">16/11/2021</date>
+            <ref type="target">https://www.e-helvetica.nb.admin.ch/view/nbdig-10096!urn%3Anbn%3Ach%3Anbdig-10096%3Anbdig-10096.pdf?q=&amp;v=all&amp;urn=nbdig-10096&amp;start=0&amp;rows=20&amp;sort=score%20desc%2C%20ehs_urn_id%20asc</ref>
+          </publicationStmt>
+          <seriesStmt>
+            <title>Texte zu der Sammlung von Schweizer-Kühreihen und Volksliedern</title>
+          </seriesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>102398</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Fraktur</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Lyrik (Versform)</term>
+          <term type="category">Belletristik</term>
+          <term type="formal_description">Lieder</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="de">
+          <pb n="55" facs="102398_055"/>
+          <lb n="1"/>
+          <w>N</w>
+          <w>.</w>
+        </s>
+        <s n="2" xml:lang="de">
+          <w>29</w>
+          <w>.</w>
+        </s>
+        <s n="3" xml:lang="de">
+          <w>Der</w>
+          <w>Hochzyt-Tanz</w>
+          <w>.</w>
+        </s>
+        <s n="4" xml:lang="gsw">
+          <lb n="2"/>
+          <w>Die</w>
+          <w>Braut</w>
+          <w>.</w>
+        </s>
+        <s n="5" xml:lang="gsw">
+          <lb n="3"/>
+          <w>9</w>
+          <lb n="4"/>
+          <w>-ien</w>
+          <w>albene</w>
+          <w>werthi</w>
+          <w>Tächter</w>
+          <w>g'sy</w>
+          <w>;</w>
+          <lb n="5"/>
+          <w>Bi-n</w>
+          <w>us</w>
+          <w>em</w>
+          <w>Huus</w>
+          <w>,</w>
+          <w>cha</w>
+          <w>nümme</w>
+          <w>dry</w>
+          <w>.</w>
+        </s>
+        <s n="6" xml:lang="de">
+          <lb n="6"/>
+          <w>Eh</w>
+          <w>!</w>
+        </s>
+        <s n="7" xml:lang="gsw">
+          <w>nümme</w>
+          <w>dry</w>
+          <w>myr</w>
+          <w>Lebelang</w>
+          <w>.</w>
+        </s>
+        <s n="8" xml:lang="gsw">
+          <lb n="7"/>
+          <w>Der</w>
+          <w>Aetti</w>
+          <w>,</w>
+          <w>d's</w>
+          <w>Müeti</w>
+          <w>,</w>
+          <w>Brueder</w>
+          <w>u</w>
+          <w>Schwöster</w>
+          <w>,</w>
+          <w>u</w>
+          <w>weniha</w>
+          <w>,</w>
+          <lb n="8"/>
+          <w>Die</w>
+          <w>mueß</w>
+          <w>ig</w>
+          <w>alli</w>
+          <w>jitz</w>
+          <w>verlah</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>Mueß</w>
+          <w>luege</w>
+          <w>,</w>
+          <w>wie's</w>
+          <w>mer</w>
+          <w>d'usse</w>
+          <w>gang</w>
+          <w>.</w>
+        </s>
+        <s n="9" xml:lang="gsw">
+          <lb n="10"/>
+          <w>O</w>
+          <w>du</w>
+          <w>my</w>
+          <w>trüli</w>
+          <w>werthe</w>
+          <w>Schatz</w>
+          <w>!</w>
+        </s>
+        <s n="10" xml:lang="gsw">
+          <lb n="11"/>
+          <w>Jitz</w>
+          <w>chume-ni</w>
+          <w>,</w>
+          <w>hesch</w>
+          <w>mer</w>
+          <w>Platz</w>
+          <w>?</w>
+        </s>
+        <s n="11" xml:lang="gsw">
+          <lb n="12"/>
+          <w>Der</w>
+          <w>Bräutigam</w>
+          <w>.</w>
+        </s>
+        <s n="12" xml:lang="gsw">
+          <lb n="13"/>
+          <w>Bisch</w>
+          <w>fryli</w>
+          <w>e</w>
+          <w>werthi</w>
+          <w>Tächter</w>
+          <w>g'sy</w>
+          <w>;</w>
+          <lb n="14"/>
+          <w>Muest</w>
+          <w>ebe</w>
+          <w>sone</w>
+          <w>werthi</w>
+          <w>sy</w>
+          <w>,</w>
+          <lb n="15"/>
+          <w>E</w>
+          <w>werthi</w>
+          <w>su</w>
+          <w>dyr</w>
+          <w>Lebelang</w>
+          <w>.</w>
+        </s>
+        <s n="13" xml:lang="gsw">
+          <lb n="16"/>
+          <w>Der</w>
+          <w>Aetti</w>
+          <w>,</w>
+          <w>d's</w>
+          <w>Müeti</w>
+          <w>,</w>
+          <w>Brueder</w>
+          <w>u</w>
+          <w>Schwöster</w>
+          <w>,</w>
+          <w>u</w>
+          <w>weniha</w>
+          <w>,</w>
+          <lb n="17"/>
+          <w>Hätt</w>
+          <w>längistdi</w>
+          <w>gern</w>
+          <w>by</w>
+          <w>'ne</w>
+          <w>g'ha</w>
+          <w>,</w>
+          <lb n="18"/>
+          <w>Un-i</w>
+          <w>ha</w>
+          <w>beitet</w>
+          <w>scho</w>
+          <w>gar</w>
+          <w>lang</w>
+          <w>.</w>
+        </s>
+        <s n="14" xml:lang="gsw">
+          <lb n="19"/>
+          <w>O</w>
+          <w>du</w>
+          <w>my</w>
+          <w>trüli-werthe</w>
+          <w>Schatz</w>
+          <w>!</w>
+        </s>
+        <s n="15" xml:lang="gsw">
+          <lb n="20"/>
+          <w>Chunnst</w>
+          <w>endlig</w>
+          <w>?</w>
+        </s>
+        <s n="16" xml:lang="de">
+          <w>J</w>
+          <w>ha</w>
+          <w>der</w>
+          <w>Platz</w>
+          <w>.</w>
+        </s>
+        <s n="17" xml:lang="gsw">
+          <lb n="21"/>
+          <w>Die</w>
+          <w>Gcste</w>
+          <w>.</w>
+        </s>
+        <s n="18" xml:lang="gsw">
+          <lb n="22"/>
+          <w>Juheye</w>
+          <w>,</w>
+          <w>ihr</w>
+          <w>Burs</w>
+          <w>u</w>
+          <w>Meitscheni</w>
+          <w>,</w>
+          <lb n="23"/>
+          <w>Hüt</w>
+          <w>soll</w>
+          <w>e</w>
+          <w>Tag</w>
+          <w>der</w>
+          <w>Freude</w>
+          <w>sy</w>
+          <w>!</w>
+        </s>
+        <s n="19" xml:lang="de">
+          <lb n="24"/>
+          <w>Der</w>
+          <w>Freude</w>
+          <w>sy</w>
+          <w>mit</w>
+          <w>Spiel</w>
+          <w>u</w>
+          <w>Klang</w>
+          <w>!</w>
+        </s>
+        <s n="20" xml:lang="gsw">
+          <lb n="25"/>
+          <w>D'Manne</w>
+          <w>,</w>
+          <w>d'Wyber</w>
+          <w>,</w>
+          <w>Jungi</w>
+          <w>un</w>
+          <w>Alti</w>
+          <w>u</w>
+          <w>Jederma</w>
+          <lb n="26"/>
+          <w>Soll</w>
+          <w>lustig</w>
+          <w>sy</w>
+          <w>,</w>
+          <w>u</w>
+          <w>Freud</w>
+          <w>dra</w>
+          <w>ha</w>
+          <w>,</w>
+          <lb n="27"/>
+          <w>Mit</w>
+          <w>Esse</w>
+          <w>,</w>
+          <w>Trinke</w>
+          <w>,</w>
+          <w>Tanz</w>
+          <w>u</w>
+          <w>G'sang</w>
+          <w>!</w>
+        </s>
+        <s n="21" xml:lang="de">
+          <lb n="28"/>
+          <w>Juheh</w>
+          <w>!</w>
+        </s>
+        <s n="22" xml:lang="gsw">
+          <w>syt</w>
+          <w>lustig</w>
+          <w>,</w>
+          <w>sparet</w>
+          <w>nüt</w>
+          <w>,</w>
+          <lb n="29"/>
+          <w>Jhr</w>
+          <w>trülige</w>
+          <w>Hochzyt-Lüt</w>
+          <w>!</w>
+        </s>
+        <s n="23" xml:lang="de">
+          <lb n="30"/>
+          <w>Anmerkung</w>
+          <w>.</w>
+        </s>
+        <s n="24" xml:lang="gsw">
+          <w>Dieser</w>
+          <w>Tanz</w>
+          <w>ist</w>
+          <w>alt</w>
+          <w>,</w>
+          <w>und</w>
+          <w>wurde</w>
+          <w>ehedem</w>
+          <w>,</w>
+          <lb n="31"/>
+          <w>am</w>
+          <w>längsten</w>
+          <w>noch</w>
+          <w>in</w>
+          <w>der</w>
+          <w>Gegend</w>
+          <w>vom</w>
+          <w>Bucheggberg</w>
+          <w>,</w>
+          <w>als</w>
+          <w>Vortanz</w>
+          <lb n="32" type="sh" ana="Vor-tanz"/>
+          <w>bey</w>
+          <w>den</w>
+          <w>Hochzeiten</w>
+          <w>getanzdund</w>
+          <w>gesungen</w>
+          <w>.</w>
+        </s>
+        <s n="25" xml:lang="gsw">
+          <w>Jetzt</w>
+          <w>aber</w>
+          <lb n="33"/>
+          <w>ist</w>
+          <w>diese</w>
+          <w>urälterlicht</w>
+          <w>Sitte</w>
+          <w>nicht</w>
+          <w>mehr</w>
+          <w>in</w>
+          <w>Uebung</w>
+          <w>,</w>
+          <w>und</w>
+          <w>den</w>
+          <lb n="34"/>
+          <w>Tanz</w>
+          <w>selbst</w>
+          <w>kennen</w>
+          <w>Wenige</w>
+          <w>mehr</w>
+          <w>,</w>
+          <w>auch</w>
+          <w>die</w>
+          <w>Worte</w>
+          <w>sind</w>
+          <w>beynahe</w>
+          <lb n="35"/>
+          <w>ganz</w>
+          <w>unbekannt</w>
+          <w>.</w>
+        </s>
+        <s n="26" xml:lang="it">
+			
+		</s>
+      </p>
+    </body>
+  </text>
+</TEI>

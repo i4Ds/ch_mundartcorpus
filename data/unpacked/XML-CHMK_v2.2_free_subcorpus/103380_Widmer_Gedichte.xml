@@ -1,0 +1,428 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Gedichte</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="shelf_mark_idiotikon">Ma. Z Wid</note>
+        <note type="ocr_source">digital text retrieved through OCR</note>
+        <noteGrp type="dialect_canton">
+          <note type="name">Zürich</note>
+          <note type="chmk-id">ZH</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Widmer, Leonhard. 1869. Gedichte. Hg. von einigen Freunden. Zürich.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Gedichte</title>
+            <title type="subtitle"/>
+            <title type="abbreviated">Widmer Gedichte</title>
+            <author>
+              <idno type="id">20567</idno>
+              <forename>Leonhard</forename>
+              <surname>Widmer</surname>
+              <name>Widmer, Leonhard</name>
+            </author>
+            <editor role="publisher">einigen Freunden</editor>
+          </titleStmt>
+          <editionStmt>
+            <edition>1. Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>unbekannt/unpubliziert</publisher>
+            <pubPlace>Zürich</pubPlace>
+            <date type="publication_year">1869</date>
+            <date type="first_published">1869</date>
+          </publicationStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>103380</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Fraktur</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Lyrik (Versform)</term>
+          <term type="category">Belletristik</term>
+          <term type="formal_description">Lyrik</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="gsw">
+          <pb n="8" facs="103380_008"/>
+          <lb n="1"/>
+          <w>nri</w>
+          <lb n="2"/>
+          <w>lpeosli</w>
+          <w>.</w>
+        </s>
+        <s n="2" xml:lang="gsw">
+          <lb n="3"/>
+          <w>Es</w>
+          <w>git</w>
+          <w>e</w>
+          <w>schön's</w>
+          <w>Aelpli</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Da</w>
+          <w>möcht</w>
+          <w>i</w>
+          <w>gern</w>
+          <w>sy</w>
+          <lb n="5"/>
+          <w>Sa</w>
+          <w>luegt</w>
+          <w>all's</w>
+          <w>so</w>
+          <w>fründli</w>
+          <w>,</w>
+          <lb n="6"/>
+          <w>So</w>
+          <w>heimelig</w>
+          <w>dry</w>
+          <w>.</w>
+        </s>
+        <s n="3" xml:lang="gsw">
+          <lb n="7"/>
+          <w>Versteckt</w>
+          <w>i</w>
+          <w>de</w>
+          <w>Berge</w>
+          <w>,</w>
+          <lb n="8"/>
+          <w>e</w>
+          <w>catte</w>
+          <w>,</w>
+          <w>am</w>
+          <w>Bach</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>a</w>
+          <w>staht</w>
+          <w>e</w>
+          <w>,</w>
+          <w>blanks</w>
+          <w>Hüsli</w>
+          <lb n="10"/>
+          <w>Mit</w>
+          <w>niedrigem</w>
+          <w>Dach</w>
+          <w>.</w>
+        </s>
+        <s n="4" xml:lang="gsw">
+          <lb n="11"/>
+          <w>Jm</w>
+          <w>Gärtli</w>
+          <w>danebe</w>
+          <lb n="12"/>
+          <w>Schlüft's</w>
+          <w>Rösli</w>
+          <w>grad</w>
+          <w>us</w>
+          <w>;</w>
+          <lb n="13"/>
+          <w>Doch</w>
+          <w>ist's</w>
+          <w>nüd</w>
+          <w>das</w>
+          <w>Blüemli</w>
+          <w>,</w>
+          <lb n="14"/>
+          <w>Das</w>
+          <w>überall</w>
+          <w>z'Hus</w>
+          <w>.</w>
+        </s>
+        <s n="5" xml:lang="gsw">
+          <lb n="15"/>
+          <w>Und</w>
+          <w>wenn</w>
+          <w>is</w>
+          <w>wollt</w>
+          <w>pflücke</w>
+          <w>,</w>
+          <lb n="16"/>
+          <w>So</w>
+          <w>blieb's</w>
+          <w>nüd</w>
+          <w>im</w>
+          <w>Thal</w>
+          <w>;</w>
+          <lb n="17"/>
+          <w>Es</w>
+          <w>blüht</w>
+          <w>nu</w>
+          <w>da</w>
+          <w>oben</w>
+          <lb n="18"/>
+          <w>Jm</w>
+          <w>himmlische</w>
+          <w>Strahl</w>
+          <w>.</w>
+        </s>
+        <s n="6" xml:lang="gsw">
+          <lb n="19"/>
+          <w>So</w>
+          <w>ist's</w>
+          <w>mit</w>
+          <w>Lieb-Rösli</w>
+          <lb n="20"/>
+          <w>Jm</w>
+          <w>Hüttli</w>
+          <w>da</w>
+          <w>drinn</w>
+          <w>,</w>
+          <lb n="21"/>
+          <w>Sie</w>
+          <w>hät</w>
+          <w>nu</w>
+          <w>für</w>
+          <w>d'Alpe</w>
+          <lb n="22"/>
+          <w>Und</w>
+          <w>Sennbuebe</w>
+          <w>Sinn</w>
+          <w>.</w>
+        </s>
+        <s n="7" xml:lang="gsw">
+          <lb n="23"/>
+          <w>Und</w>
+          <w>ist</w>
+          <w>au</w>
+          <w>das</w>
+          <w>Hüsli</w>
+          <lb n="24"/>
+          <w>Gar</w>
+          <w>ärmli</w>
+          <w>und</w>
+          <w>chly</w>
+          <w>:</w>
+          <lb n="25"/>
+          <w>Es</w>
+          <w>chönnt</w>
+          <w>i</w>
+          <w>Palläste</w>
+          <lb n="26"/>
+          <w>Halt</w>
+          <w>glückli</w>
+          <w>nüd</w>
+          <w>sy</w>
+          <w>!</w>
+        </s>
+        <s n="8" xml:lang="gsw">
+          <pb n="31" facs="103380_031"/>
+          <lb n="1"/>
+          <w>Als</w>
+          <w>Schweizer</w>
+          <w>lieb'</w>
+          <w>ich</w>
+          <w>warm</w>
+          <w>und</w>
+          <w>treu</w>
+          <w>,</w>
+          <lb n="2"/>
+          <w>Wen</w>
+          <w>aber</w>
+          <w>soll</w>
+          <w>ich</w>
+          <w>frei'n</w>
+          <w>?</w>
+        </s>
+        <s n="9" xml:lang="gsw">
+          <lb n="3"/>
+          <w>Jch</w>
+          <w>freie</w>
+          <w>dich</w>
+          <w>,</w>
+          <w>Helvetia</w>
+          <w>!</w>
+        </s>
+        <s n="10" xml:lang="de">
+          <lb n="4"/>
+          <w>Du</w>
+          <w>kennst</w>
+          <w>mein</w>
+          <w>Herz</w>
+          <w>so</w>
+          <w>ganz</w>
+          <w>!</w>
+        </s>
+        <s n="11" xml:lang="de">
+          <lb n="5"/>
+          <w>Jch</w>
+          <w>liebte</w>
+          <w>dich</w>
+          <w>von</w>
+          <w>Jugend</w>
+          <w>an</w>
+          <lb n="6"/>
+          <w>Nimm</w>
+          <w>mich</w>
+          <w>zu</w>
+          <w>eigen</w>
+          <w>ganz</w>
+          <w>!</w>
+        </s>
+        <s n="12" xml:lang="gsw">
+          <lb n="7"/>
+          <w>Dann</w>
+          <w>jubl'</w>
+          <w>ich</w>
+          <w>laut</w>
+          <w>:</w>
+          <w>mein</w>
+          <w>Vaterland</w>
+          <w>,</w>
+          <lb n="8"/>
+          <w>Wie</w>
+          <w>bist</w>
+          <w>du</w>
+          <w>doch</w>
+          <w>so</w>
+          <w>schön</w>
+          <w>!</w>
+        </s>
+        <s n="13" xml:lang="de">
+          <lb n="9"/>
+          <w>Durch</w>
+          <w>alle</w>
+          <w>Gauen</w>
+          <w>schön</w>
+          <w>!</w>
+        </s>
+        <s n="14" xml:lang="de">
+          <lb n="10"/>
+          <w>Schwyzerhüsli</w>
+          <w>.</w>
+        </s>
+        <s n="15" xml:lang="gsw">
+          <lb n="11"/>
+          <w>J</w>
+          <w>han</w>
+          <w>es</w>
+          <w>Hüsli</w>
+          <w>nett</w>
+          <w>und</w>
+          <w>blank</w>
+          <w>,</w>
+          <lb n="12"/>
+          <w>Jm</w>
+          <w>liebe</w>
+          <w>Schwyzerland</w>
+          <w>,</w>
+          <lb n="13"/>
+          <w>Es</w>
+          <w>ist</w>
+          <w>umgeh</w>
+          <w>vo</w>
+          <w>Fichte</w>
+          <w>schlank</w>
+          <lb n="14"/>
+          <w>Und</w>
+          <w>lehnt</w>
+          <w>a</w>
+          <w>d'</w>
+          <w>Felsewand</w>
+          <w>.</w>
+        </s>
+        <s n="16" xml:lang="gsw">
+          <lb n="15"/>
+          <w>Es</w>
+          <w>bebt</w>
+          <w>nüd</w>
+          <w>vor</w>
+          <w>em</w>
+          <w>Wetterstrahl</w>
+          <w>,</w>
+          <lb n="16"/>
+          <w>Wenn's</w>
+          <w>ringsum</w>
+          <w>bruust</w>
+          <w>und</w>
+          <w>stürmt</w>
+          <w>;</w>
+          <lb n="17"/>
+          <w>Es</w>
+          <w>ist</w>
+          <w>im</w>
+          <w>ganze</w>
+          <w>Erdethal</w>
+          <lb n="18"/>
+          <w>Ke</w>
+          <w>Hus</w>
+          <w>,</w>
+          <w>das</w>
+          <w>Gott</w>
+          <w>so</w>
+          <w>schirmt</w>
+          <w>.</w>
+        </s>
+        <s n="17" xml:lang="gsw">
+          <lb n="19"/>
+          <w>Det</w>
+          <w>obe</w>
+          <w>fast</w>
+          <w>am</w>
+          <w>Himmel</w>
+          <w>lit's</w>
+          <w>,</w>
+          <lb n="20"/>
+          <w>Und</w>
+          <w>s'Vaterland</w>
+          <w>,</w>
+          <w>das</w>
+          <w>heißt</w>
+          <w>me</w>
+          <w>d'</w>
+          <w>Schwyz</w>
+          <w>,</w>
+          <lb n="21"/>
+          <w>Mi</w>
+          <w>liebi</w>
+          <w>schöni</w>
+          <w>Schwyz</w>
+          <w>.</w>
+        </s>
+        <s n="18" xml:lang="gsw">
+          <lb n="22"/>
+          <w>J</w>
+          <w>han</w>
+          <w>en</w>
+          <w>frohe</w>
+          <w>,</w>
+          <w>heitre</w>
+          <w>Sinn</w>
+          <w>,</w>
+          <lb n="23"/>
+          <w>En</w>
+          <w>guete</w>
+          <w>Appetit</w>
+          <w>,</w>
+        </s>
+      </p>
+    </body>
+  </text>
+</TEI>

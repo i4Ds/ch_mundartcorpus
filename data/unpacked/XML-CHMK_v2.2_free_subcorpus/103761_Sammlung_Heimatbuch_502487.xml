@@ -1,0 +1,380 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Rückkehr aus der Alp</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="shelf_mark_idiotikon">Ma. Ap Rot 2</note>
+        <note type="artikel_id">502487</note>
+        <note type="ocr_source">digital text retrieved through OCR</note>
+        <noteGrp type="dialect_region">
+          <note type="name">Appenzell Ausserrhoden Hinterland</note>
+          <note type="abbr">ApH.</note>
+          <note type="chmk-id">AR-1</note>
+        </noteGrp>
+        <noteGrp type="dialect_region">
+          <note type="name">Appenzell</note>
+          <note type="abbr">Ap</note>
+          <note type="chmk-id">CH-1</note>
+        </noteGrp>
+        <noteGrp type="dialect_canton">
+          <note type="name">Appenzell Ausserrhoden</note>
+          <note type="chmk-id">AR</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Merz, Johannes. 1927. Rückkehr aus der Alp. In: Heimatbuch für junge Appenzeller: Eine Sammlung heimatlicher Lesestoffe für Schule und Haus, hg. von Landesschulkommission von Appenzell Ausserrhoden, 101. Herisau.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Rückkehr aus der Alp</title>
+            <title type="subtitle"/>
+            <title type="abbreviated">Sammlung Heimatbuch</title>
+            <author>
+              <idno type="id">21019</idno>
+              <forename>Johannes</forename>
+              <surname>Merz</surname>
+              <name>Merz, Johannes</name>
+            </author>
+            <editor role="publisher">Landesschulkommission von Appenzell Ausserrhoden</editor>
+          </titleStmt>
+          <editionStmt>
+            <edition>1. Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>unbekannt/unpubliziert</publisher>
+            <pubPlace>Herisau</pubPlace>
+            <date type="publication_year">1927</date>
+            <date type="first_published">1827</date>
+          </publicationStmt>
+          <seriesStmt>
+            <title>Heimatbuch für junge Appenzeller: Eine Sammlung heimatlicher Lesestoffe für Schule und Haus</title>
+          </seriesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>103761</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Antiqua</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Lyrik (Versform)</term>
+          <term type="category">Keine der oben genannten</term>
+          <term type="formal_description">Schulbuch</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="de">
+          <pb n="101" facs="103761_101_502487"/>
+          <lb n="1"/>
+          <w>Rückkehr</w>
+          <w>aus</w>
+          <w>der</w>
+          <w>Alp</w>
+          <w>.</w>
+        </s>
+        <s n="2" xml:lang="gsw">
+          <lb n="2"/>
+          <w>Wie</w>
+          <w>chrücht</w>
+          <w>scho</w>
+          <w>de</w>
+          <w>Nebel</w>
+          <w>;</w>
+          <w>'s</w>
+          <w>get</w>
+          <w>Rife-n-ond</w>
+          <w>Schnee</w>
+          <w>;</w>
+          <lb n="3"/>
+          <w>'s</w>
+          <w>ischt</w>
+          <w>nomme</w>
+          <w>zom</w>
+          <w>Blibe</w>
+          <w>,</w>
+          <w>ke</w>
+          <w>Gräsli</w>
+          <w>wachst</w>
+          <w>meh</w>
+          <w>;</w>
+          <lb n="4"/>
+          <w>Rife-n-all</w>
+          <w>Morge</w>
+          <w>tuet</w>
+          <w>em</w>
+          <w>Vechli</w>
+          <w>nüd</w>
+          <w>guet</w>
+          <w>.</w>
+        </s>
+        <s n="3" xml:lang="gsw">
+          <lb n="5"/>
+          <w>Me</w>
+          <w>ischt</w>
+          <w>nomme</w>
+          <w>sicher</w>
+          <w>,</w>
+          <w>wenn's</w>
+          <w>zueschneiie</w>
+          <w>tuet</w>
+          <w>.</w>
+        </s>
+        <s n="4" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Was</w>
+          <w>ischt</w>
+          <w>jetz</w>
+          <w>no</w>
+          <w>z'warte</w>
+          <w>?</w>
+        </s>
+        <s n="5" xml:lang="gsw">
+          <w>I</w>
+          <w>chäse</w>
+          <w>gad</w>
+          <w>ab</w>
+          <w>.</w>
+        </s>
+        <s n="6" xml:lang="gsw">
+          <lb n="7"/>
+          <w>'s</w>
+          <w>ischt</w>
+          <w>hüt</w>
+          <w>jetz</w>
+          <w>gad</w>
+          <w>Zit</w>
+          <w>no</w>
+          <w>;</w>
+          <w>am</w>
+          <w>Guontig</w>
+          <w>)</w>
+          <w>dörab</w>
+          <w>.</w>
+        </s>
+        <s n="7" xml:lang="gsw">
+          <lb n="8"/>
+          <w>Hüt</w>
+          <w>fahrt</w>
+          <w>au</w>
+          <w>de</w>
+          <w>Josle</w>
+          <w>,</w>
+          <w>der</w>
+          <w>Ueli</w>
+          <w>will</w>
+          <w>morn</w>
+          <w>.</w>
+        </s>
+        <s n="8" xml:lang="gsw">
+          <lb n="9"/>
+          <w>'s</w>
+          <w>werd</w>
+          <w>bald</w>
+          <w>wieder</w>
+          <w>lär</w>
+          <w>do</w>
+          <w>,</w>
+          <w>bald</w>
+          <w>gsieht</w>
+          <w>me</w>
+          <w>ke</w>
+          <w>Horn</w>
+          <w>.</w>
+        </s>
+        <s n="9" xml:lang="gsw">
+          <lb n="10"/>
+          <w>Bi</w>
+          <w>gern</w>
+          <w>ufe</w>
+          <w>'gange</w>
+          <w>ond</w>
+          <w>gern</w>
+          <w>fahr</w>
+          <w>i</w>
+          <w>hä</w>
+          <w>;</w>
+          <lb n="11"/>
+          <w>Es</w>
+          <w>wor</w>
+          <w>jetz</w>
+          <w>scho</w>
+          <w>trurig</w>
+          <w>ond</w>
+          <w>nüd</w>
+          <w>guet</w>
+          <w>elä</w>
+          <w>.</w>
+        </s>
+        <s n="10" xml:lang="gsw">
+          <lb n="12"/>
+          <w>So</w>
+          <w>loschtig</w>
+          <w>as</w>
+          <w>'s</w>
+          <w>Vechli</w>
+          <w>im</w>
+          <w>Sommer</w>
+          <w>ischt</w>
+          <w>gse</w>
+          <w>,</w>
+          <lb n="13"/>
+          <w>So</w>
+          <w>tosem</w>
+          <w>isch</w>
+          <w>jetzet</w>
+          <w>;</w>
+          <w>wo</w>
+          <w>luegef's</w>
+          <w>all</w>
+          <w>he</w>
+          <w>?</w>
+        </s>
+        <s n="11" xml:lang="gsw">
+          <lb n="14"/>
+          <w>Aha</w>
+          <w>,</w>
+          <w>es</w>
+          <w>ghört</w>
+          <w>d'Schelle</w>
+          <w>,</w>
+          <w>de</w>
+          <w>Josli</w>
+          <w>fahrt</w>
+          <w>ab</w>
+          <w>.</w>
+        </s>
+        <s n="12" xml:lang="gsw">
+          <lb n="15"/>
+          <w>Bueb</w>
+          <w>,</w>
+          <w>gemmer</w>
+          <w>waul</w>
+          <w>achtig</w>
+          <w>;</w>
+          <w>es</w>
+          <w>lauft</w>
+          <w>der</w>
+          <w>dörab</w>
+          <w>.</w>
+        </s>
+        <s n="13" xml:lang="de">
+          <lb n="16"/>
+          <w>Der</w>
+          <w>Junker</w>
+          <w>,</w>
+          <w>der</w>
+          <w>Lecker</w>
+          <w>,</w>
+          <w>kennt</w>
+          <w>'s</w>
+          <w>Freiele</w>
+          <w>no</w>
+          <w>.</w>
+        </s>
+        <s n="14" xml:lang="gsw">
+          <lb n="17"/>
+          <w>Bueb</w>
+          <w>,</w>
+          <w>geb</w>
+          <w>no</w>
+          <w>waul</w>
+          <w>achtig</w>
+          <w>;</w>
+          <w>er</w>
+          <w>lauft</w>
+          <w>der</w>
+          <w>devo</w>
+          <w>.</w>
+        </s>
+        <s n="15" xml:lang="gsw">
+          <lb n="18"/>
+          <w>No</w>
+          <w>geb</w>
+          <w>is</w>
+          <w>der</w>
+          <w>lieb</w>
+          <w>Gott</w>
+          <w>,</w>
+          <w>mer</w>
+          <w>chömet</w>
+          <w>wohl</w>
+          <w>hä</w>
+          <w>!</w>
+        </s>
+        <s n="16" xml:lang="gsw">
+          <lb n="19"/>
+          <w>Ond</w>
+          <w>frogt</w>
+          <w>me</w>
+          <w>:</w>
+        </s>
+        <s n="17" xml:lang="de">
+          <w>Chonscht</w>
+          <w>gern</w>
+          <w>wieder</w>
+          <w>?</w>
+        </s>
+        <s n="18" xml:lang="gsw">
+          <w>säg</w>
+          <w>i</w>
+          <w>nüd</w>
+          <w>nä</w>
+          <w>!</w>
+        </s>
+        <s n="19" xml:lang="gsw">
+          <lb n="20"/>
+          <w>I</w>
+          <w>ha</w>
+          <w>jo</w>
+          <w>mi</w>
+          <w>Fräuli</w>
+          <w>gwöß</w>
+          <w>au</w>
+          <w>nüd</w>
+          <w>drom</w>
+          <w>gnoh</w>
+          <lb n="21"/>
+          <w>Zom</w>
+          <w>ahde</w>
+          <w>fortblibe</w>
+          <w>ond</w>
+          <w>ahde</w>
+          <w>verloh</w>
+          <w>!</w>
+        </s>
+        <s n="20" xml:lang="de">
+          <lb n="22"/>
+          <w>J</w>
+          <w>.</w>
+        </s>
+        <s n="21" xml:lang="de">
+          <w>Merz</w>
+          <lb n="23"/>
+          <w>)</w>
+          <w>Montag</w>
+        </s>
+      </p>
+    </body>
+  </text>
+</TEI>

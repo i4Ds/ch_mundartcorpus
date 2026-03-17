@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>I plange</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="artikel_id">501664</note>
+        <note type="ocr_source">digital text copied from pdf source</note>
+        <noteGrp type="dialect_municipality">
+          <note type="name">Amriswil</note>
+          <note type="abbr">ThAmr., ThAmrisw.</note>
+          <note type="onch-id">802004461</note>
+        </noteGrp>
+        <noteGrp type="dialect_region">
+          <note type="name">Thurgau Oberthurgau</note>
+          <note type="abbr">oTh</note>
+          <note type="chmk-id">TG-3</note>
+        </noteGrp>
+        <noteGrp type="dialect_canton">
+          <note type="name">Thurgau</note>
+          <note type="chmk-id">TG</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Larese, Dino. 2014. I plange. In: Thurgauer Mundart in Geschichte und Gegenwart, hg. von Graf, Martin Hannes, 5:88. 2., überarbeitete und erweiterte Auflage. Bern: Schweizerische Akademie der Geistes- und Sozialwissenschaften. https://www.idiotikon.ch/Texte/Graf/Thurgauer_Mundart_low.pdf (zugegriffen: 16. November 2021).</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">I plange</title>
+            <title type="subtitle"/>
+            <title type="abbreviated">Sammlung Mundart</title>
+            <author>
+              <idno type="id">25221</idno>
+              <forename>Dino</forename>
+              <surname>Larese</surname>
+              <name>Larese, Dino</name>
+            </author>
+            <editor role="publisher">Graf, Martin Hannes</editor>
+          </titleStmt>
+          <editionStmt>
+            <edition>2., überarbeitete und erweiterte Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Schweizerische Akademie der Geistes- und Sozialwissenschaften</publisher>
+            <pubPlace>Bern</pubPlace>
+            <date type="publication_year">2014</date>
+            <date type="first_published">1987</date>
+            <date type="accessed_date">16/11/2021</date>
+            <ref type="target">https://www.idiotikon.ch/Texte/Graf/Thurgauer_Mundart_low.pdf</ref>
+          </publicationStmt>
+          <seriesStmt>
+            <title>Thurgauer Mundart in Geschichte und Gegenwart</title>
+            <biblScope>Band 5</biblScope>
+          </seriesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>105748</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Antiqua</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Lyrik (Versform)</term>
+          <term type="category">Belletristik</term>
+          <term type="formal_description">Erzählunge(n)</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="gsw">
+          <pb n="88" facs="105748_088_501664"/>
+          <lb n="1"/>
+          <w>Dino</w>
+          <w>Larese</w>
+          <w>(</w>
+          <w>1914-2001</w>
+          <w>)</w>
+          <lb n="2"/>
+          <w>I</w>
+          <w>plange</w>
+          <w>(</w>
+          <w>1987</w>
+          <w>)</w>
+          <lb n="3"/>
+          <w>I</w>
+          <w>weiss</w>
+          <w>,</w>
+          <w>i</w>
+          <w>ha</w>
+          <w>dr</w>
+          <w>Chummer</w>
+          <w>gmacht</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Hesch</w>
+          <w>müene</w>
+          <w>brüele</w>
+          <w>wege</w>
+          <w>mer</w>
+          <w>;</w>
+          <lb n="5"/>
+          <w>I</w>
+          <w>has</w>
+          <w>nöd</w>
+          <w>wele</w>
+          <w>,</w>
+          <w>dass</w>
+          <w>so</w>
+          <w>chont</w>
+          <w>,</w>
+          <lb n="6"/>
+          <w>Wa</w>
+          <w>gäbti</w>
+          <w>jetz</w>
+          <w>wenn</w>
+          <w>s</w>
+          <w>anderscht</w>
+          <w>wär</w>
+          <w>!</w>
+        </s>
+        <s n="2" xml:lang="gsw">
+          <lb n="7"/>
+          <w>I</w>
+          <w>stoone</w>
+          <w>do</w>
+          <w>mit</w>
+          <w>leere</w>
+          <w>Händ</w>
+          <lb n="8"/>
+          <w>Wie</w>
+          <w>wiit</w>
+          <w>ewäg</w>
+          <w>und</w>
+          <w>ganz</w>
+          <w>elei</w>
+          <w>–</w>
+          <lb n="9"/>
+          <w>O</w>
+          <w>wenn</w>
+          <w>t</w>
+          <w>du</w>
+          <w>chämscht</w>
+          <w>und</w>
+          <w>säge</w>
+          <w>wörscht</w>
+          <w>:</w>
+          <lb n="10"/>
+          <w>Chom</w>
+          <w>,</w>
+          <w>s</w>
+          <w>isch</w>
+          <w>verbi</w>
+          <w>,</w>
+          <w>chom</w>
+          <w>zuemer</w>
+          <w>hei</w>
+          <w>!</w>
+        </s>
+        <s n="3" xml:lang="it">
+			
+		</s>
+      </p>
+    </body>
+  </text>
+</TEI>

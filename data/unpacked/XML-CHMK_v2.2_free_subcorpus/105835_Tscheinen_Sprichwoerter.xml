@@ -1,0 +1,283 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Walliser Sprichwörter</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="ocr_source">digital text copied from pdf source</note>
+        <noteGrp type="dialect_municipality">
+          <note type="name">Grächen</note>
+          <note type="abbr">WGräch.</note>
+          <note type="onch-id">802006285</note>
+        </noteGrp>
+        <noteGrp type="dialect_canton">
+          <note type="name">Wallis</note>
+          <note type="chmk-id">VS</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Tscheinen, Moritz. 1897. Walliser Sprichwörter. In: Schweizerisches Archiv für Volkskunde, hg. von Schweizerische Gesellschaft für Volkskunde, 1:162. Zürich: Druck von Emil Cotti. https://www.e-periodica.ch/digbib/view?pid=sav-001%3A1897%3A1#170 (zugegriffen: 9. Juni 2021).</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Walliser Sprichwörter</title>
+            <title type="subtitle"/>
+            <title type="abbreviated">Tscheinen Sprichwörter</title>
+            <author>
+              <idno type="id">25098</idno>
+              <forename>Moritz</forename>
+              <surname>Tscheinen</surname>
+              <name>Tscheinen, Moritz</name>
+            </author>
+            <editor role="publisher">Schweizerische Gesellschaft für Volkskunde</editor>
+          </titleStmt>
+          <editionStmt>
+            <edition>1. Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Druck von Emil Cotti</publisher>
+            <pubPlace>Zürich</pubPlace>
+            <date type="publication_year">1897</date>
+            <date type="first_published">1897</date>
+            <date type="accessed_date">09/06/2021</date>
+            <ref type="target">https://www.e-periodica.ch/digbib/view?pid=sav-001%3A1897%3A1#170</ref>
+          </publicationStmt>
+          <seriesStmt>
+            <title>Schweizerisches Archiv für Volkskunde</title>
+            <biblScope>Band 1</biblScope>
+          </seriesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>105835</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Antiqua</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Lyrik (Versform)</term>
+          <term type="category">journalistischer Text</term>
+          <term type="formal_description">Sprichwort</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p/>
+      <p>
+        <s n="1" xml:lang="de">
+          <pb n="162" facs="1"/>
+          <lb n="1"/>
+          <w>162</w>
+          <lb n="2"/>
+          <w>Walliser</w>
+          <w>Sprichwörter</w>
+          <w>.</w>
+        </s>
+        <s n="2" xml:lang="de">
+          <lb n="3"/>
+          <w>Walliser</w>
+          <w>Sprichwörter</w>
+          <w>.</w>
+        </s>
+        <s n="3" xml:lang="de">
+          <lb n="4"/>
+          <w>Aus</w>
+          <w>einem</w>
+          <w>Manuskript</w>
+          <w>von</w>
+          <lb n="5"/>
+          <w>f</w>
+          <w>Pfarrer</w>
+          <w>M</w>
+          <w>.</w>
+        </s>
+        <s n="4" xml:lang="de">
+          <w>Tscheinen</w>
+          <w>in</w>
+          <w>Grächen</w>
+          <w>.</w>
+        </s>
+        <s n="5" xml:lang="de">
+          <lb n="6"/>
+          <w>Ortsbruuch</w>
+          <w>ist</w>
+          <w>über</w>
+          <w>Landrecht</w>
+          <w>.</w>
+        </s>
+        <s n="6" xml:lang="gsw">
+          <lb n="7"/>
+          <w>Meinu</w>
+          <w>und</w>
+          <w>nit</w>
+          <w>wissu</w>
+          <lb n="8"/>
+          <w>Hat</w>
+          <w>scho</w>
+          <w>menge</w>
+          <w>Biderma</w>
+          <w>bschissu</w>
+          <w>.</w>
+        </s>
+        <s n="7" xml:lang="gsw">
+          <lb n="9"/>
+          <w>*</w>
+          <lb n="10"/>
+          <w>#</w>
+          <lb n="11"/>
+          <w>Wer</w>
+          <w>um</w>
+          <w>as</w>
+          <w>guots</w>
+          <w>Wort</w>
+          <w>nit</w>
+          <w>tuot</w>
+          <w>.</w>
+        </s>
+        <s n="8" xml:lang="gsw">
+          <lb n="12"/>
+          <w>Dem</w>
+          <w>geit</w>
+          <w>es</w>
+          <w>seltu</w>
+          <w>guot</w>
+          <w>.</w>
+        </s>
+        <s n="9" xml:lang="gsw">
+          <lb n="13"/>
+          <w>*</w>
+          <lb n="14"/>
+          <w>*</w>
+          <lb n="15"/>
+          <w>*</w>
+          <lb n="16"/>
+          <w>Wary</w>
+          <w>der</w>
+          <w>Wolf</w>
+          <w>ghuutot</w>
+          <w>,</w>
+          <w>dary</w>
+          <w>ghaarot</w>
+          <w>er</w>
+          <w>.</w>
+        </s>
+        <s n="10" xml:lang="gsw">
+          <lb n="17"/>
+          <w>Was</w>
+          <w>der</w>
+          <w>Bock</w>
+          <w>va</w>
+          <w>schich</w>
+          <w>weiss</w>
+          <w>,</w>
+          <lb n="18"/>
+          <w>Das</w>
+          <w>meint</w>
+          <w>er</w>
+          <w>van</w>
+          <w>der</w>
+          <w>Geis</w>
+          <w>.</w>
+        </s>
+        <s n="11" xml:lang="gsw">
+          <lb n="19"/>
+          <w>An</w>
+          <w>einzige</w>
+          <w>ungrechte</w>
+          <w>Chryzer</w>
+          <w>frisst</w>
+          <w>hundert</w>
+          <w>darzuo</w>
+          <w>.</w>
+        </s>
+        <s n="12" xml:lang="gsw">
+          <lb n="20"/>
+          <w>*</w>
+          <lb n="21"/>
+          <w>D's</w>
+          <w>Gfressna</w>
+          <lb n="22"/>
+          <w>D's</w>
+          <w>Vergessna</w>
+          <w>.</w>
+        </s>
+        <s n="13" xml:lang="gsw">
+          <lb n="23"/>
+          <w>*</w>
+          <lb n="24"/>
+          <w>*</w>
+          <lb n="25"/>
+          <w>*</w>
+          <lb n="26"/>
+          <w>Riehm</w>
+          <w>der</w>
+          <w>Gäüch</w>
+          <w>.</w>
+        </s>
+        <s n="14" xml:lang="gsw">
+          <lb n="27"/>
+          <w>So</w>
+          <w>tuot</w>
+          <w>er</w>
+          <w>auch</w>
+          <w>.</w>
+        </s>
+        <s n="15" xml:lang="gsw">
+          <lb n="28"/>
+          <w>*</w>
+          <lb n="29"/>
+          <w>Stier</w>
+          <w>,</w>
+          <w>gib</w>
+          <w>na</w>
+          <w>!</w>
+        </s>
+        <s n="16" xml:lang="gsw">
+          <w>i</w>
+          <w>gibu</w>
+          <w>nit</w>
+          <w>na</w>
+          <w>.</w>
+        </s>
+        <s n="17" xml:lang="gsw">
+          <lb n="30"/>
+          <w>*</w>
+          <lb n="31"/>
+          <w>*</w>
+          <lb n="32"/>
+          <w>*</w>
+          <lb n="33"/>
+          <w>Besser</w>
+          <w>ist</w>
+          <w>z'vil</w>
+          <w>gfressu</w>
+          <w>,</w>
+          <w>als</w>
+          <w>z'vil</w>
+          <w>gredt</w>
+          <w>.</w>
+        </s>
+        <s n="18" xml:lang="it">
+			
+		</s>
+      </p>
+    </body>
+  </text>
+</TEI>

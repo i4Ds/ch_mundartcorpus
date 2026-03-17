@@ -1,0 +1,516 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Lieder</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="shelf_mark_idiotikon">Ma. Th Born</note>
+        <note type="ocr_source">digital text retrieved through OCR</note>
+        <noteGrp type="dialect_canton">
+          <note type="name">Thurgau</note>
+          <note type="chmk-id">TG</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Bornhauser, Thomas. 1832. Lieder. Trogen: Meyer und Zuberbühler.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Lieder</title>
+            <title type="subtitle"/>
+            <title type="abbreviated">Bornhauser Lieder</title>
+            <author>
+              <idno type="id">20192</idno>
+              <forename>Thomas</forename>
+              <surname>Bornhauser</surname>
+              <name>Bornhauser, Thomas</name>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition>1. Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Meyer und Zuberbühler</publisher>
+            <pubPlace>Trogen</pubPlace>
+            <date type="publication_year">1832</date>
+            <date type="first_published">1832</date>
+          </publicationStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>102787</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Fraktur</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Lyrik (Versform)</term>
+          <term type="category">Belletristik</term>
+          <term type="formal_description">Lieder</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="gsw">
+          <pb n="89" facs="102787_089"/>
+          <lb n="1"/>
+          <w>Und</w>
+          <w>gwaltig</w>
+          <w>fühlt</w>
+          <w>er</w>
+          <w>s'</w>
+          <w>Herz</w>
+          <w>verdwarma</w>
+          <w>,</w>
+          <lb n="2"/>
+          <w>Mit</w>
+          <w>alla</w>
+          <w>Menscha</w>
+          <w>meint</w>
+          <w>er's</w>
+          <w>guat</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>Er</w>
+          <w>redt</w>
+          <w>mit</w>
+          <w>Richa</w>
+          <w>,</w>
+          <w>redt</w>
+          <w>mit</w>
+          <w>Arma</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Hilft</w>
+          <w>jederma</w>
+          <w>mit</w>
+          <w>Guat</w>
+          <w>und</w>
+          <w>Bluat</w>
+          <w>.</w>
+        </s>
+        <s n="2" xml:lang="gsw">
+          <lb n="5"/>
+          <w>Der</w>
+          <w>Ma</w>
+          <w>,</w>
+          <w>ischt</w>
+          <w>vo</w>
+          <w>der</w>
+          <w>rechta</w>
+          <w>Lei</w>
+          <w>,</w>
+          <lb n="6"/>
+          <w>Er</w>
+          <w>ischt</w>
+          <w>mit</w>
+          <w>alla</w>
+          <w>Lüta</w>
+          <w>frei</w>
+          <w>.</w>
+        </s>
+        <s n="3" xml:lang="gsw">
+          <lb n="7"/>
+          <w>Us</w>
+          <w>dera</w>
+          <w>brava</w>
+          <w>Schwizerseela</w>
+          <lb n="8"/>
+          <w>Sött's</w>
+          <w>Volk</w>
+          <w>i</w>
+          <w>Thal</w>
+          <w>und</w>
+          <w>Berga</w>
+          <w>bstoh</w>
+          <w>;</w>
+          <lb n="9"/>
+          <w>Wer</w>
+          <w>selber</w>
+          <w>d'</w>
+          <w>Oberkeit</w>
+          <w>cha</w>
+          <w>wähla</w>
+          <w>,</w>
+          <lb n="10"/>
+          <w>Kennt</w>
+          <w>weder</w>
+          <w>Heer</w>
+          <w>nah</w>
+          <w>Untertho</w>
+          <w>.</w>
+        </s>
+        <s n="4" xml:lang="gsw">
+          <lb n="11"/>
+          <w>Sin</w>
+          <w>Heer</w>
+          <w>ischt</w>
+          <w>Gott</w>
+          <w>und's</w>
+          <w>Gsetz</w>
+          <w>allei</w>
+          <w>—</w>
+          <lb n="12"/>
+          <w>So</w>
+          <w>hett's</w>
+          <w>de</w>
+          <w>Schwizer</w>
+          <w>,</w>
+          <w>der</w>
+          <w>ischt</w>
+          <w>frei</w>
+          <w>.</w>
+        </s>
+        <s n="5" xml:lang="gsw">
+          <lb n="13"/>
+          <w>Drum</w>
+          <w>chlingt</w>
+          <w>für's</w>
+          <w>Guat</w>
+          <w>und</w>
+          <w>Schö</w>
+          <w>im</w>
+          <w>Leba</w>
+          <lb n="14"/>
+          <w>Au</w>
+          <w>s'</w>
+          <w>Wörtli</w>
+          <w>frei</w>
+          <w>im</w>
+          <w>Schwizermund</w>
+          <w>.</w>
+        </s>
+        <s n="6" xml:lang="gsw">
+          <lb n="15"/>
+          <w>Ja</w>
+          <w>glaubet</w>
+          <w>nu</w>
+          <w>,</w>
+          <w>s'</w>
+          <w>ischt</w>
+          <w>nid</w>
+          <w>vergeba</w>
+          <w>,</w>
+          <lb n="16"/>
+          <w>D'</w>
+          <w>Sach</w>
+          <w>hett</w>
+          <w>en</w>
+          <w>tüfa</w>
+          <w>,</w>
+          <w>tüfa</w>
+          <w>Grund</w>
+          <w>.</w>
+        </s>
+        <s n="7" xml:lang="gsw">
+          <lb n="17"/>
+          <w>Es</w>
+          <w>lehrt</w>
+          <w>is</w>
+          <w>,</w>
+          <w>daß</w>
+          <w>der</w>
+          <w>alles</w>
+          <w>hei</w>
+          <w>,</w>
+          <lb n="18"/>
+          <w>Der</w>
+          <w>säga</w>
+          <w>cha</w>
+          <w>:</w>
+          <w>i</w>
+          <w>leba</w>
+          <w>frei</w>
+          <w>.</w>
+        </s>
+        <s n="8" xml:lang="de">
+          <pb n="90" facs="102787_090"/>
+          <lb n="1"/>
+          <w>Das</w>
+          <w>Grab</w>
+          <w>der</w>
+          <w>Ahnen</w>
+          <w>.</w>
+        </s>
+        <s n="9" xml:lang="gsw">
+          <lb n="2"/>
+          <w>Laß't</w>
+          <w>ihr</w>
+          <w>Sänger</w>
+          <w>Berg</w>
+          <w>und</w>
+          <w>Weide</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>Steig't</w>
+          <w>zum</w>
+          <w>Wahlplatz</w>
+          <w>da</w>
+          <w>herab</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Wehmuth</w>
+          <w>flüstert</w>
+          <w>durch</w>
+          <w>die</w>
+          <w>Heide</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>Ahnung</w>
+          <w>um</w>
+          <w>der</w>
+          <w>Väter</w>
+          <w>Grab</w>
+          <w>.</w>
+        </s>
+        <s n="10" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Heilig</w>
+          <w>ist</w>
+          <w>die</w>
+          <w>Stätte</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Jm</w>
+          <w>bemoosten</w>
+          <w>Becte</w>
+          <lb n="8"/>
+          <w>Ruht</w>
+          <w>der</w>
+          <w>Heldenschaar</w>
+          <w>.</w>
+        </s>
+        <s n="11" xml:lang="de">
+          <lb n="9"/>
+          <w>Bring't</w>
+          <w>den</w>
+          <w>Manen</w>
+          <lb n="10"/>
+          <w>Großer</w>
+          <w>Ahnen</w>
+          <lb n="11"/>
+          <w>Dank</w>
+          <w>und</w>
+          <w>Lieder</w>
+          <w>dar</w>
+          <w>.</w>
+        </s>
+        <s n="12" xml:lang="de">
+          <lb n="12"/>
+          <w>Gegen</w>
+          <w>helmumbüschte</w>
+          <w>Ritter</w>
+          <lb n="13"/>
+          <w>Für</w>
+          <w>das</w>
+          <w>Hochland</w>
+          <w>floß</w>
+          <w>ihr</w>
+          <w>Blut</w>
+          <w>.</w>
+        </s>
+        <s n="13" xml:lang="de">
+          <lb n="14"/>
+          <w>Schrecklich</w>
+          <w>war</w>
+          <w>das</w>
+          <w>Schlachtgewitter</w>
+          <w>,</w>
+          <lb n="15"/>
+          <w>Felsenfest</w>
+          <w>der</w>
+          <w>Väter</w>
+          <w>Muth</w>
+          <w>.</w>
+        </s>
+        <s n="14" xml:lang="de">
+          <lb n="16"/>
+          <w>Heilig</w>
+          <w>ist</w>
+          <w>die</w>
+          <w>Stätte</w>
+          <w>rc</w>
+          <w>.</w>
+        </s>
+        <s n="15" xml:lang="gsw">
+          <w>rc</w>
+          <w>.</w>
+        </s>
+        <s n="16" xml:lang="de">
+          <lb n="17"/>
+          <w>Vor</w>
+          <w>des</w>
+          <w>Bergsohns</w>
+          <w>hohen</w>
+          <w>Streichen</w>
+          <lb n="18"/>
+          <w>Stürzte</w>
+          <w>Ritter</w>
+          <w>hin</w>
+          <w>und</w>
+          <w>Roß</w>
+          <w>;</w>
+          <pb n="91" facs="102787_091"/>
+          <lb n="1"/>
+          <w>Auf</w>
+          <w>der</w>
+          <w>Garbe</w>
+          <w>seiner</w>
+          <w>Leichen</w>
+          <lb n="2"/>
+          <w>Starb</w>
+          <w>der</w>
+          <w>Sieger</w>
+          <w>froh</w>
+          <w>und</w>
+          <w>groß</w>
+          <w>.</w>
+        </s>
+        <s n="17" xml:lang="gsw">
+          <lb n="3"/>
+          <w>Heilig</w>
+          <w>r</w>
+          <w>.</w>
+        </s>
+        <s n="18" xml:lang="gsw">
+          <w>rc</w>
+          <w>.</w>
+        </s>
+        <s n="19" xml:lang="de">
+          <lb n="4"/>
+          <w>Muth</w>
+          <w>und</w>
+          <w>Unschuld</w>
+          <w>müssen</w>
+          <w>siegen</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>Jhre</w>
+          <w>Opfer</w>
+          <w>segnet</w>
+          <w>Gott</w>
+          <w>;</w>
+          <lb n="6"/>
+          <w>Und</w>
+          <w>wo</w>
+          <w>große</w>
+          <w>Todten</w>
+          <w>liegen</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Strahlt</w>
+          <w>der</w>
+          <w>Freiheit</w>
+          <w>Morgenroth</w>
+          <w>.</w>
+        </s>
+        <s n="20" xml:lang="gsw">
+          <lb n="8"/>
+          <w>Heilig</w>
+          <w>rc</w>
+          <w>.</w>
+        </s>
+        <s n="21" xml:lang="gsw">
+          <w>rc</w>
+          <w>.</w>
+        </s>
+        <s n="22" xml:lang="gsw">
+          <lb n="9"/>
+          <w>Darum</w>
+          <w>blüht</w>
+          <w>in</w>
+          <w>diesen</w>
+          <w>Bergen</w>
+          <lb n="10"/>
+          <w>Hehr</w>
+          <w>der</w>
+          <w>Freiheit</w>
+          <w>Heiligthum</w>
+          <w>,</w>
+          <lb n="11"/>
+          <w>Und</w>
+          <w>ob</w>
+          <w>unsrer</w>
+          <w>Väter</w>
+          <w>Särgen</w>
+          <lb n="12"/>
+          <w>Singen</w>
+          <w>wir</w>
+          <w>der</w>
+          <w>Vorzeit</w>
+          <w>Ruhm</w>
+          <w>.</w>
+        </s>
+        <s n="23" xml:lang="gsw">
+          <lb n="13"/>
+          <w>Heilig</w>
+          <w>rc</w>
+          <w>.</w>
+        </s>
+        <s n="24" xml:lang="gsw">
+          <w>rc</w>
+          <w>.</w>
+        </s>
+        <s n="25" xml:lang="de">
+          <lb n="14"/>
+          <w>Wachet</w>
+          <w>ob</w>
+          <w>des</w>
+          <w>Himmels</w>
+          <w>Gabe</w>
+          <w>,</w>
+          <lb n="15"/>
+          <w>Steht</w>
+          <w>für</w>
+          <w>sie</w>
+          <w>mit</w>
+          <w>That</w>
+          <w>und</w>
+          <w>Wort</w>
+          <w>;</w>
+          <lb n="16"/>
+          <w>Kämpft</w>
+          <w>ob</w>
+          <w>eurer</w>
+          <w>Väter</w>
+          <w>Grabe</w>
+          <lb n="17"/>
+          <w>Stets</w>
+          <w>den</w>
+          <w>Kampf</w>
+          <w>der</w>
+          <w>Freiheit</w>
+          <w>fort</w>
+          <w>.</w>
+        </s>
+        <s n="26" xml:lang="de">
+          <lb n="18"/>
+          <w>Heilig</w>
+          <w>rc</w>
+          <w>..</w>
+        </s>
+        <s n="27" xml:lang="it">
+			
+		</s>
+      </p>
+    </body>
+  </text>
+</TEI>

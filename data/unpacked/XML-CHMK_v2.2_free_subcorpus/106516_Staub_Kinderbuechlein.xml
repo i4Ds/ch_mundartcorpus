@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kinderbüchlein</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="shelf_mark_idiotikon">Ma. Z (J)Staub 2</note>
+        <note type="ocr_source">digital text retrieved through OCR</note>
+        <noteGrp type="dialect_canton">
+          <note type="name">Zürich</note>
+          <note type="chmk-id">ZH</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Staub, Johannes. 1852. Kinderbüchlein: Neuntes Heft. 2., umgearbeitete Auflage. Bd. 9. St. Gallen: Scheitlin und Zollikofer.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Kinderbüchlein</title>
+            <title type="subtitle">Neuntes Heft</title>
+            <title type="abbreviated">Staub Kinderbüchlein</title>
+            <author>
+              <idno type="id">21195</idno>
+              <forename>Johannes</forename>
+              <surname>Staub</surname>
+              <name>Staub, Johannes</name>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition>2., umgearbeitete Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Scheitlin und Zollikofer</publisher>
+            <pubPlace>St. Gallen</pubPlace>
+            <date type="publication_year">1852</date>
+            <date type="first_published">1951</date>
+          </publicationStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>106516</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Fraktur</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Lyrik/Prosa</term>
+          <term type="category">Belletristik</term>
+          <term type="formal_description">Lesebuch</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="de">
+          <pb n="2" facs="106516_002"/>
+          <lb n="1"/>
+          <w>Jm</w>
+          <w>Winter</w>
+          <w>.</w>
+        </s>
+        <s n="2" xml:lang="gsw">
+          <lb n="2"/>
+          <w>Es</w>
+          <w>schneielet</w>
+          <w>,</w>
+          <w>es</w>
+          <w>beielet</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>Es</w>
+          <w>gaht</w>
+          <w>en</w>
+          <w>chühle</w>
+          <w>Wind</w>
+          <w>;</w>
+          <lb n="4"/>
+          <w>Es</w>
+          <w>früret</w>
+          <w>alle</w>
+          <w>Vögeli</w>
+          <lb n="5"/>
+          <w>Und</w>
+          <w>alle</w>
+          <w>chline</w>
+          <w>Chind</w>
+          <w>.</w>
+        </s>
+        <s n="3" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Es</w>
+          <w>schneielet</w>
+          <w>,</w>
+          <w>es</w>
+          <w>beielet</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Es</w>
+          <w>gaht</w>
+          <w>en</w>
+          <w>chüle</w>
+          <w>Wind</w>
+          <w>,</w>
+          <lb n="8"/>
+          <w>J</w>
+          <w>han</w>
+          <w>es</w>
+          <w>Stückli</w>
+          <w>Brod</w>
+          <w>im</w>
+          <w>Sack</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>Das</w>
+          <w>g'hört</w>
+          <w>dem</w>
+          <w>ärmste</w>
+          <w>Chind</w>
+          <w>.</w>
+        </s>
+        <s n="4" xml:lang="gsw">
+          <lb n="10"/>
+          <w>Nineli</w>
+          <w>,</w>
+          <w>Nänneli</w>
+          <w>,</w>
+          <w>Wägeli</w>
+          <w>,</w>
+          <w>Stroh</w>
+          <w>,</w>
+          <lb n="11"/>
+          <w>'s</w>
+          <w>Chätzli</w>
+          <w>ist</w>
+          <w>g'storbe</w>
+          <w>,</w>
+          <w>'s</w>
+          <w>Müsli</w>
+          <w>ist</w>
+          <w>froh</w>
+          <w>.</w>
+        </s>
+        <s n="5" xml:lang="gsw">
+          <lb n="12"/>
+          <w>Nineli</w>
+          <w>,</w>
+          <w>Nänneli</w>
+          <w>,</w>
+          <w>Wägeli</w>
+          <w>,</w>
+          <w>Stroh</w>
+          <w>,</w>
+          <lb n="13"/>
+          <w>Wär</w>
+          <w>'s</w>
+          <w>Chätzli</w>
+          <w>nüd</w>
+          <w>g'storbe</w>
+          <w>,</w>
+          <w>wär</w>
+          <w>'s</w>
+          <w>Müsli</w>
+          <w>nüd</w>
+          <w>froh</w>
+          <w>.</w>
+        </s>
+        <s n="6" xml:lang="it">
+			
+		</s>
+      </p>
+    </body>
+  </text>
+</TEI>

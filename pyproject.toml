@@ -1,0 +1,9 @@
+[project]
+name = "mundartcorpus"
+version = "0.1.0"
+description = "CHMK XML to readable CSV exporter"
+requires-python = ">=3.12"
+dependencies = []
+
+[project.scripts]
+chmk-export = "main:main"

@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Alpaufzug und die Tracht der Innerrhoderinnen</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="shelf_mark_idiotikon">Ma. Ap Rot 2</note>
+        <note type="artikel_id">502501</note>
+        <note type="ocr_source">digital text retrieved through OCR</note>
+        <noteGrp type="dialect_canton">
+          <note type="name">Appenzell Ausserrhoden</note>
+          <note type="chmk-id">AR</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Fässler, Hermine. 1927. Alpaufzug und die Tracht der Innerrhoderinnen. In: Heimatbuch für junge Appenzeller: Eine Sammlung heimatlicher Lesestoffe für Schule und Haus, hg. von Landesschulkommission von Appenzell Ausserrhoden, 84. Herisau.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Alpaufzug und die Tracht der Innerrhoderinnen</title>
+            <title type="subtitle"/>
+            <title type="abbreviated">Sammlung Heimatbuch</title>
+            <author>
+              <idno type="id">26313</idno>
+              <forename>Hermine</forename>
+              <surname>Fässler</surname>
+              <name>Fässler, Hermine</name>
+            </author>
+            <editor role="publisher">Landesschulkommission von Appenzell Ausserrhoden</editor>
+          </titleStmt>
+          <editionStmt>
+            <edition>1. Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>unbekannt/unpubliziert</publisher>
+            <pubPlace>Herisau</pubPlace>
+            <date type="publication_year">1927</date>
+            <date type="first_published">1920</date>
+          </publicationStmt>
+          <seriesStmt>
+            <title>Heimatbuch für junge Appenzeller: Eine Sammlung heimatlicher Lesestoffe für Schule und Haus</title>
+          </seriesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>103761</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Antiqua</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Lyrik (Versform)</term>
+          <term type="category">Keine der oben genannten</term>
+          <term type="formal_description">Schulbuch</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="gsw">
+          <pb n="84" facs="103761_084_502501"/>
+          <lb n="1"/>
+          <w>Loschti</w>
+          <w>sömmer</w>
+          <w>ade</w>
+          <w>gsee</w>
+          <w>,</w>
+          <lb n="2"/>
+          <w>loschti</w>
+          <w>bi</w>
+          <w>de</w>
+          <w>Lüüte</w>
+          <w>;</w>
+          <lb n="3"/>
+          <w>wenn</w>
+          <w>mer'sch</w>
+          <w>nüd</w>
+          <w>verträge</w>
+          <w>mag</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>so</w>
+          <w>söll</w>
+          <w>mer'sch</w>
+          <w>gad</w>
+          <w>verbüüte</w>
+          <w>!</w>
+        </s>
+        <s n="2" xml:lang="gsw">
+          <lb n="5"/>
+          <w>Hermine</w>
+          <w>Fäßler</w>
+          <w>.</w>
+        </s>
+        <s n="3" xml:lang="it">
+			
+		</s>
+      </p>
+    </body>
+  </text>
+</TEI>

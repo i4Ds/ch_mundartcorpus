@@ -1,0 +1,450 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Mys Buebli</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="ocr_source">digital text retrieved through OCR</note>
+        <noteGrp type="dialect_municipality">
+          <note type="name">Stadt Bern</note>
+          <note type="abbr">BStdt</note>
+          <note type="onch-id">802000351</note>
+        </noteGrp>
+        <noteGrp type="dialect_region">
+          <note type="name">Bern Unterland</note>
+          <note type="abbr">BU.</note>
+          <note type="chmk-id">BE-23</note>
+        </noteGrp>
+        <noteGrp type="dialect_region">
+          <note type="name">Bern Mittelland</note>
+          <note type="abbr">BM.</note>
+          <note type="chmk-id">BE-13</note>
+        </noteGrp>
+        <noteGrp type="dialect_canton">
+          <note type="name">Bern</note>
+          <note type="chmk-id">BE</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Dietzi-Bion, Hedwig. 1903. Mys Buebli. In: Die Schweiz: schweizerische illustrierte Zeitschrift, 7:72. Zürich: A.-G. Verlag. https://dx.doi.org/10.5169/seals-572175 (zugegriffen: 12. August 2021).</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Mys Buebli</title>
+            <title type="subtitle"/>
+            <title type="abbreviated">Dietzi Buebli</title>
+            <author>
+              <idno type="id">20773</idno>
+              <forename>Hedwig</forename>
+              <surname>Dietzi-Bion</surname>
+              <name>Dietzi-Bion, Hedwig</name>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition>1. Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>A.-G. Verlag</publisher>
+            <pubPlace>Zürich</pubPlace>
+            <date type="publication_year">1903</date>
+            <date type="first_published">1903</date>
+            <date type="accessed_date">12/08/2021</date>
+            <ref type="target">https://dx.doi.org/10.5169/seals-572175</ref>
+          </publicationStmt>
+          <seriesStmt>
+            <title>Die Schweiz: schweizerische illustrierte Zeitschrift</title>
+            <biblScope>Band 7</biblScope>
+          </seriesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>105785</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Fraktur</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Lyrik (Versform)</term>
+          <term type="category">Belletristik</term>
+          <term type="formal_description">Lyrik</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="gsw">
+          <pb n="72" facs="105785_072"/>
+          <lb n="1"/>
+          <w>igs</w>
+          <w>Buebli</w>
+          <w>.</w>
+        </s>
+        <s n="2" xml:lang="gsw">
+          <lb n="2"/>
+          <w>Mys</w>
+          <w>Buebli</w>
+          <w>geit</w>
+          <w>am</w>
+          <w>Morge</w>
+          <w>früeh</w>
+          <lb n="3"/>
+          <w>Früsch</w>
+          <w>gwäsche</w>
+          <w>über</w>
+          <w>d'</w>
+          <w>Gaß</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Früsch</w>
+          <w>glettet</w>
+          <w>d'Hösli</w>
+          <w>,</w>
+          <w>ds</w>
+          <w>Fürtechli</w>
+          <w>:</w>
+          <lb n="5"/>
+          <w>«</w>
+          <w>Jrtz</w>
+          <w>mach</w>
+          <w>di</w>
+          <w>ja</w>
+          <w>nid</w>
+          <w>naß</w>
+          <w>!</w>
+        </s>
+        <s n="3" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Und</w>
+          <w>trapp</w>
+          <w>mer</w>
+          <w>o</w>
+          <w>nid</w>
+          <w>geng</w>
+          <w>i</w>
+          <w>Staub</w>
+          <lb n="7"/>
+          <w>Mit</w>
+          <w>dyne</w>
+          <w>schöne</w>
+          <w>Schueh</w>
+          <w>;</w>
+          <lb n="8"/>
+          <w>Und</w>
+          <w>tue</w>
+          <w>mer</w>
+          <w>ja</w>
+          <w>nid</w>
+          <w>dräckele</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>Du</w>
+          <w>chäzers</w>
+          <w>Buebli</w>
+          <w>du</w>
+          <w>!</w>
+        </s>
+        <s n="4" xml:lang="de">
+          <w>»</w>
+          <lb n="10"/>
+          <w>Er</w>
+          <w>geit</w>
+          <w>...</w>
+        </s>
+        <s n="5" xml:lang="gsw">
+          <w>Und</w>
+          <w>na</w>
+          <w>re</w>
+          <w>chlyne</w>
+          <w>Stund</w>
+          <w>,</w>
+          <lb n="11"/>
+          <w>Wi</w>
+          <w>gseht</w>
+          <w>mys</w>
+          <w>Buebli</w>
+          <w>us</w>
+          <w>!</w>
+        </s>
+        <s n="6" xml:lang="gsw">
+          <lb n="12"/>
+          <w>Schneewpß</w>
+          <w>sy</w>
+          <w>d'</w>
+          <w>Chleidli</w>
+          <w>und</w>
+          <w>sys</w>
+          <w>Gsicht</w>
+          <lb n="13"/>
+          <w>Vor</w>
+          <w>Staub</w>
+          <w>,</w>
+          <w>und</w>
+          <w>d'</w>
+          <w>Häärli</w>
+          <w>chrus</w>
+          <w>!</w>
+        </s>
+        <s n="7" xml:lang="gsw">
+          <lb n="14"/>
+          <w>«</w>
+          <w>Was</w>
+          <w>isch</w>
+          <w>ächt</w>
+          <w>das</w>
+          <w>jytz</w>
+          <w>für</w>
+          <w>ne</w>
+          <w>Bueb</w>
+          <w>?</w>
+        </s>
+        <s n="8" xml:lang="gsw">
+          <lb n="15"/>
+          <w>Dä</w>
+          <w>isch</w>
+          <w>mir</w>
+          <w>nid</w>
+          <w>bekannt</w>
+          <w>.</w>
+        </s>
+        <s n="9" xml:lang="gsw">
+          <w>»</w>
+          <lb n="16"/>
+          <w>7</w>
+          <lb n="17"/>
+          <w>«</w>
+          <w>Nüeti</w>
+          <w>,</w>
+          <w>i</w>
+          <w>bi</w>
+          <w>doch</w>
+          <w>dy</w>
+          <w>Hans</w>
+          <w>!</w>
+        </s>
+        <s n="10" xml:lang="gsw">
+          <w>»</w>
+          <w>»</w>
+          <lb n="18"/>
+          <w>Er</w>
+          <w>nimmt</w>
+          <w>mi</w>
+          <w>bi</w>
+          <w>der</w>
+          <w>Hand</w>
+          <w>.</w>
+        </s>
+        <s n="11" xml:lang="gsw">
+          <lb n="19"/>
+          <w>«</w>
+          <w>le</w>
+          <w>nei</w>
+          <w>,</w>
+          <w>däm</w>
+          <w>han</w>
+          <w>id'</w>
+          <w>Schüehli</w>
+          <w>gwichst</w>
+          <lb n="20"/>
+          <w>Und</w>
+          <w>früschi</w>
+          <w>Hösli</w>
+          <w>ggäh</w>
+          <w>;</w>
+          <lb n="21"/>
+          <w>ie</w>
+          <w>nei</w>
+          <w>,</w>
+          <w>das</w>
+          <w>dräckig</w>
+          <w>Buebli</w>
+          <w>da</w>
+          <lb n="22"/>
+          <w>Cha</w>
+          <w>n</w>
+          <w>i</w>
+          <w>nid</w>
+          <w>zue</w>
+          <w>mer</w>
+          <w>näh</w>
+          <w>.</w>
+        </s>
+        <s n="12" xml:lang="gsw">
+          <w>»</w>
+          <lb n="23"/>
+          <w>«</w>
+          <w>Kennsch</w>
+          <w>,</w>
+          <w>Müeti</w>
+          <w>,</w>
+          <w>de</w>
+          <w>das</w>
+          <w>Tüechli</w>
+          <w>nid</w>
+          <w>?</w>
+        </s>
+        <s n="13" xml:lang="gsw">
+          <lb n="24"/>
+          <w>Und</w>
+          <w>hie</w>
+          <w>mys</w>
+          <w>Fürtechlid</w>
+          <w>»</w>
+          <w>»</w>
+          <lb n="25"/>
+          <w>Er</w>
+          <w>seit's</w>
+          <w>und</w>
+          <w>luegt</w>
+          <w>mi</w>
+          <w>truurig</w>
+          <w>a</w>
+          <w>.</w>
+        </s>
+        <s n="14" xml:lang="gsw">
+          <lb n="26"/>
+          <w>«</w>
+          <w>'S</w>
+          <w>cha</w>
+          <w>nid</w>
+          <w>my</w>
+          <w>Hausli</w>
+          <w>sy</w>
+          <w>.</w>
+        </s>
+        <s n="15" xml:lang="gsw">
+          <w>»</w>
+          <lb n="27"/>
+          <w>Jptz</w>
+          <w>aber</w>
+          <w>wird's</w>
+          <w>em</w>
+          <w>angst</w>
+          <w>und</w>
+          <w>bang</w>
+          <w>:</w>
+          <lb n="28"/>
+          <w>«</w>
+          <w>So</w>
+          <w>lueg</w>
+          <w>i</w>
+          <w>d'</w>
+          <w>Aeugeli</w>
+          <w>;</w>
+          <lb n="29"/>
+          <w>Die</w>
+          <w>kennsch</w>
+          <w>du</w>
+          <w>gwüß</w>
+          <w>und</w>
+          <w>weisch</w>
+          <w>es</w>
+          <w>de</w>
+          <w>,</w>
+          <lb n="30"/>
+          <w>Daß</w>
+          <w>i</w>
+          <w>dys</w>
+          <w>Buebli</w>
+          <w>bi</w>
+          <w>.</w>
+        </s>
+        <s n="16" xml:lang="gsw">
+          <w>»</w>
+          <w>»</w>
+          <lb n="31"/>
+          <w>Und</w>
+          <w>gwüß</w>
+          <w>:</w>
+          <w>am</w>
+          <w>ganze</w>
+          <w>staubige</w>
+          <w>Bueb</w>
+          <lb n="32"/>
+          <w>Sy</w>
+          <w>d'</w>
+          <w>Auge</w>
+          <w>einzig</w>
+          <w>häll</w>
+          <w>;</w>
+          <lb n="33"/>
+          <w>Die</w>
+          <w>säge</w>
+          <w>:</w>
+        </s>
+        <s n="17" xml:lang="gsw">
+          <w>«</w>
+          <w>Gäll</w>
+          <w>,</w>
+          <w>die</w>
+          <w>kennsch</w>
+          <w>du</w>
+          <w>doch</w>
+          <w>?</w>
+        </s>
+        <s n="18" xml:lang="gsw">
+          <lb n="34"/>
+          <w>J</w>
+          <w>bi</w>
+          <w>dy</w>
+          <w>Hansli</w>
+          <w>,</w>
+          <w>gäll</w>
+          <w>?</w>
+        </s>
+        <s n="19" xml:lang="gsw">
+          <w>»</w>
+          <lb n="35"/>
+          <w>Die</w>
+          <w>glänze</w>
+          <w>mi</w>
+          <w>voll</w>
+          <w>Zärtlechkeit</w>
+          <lb n="36"/>
+          <w>U</w>
+          <w>voller</w>
+          <w>Hoffnig</w>
+          <w>a</w>
+          <w>;</w>
+          <lb n="37"/>
+          <w>Und</w>
+          <w>ig</w>
+          <w>,</w>
+          <w>i</w>
+          <w>zieh'</w>
+          <w>ne</w>
+          <w>a</w>
+          <w>mys</w>
+          <w>Härz</w>
+          <w>,</w>
+          <lb n="38"/>
+          <w>Dä</w>
+          <w>ganz</w>
+          <w>chly</w>
+          <w>staubig</w>
+          <w>Ma</w>
+          <w>!</w>
+        </s>
+        <s n="20" xml:lang="it">
+			
+		</s>
+      </p>
+    </body>
+  </text>
+</TEI>

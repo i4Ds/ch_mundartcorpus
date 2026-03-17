@@ -1,0 +1,525 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Chilbinacht</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="ocr_source">digital text retrieved through OCR</note>
+        <noteGrp type="dialect_municipality">
+          <note type="name">Einsiedeln</note>
+          <note type="abbr">SchwE.</note>
+          <note type="onch-id">802001301</note>
+        </noteGrp>
+        <noteGrp type="dialect_region">
+          <note type="name">Fünf Orte</note>
+          <note type="abbr">VO, VOrte</note>
+          <note type="chmk-id">CH-9</note>
+        </noteGrp>
+        <noteGrp type="dialect_region">
+          <note type="name">Vier Waldstätte</note>
+          <note type="abbr">Vw</note>
+          <note type="chmk-id">CH-8</note>
+        </noteGrp>
+        <noteGrp type="dialect_region">
+          <note type="name">Drei Waldstätte</note>
+          <note type="abbr">Wst</note>
+          <note type="chmk-id">CH-7</note>
+        </noteGrp>
+        <noteGrp type="dialect_canton">
+          <note type="name">Schwyz</note>
+          <note type="chmk-id">SZ</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Lienert, Meinrad. 1923. Chilbinacht. In: Die Schweiz: schweizerische illustrierte Zeitschrift, 26:62. Zürich: A.-G. Verlag. https://dx.doi.org/10.5169/seals-571754 (zugegriffen: 12. August 2021).</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Chilbinacht</title>
+            <title type="subtitle"/>
+            <title type="abbreviated">Lienert Chilbinacht</title>
+            <author>
+              <idno type="id">20049</idno>
+              <forename>Meinrad</forename>
+              <surname>Lienert</surname>
+              <name>Lienert, Meinrad</name>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition>1. Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>A.-G. Verlag</publisher>
+            <pubPlace>Zürich</pubPlace>
+            <date type="publication_year">1923</date>
+            <date type="first_published">1923</date>
+            <date type="accessed_date">12/08/2021</date>
+            <ref type="target">https://dx.doi.org/10.5169/seals-571754</ref>
+          </publicationStmt>
+          <seriesStmt>
+            <title>Die Schweiz: schweizerische illustrierte Zeitschrift</title>
+            <biblScope>Band 26</biblScope>
+          </seriesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>105769</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Fraktur</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Lyrik (Versform)</term>
+          <term type="category">Belletristik</term>
+          <term type="formal_description">Lyrik</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="gsw">
+          <pb n="62" facs="105769_062"/>
+          <lb n="1"/>
+          <w>Chilbinacht</w>
+          <w>Von</w>
+          <w>Meinrad</w>
+          <w>Lienert</w>
+          <lb n="2"/>
+          <w>b'robe</w>
+          <w>,</w>
+          <w>üb'runne</w>
+          <lb n="3"/>
+          <w>Soht's</w>
+          <w>luftig</w>
+          <w>harby</w>
+          <w>.</w>
+        </s>
+        <s n="2" xml:lang="gsw">
+          <lb n="4"/>
+          <w>b'robe</w>
+          <w>bim</w>
+          <w>Tanze</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>b'runne</w>
+          <w>bim</w>
+          <w>Wy</w>
+          <w>.</w>
+        </s>
+        <s n="3" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Marieli</w>
+          <w>,</w>
+          <w>Mariell</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Was</w>
+          <w>machst</w>
+          <w>dän</w>
+          <w>au</w>
+          <w>du</w>
+          <w>?</w>
+        </s>
+        <s n="4" xml:lang="gsw">
+          <lb n="8"/>
+          <w>J</w>
+          <w>plange</w>
+          <w>uf</w>
+          <w>eine</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>Dr</w>
+          <w>wird</w>
+          <w>mer</w>
+          <w>hüt</w>
+          <w>nu</w>
+          <w>.</w>
+        </s>
+        <s n="5" xml:lang="gsw">
+          <lb n="10"/>
+          <w>Die</w>
+          <w>Junge</w>
+          <w>,</w>
+          <w>si</w>
+          <w>juzed</w>
+          <lb n="11"/>
+          <w>And</w>
+          <w>gäuerled</w>
+          <w>eis</w>
+          <w>.</w>
+        </s>
+        <s n="6" xml:lang="gsw">
+          <lb n="12"/>
+          <w>Die</w>
+          <w>Dlte</w>
+          <w>,</w>
+          <w>si</w>
+          <w>schöppled</w>
+          <lb n="13"/>
+          <w>Ana</w>
+          <w>äßed</w>
+          <w>späkfeiß</w>
+          <w>.</w>
+        </s>
+        <s n="7" xml:lang="gsw">
+          <lb n="14"/>
+          <w>a</w>
+          <w>Tönel</w>
+          <w>,</w>
+          <w>jä</w>
+          <w>Tönel</w>
+          <w>,</w>
+          <w>jä</w>
+          <w>Tönel</w>
+          <w>,</w>
+          <lb n="15"/>
+          <w>Was</w>
+          <w>lost</w>
+          <w>eso</w>
+          <w>goh</w>
+          <w>?</w>
+        </s>
+        <s n="8" xml:lang="gsw">
+          <lb n="16"/>
+          <w>s</w>
+          <w>Erstell</w>
+          <w>cha</w>
+          <w>mer's</w>
+          <w>,</w>
+          <lb n="17"/>
+          <w>And</w>
+          <w>dem</w>
+          <w>hani</w>
+          <w>no</w>
+          <w>.</w>
+        </s>
+        <s n="9" xml:lang="gsw">
+          <lb n="18"/>
+          <w>Ab'robe</w>
+          <w>,</w>
+          <w>üb'runne</w>
+          <lb n="19"/>
+          <w>Goht</w>
+          <w>'s</w>
+          <w>luftig</w>
+          <w>harby</w>
+          <w>.</w>
+        </s>
+        <s n="10" xml:lang="gsw">
+          <lb n="20"/>
+          <w>b'robe</w>
+          <w>bim</w>
+          <w>Tanze</w>
+          <w>,</w>
+          <lb n="21"/>
+          <w>Ab'runne</w>
+          <w>bim</w>
+          <w>Wu</w>
+          <w>.</w>
+        </s>
+        <s n="11" xml:lang="gsw">
+          <lb n="22"/>
+          <w>b'robe</w>
+          <w>,</w>
+          <w>die</w>
+          <w>Junge</w>
+          <lb n="23"/>
+          <w>Hend</w>
+          <w>zabligi</w>
+          <w>Bei</w>
+          <w>.</w>
+        </s>
+        <s n="12" xml:lang="gsw">
+          <lb n="24"/>
+          <w>Ab'runne</w>
+          <w>,</w>
+          <w>die</w>
+          <w>lte</w>
+          <lb n="25"/>
+          <w>Sönd</w>
+          <w>lang</w>
+          <w>nu</w>
+          <w>nüd</w>
+          <w>hei</w>
+          <w>.</w>
+        </s>
+        <s n="13" xml:lang="gsw">
+          <lb n="26"/>
+          <w>Marieli</w>
+          <w>,</w>
+          <w>säg</w>
+          <w>witt</w>
+          <w>mi</w>
+          <w>?</w>
+        </s>
+        <s n="14" xml:lang="gsw">
+          <lb n="27"/>
+          <w>Marieli</w>
+          <w>,</w>
+          <w>säg</w>
+          <w>jo</w>
+          <w>!</w>
+        </s>
+        <s n="15" xml:lang="gsw">
+          <lb n="28"/>
+          <w>And</w>
+          <w>säg</w>
+          <w>mer</w>
+          <w>au</w>
+          <w>einist</w>
+          <w>,</w>
+          <lb n="29"/>
+          <w>Chö</w>
+          <w>hei</w>
+          <w>mit</w>
+          <w>ar</w>
+          <w>goh</w>
+          <w>!</w>
+        </s>
+        <s n="16" xml:lang="gsw">
+          <lb n="30"/>
+          <w>J</w>
+          <w>luf</w>
+          <w>wie</w>
+          <w>dy</w>
+          <w>Schatte</w>
+          <lb n="31"/>
+          <w>Sä</w>
+          <w>bhabe</w>
+          <w>a</w>
+          <w>dir</w>
+          <w>;</w>
+          <lb n="32"/>
+          <w>Wie</w>
+          <w>ar</w>
+          <w>Schatte</w>
+          <w>hert</w>
+          <w>a</w>
+          <w>dr</w>
+          <w>,</w>
+          <lb n="33"/>
+          <w>Und</w>
+          <w>um</w>
+          <w>di</w>
+          <w>wie</w>
+          <w>'s</w>
+          <w>Füür</w>
+          <w>.</w>
+        </s>
+        <s n="17" xml:lang="gsw">
+          <lb n="34"/>
+          <w>ä</w>
+          <w>,</w>
+          <w>Tönel</w>
+          <w>,</w>
+          <w>gottsname</w>
+          <w>,</w>
+          <lb n="35"/>
+          <w>Zä</w>
+          <w>säg</w>
+          <w>dr's</w>
+          <w>wänd'</w>
+          <w>witt</w>
+          <w>:</w>
+          <lb n="36"/>
+          <w>Blöis</w>
+          <w>dich</w>
+          <w>gsehni</w>
+          <w>gäre</w>
+          <w>,</w>
+          <lb n="37"/>
+          <w>Chaft</w>
+          <w>hei</w>
+          <w>mit</w>
+          <w>mer</w>
+          <w>hüt</w>
+          <w>!</w>
+        </s>
+        <s n="18" xml:lang="gsw">
+          <lb n="38"/>
+          <w>Wie</w>
+          <w>gigeled</w>
+          <w>a'</w>
+          <w>Sygli</w>
+          <w>,</w>
+          <lb n="39"/>
+          <w>Wie</w>
+          <w>lached</w>
+          <w>ar</w>
+          <w>Baß</w>
+          <w>!</w>
+        </s>
+        <s n="19" xml:lang="gsw">
+          <lb n="40"/>
+          <w>Wie</w>
+          <w>lürgged</w>
+          <w>die</w>
+          <w>lte</w>
+          <w>!</w>
+        </s>
+        <s n="20" xml:lang="de">
+          <lb n="41"/>
+          <w>'s</w>
+          <w>hät</w>
+          <w>numeh</w>
+          <w>im</w>
+          <w>Faß</w>
+          <w>.</w>
+        </s>
+        <s n="21" xml:lang="gsw">
+          <lb n="42"/>
+          <w>Marieli</w>
+          <w>,</w>
+          <w>sä</w>
+          <w>fiuß</w>
+          <w>dil</w>
+          <lb n="43"/>
+          <w>Marieli</w>
+          <w>,</w>
+          <w>sä</w>
+          <w>chum</w>
+          <w>!</w>
+        </s>
+        <s n="22" xml:lang="gsw">
+          <lb n="44"/>
+          <w>Ss</w>
+          <w>maugled</w>
+          <w>am</w>
+          <w>Himel</w>
+          <w>,</w>
+          <lb n="45"/>
+          <w>And</w>
+          <w>d'</w>
+          <w>Uuge</w>
+          <w>gönd</w>
+          <w>um</w>
+          <w>!</w>
+        </s>
+        <s n="23" xml:lang="gsw">
+          <lb n="46"/>
+          <w>ä</w>
+          <w>,</w>
+          <w>Tönel</w>
+          <w>,</w>
+          <w>lo's</w>
+          <w>tage</w>
+          <w>,</w>
+          <lb n="47"/>
+          <w>Chaft</w>
+          <w>gluch</w>
+          <w>mit</w>
+          <w>mer</w>
+          <w>hei</w>
+          <w>,</w>
+          <lb n="48"/>
+          <w>Ssäch's</w>
+          <w>jeddweders</w>
+          <w>Sresli</w>
+          <w>,</w>
+          <lb n="49"/>
+          <w>Swahr's</w>
+          <w>jeddwed're</w>
+          <w>Steil</w>
+          <lb n="50"/>
+          <w>u</w>
+          <w>wän</w>
+          <w>d'</w>
+          <w>Muetter</w>
+          <w>briegged</w>
+          <w>,</w>
+          <lb n="51"/>
+          <w>Dr</w>
+          <w>tti</w>
+          <w>eis</w>
+          <w>schimpft</w>
+          <w>,</w>
+          <lb n="52"/>
+          <w>D'</w>
+          <w>Pfarrschöcheni</w>
+          <w>d'</w>
+          <w>Stirne</w>
+          <lb n="53"/>
+          <w>Wie</w>
+          <w>d'</w>
+          <w>Sadewand</w>
+          <w>rümpft</w>
+          <w>.</w>
+        </s>
+        <s n="24" xml:lang="gsw">
+          <lb n="54"/>
+          <w>Mira</w>
+          <w>,</w>
+          <w>mer</w>
+          <w>gönd</w>
+          <w>heizue</w>
+          <w>.</w>
+        </s>
+        <s n="25" xml:lang="gsw">
+          <lb n="55"/>
+          <w>J</w>
+          <w>dir</w>
+          <w>tueni</w>
+          <w>alls</w>
+          <w>.</w>
+        </s>
+        <s n="26" xml:lang="gsw">
+          <lb n="56"/>
+          <w>Nimm</w>
+          <w>d'</w>
+          <w>Chappe</w>
+          <w>vom</w>
+          <w>Nagel</w>
+          <lb n="57"/>
+          <w>And</w>
+          <w>mich</w>
+          <w>ume</w>
+          <w>Hals</w>
+          <w>!</w>
+        </s>
+        <s n="27" xml:lang="gsw">
+          <lb n="58"/>
+          <w>b'robe</w>
+          <w>,</w>
+          <w>üb'runne</w>
+          <lb n="59"/>
+          <w>Soht's</w>
+          <w>luftig</w>
+          <w>harby</w>
+          <w>.</w>
+        </s>
+        <s n="28" xml:lang="gsw">
+          <lb n="60"/>
+          <w>b'robe</w>
+          <w>bim</w>
+          <w>Tanze</w>
+          <w>,</w>
+          <lb n="61"/>
+          <w>b'runne</w>
+          <w>bim</w>
+          <w>Wy</w>
+          <w>.</w>
+        </s>
+        <s n="29" xml:lang="it">
+			
+		</s>
+      </p>
+    </body>
+  </text>
+</TEI>

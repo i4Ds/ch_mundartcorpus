@@ -1,0 +1,525 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Trinklied im Appenzeller Dialecte</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="shelf_mark_idiotikon">Ma. Ap Anth</note>
+        <note type="artikel_id">502694</note>
+        <note type="ocr_source">digital text retrieved through OCR</note>
+        <noteGrp type="dialect_region">
+          <note type="name">Appenzell</note>
+          <note type="abbr">Ap</note>
+          <note type="chmk-id">CH-1</note>
+        </noteGrp>
+        <noteGrp type="dialect_canton">
+          <note type="name">Appenzell Innerrhoden</note>
+          <note type="chmk-id">AI</note>
+        </noteGrp>
+        <noteGrp type="dialect_canton">
+          <note type="name">Appenzell Ausserrhoden</note>
+          <note type="chmk-id">AR</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Scheuss, Adrian. 1829. Trinklied im Appenzeller Dialecte. In: Sammlung Appenzellischer Lieder und Gedichte, 1:33–35. Trogen: Meyer und Zuberbühler.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Trinklied im Appenzeller Dialecte</title>
+            <title type="subtitle"/>
+            <title type="abbreviated">Sammlung Lieder</title>
+            <author>
+              <idno type="id">26382</idno>
+              <forename>Adrian</forename>
+              <surname>Scheuss</surname>
+              <name>Scheuss, Adrian</name>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition>1. Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Meyer und Zuberbühler</publisher>
+            <pubPlace>Trogen</pubPlace>
+            <date type="publication_year">1829</date>
+          </publicationStmt>
+          <seriesStmt>
+            <title>Sammlung Appenzellischer Lieder und Gedichte</title>
+            <biblScope>Band 1</biblScope>
+          </seriesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>104685</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Antiqua</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Lyrik (Versform)</term>
+          <term type="category">Belletristik</term>
+          <term type="formal_description">Lied</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="de">
+          <pb n="33" facs="104685_033"/>
+          <lb n="1"/>
+          <w>TUTTI</w>
+          <w>.</w>
+        </s>
+        <s n="2" xml:lang="gsw">
+          <lb n="2"/>
+          <w>Eintracht</w>
+          <w>wiederhall'</w>
+          <w>es</w>
+          <w>laut</w>
+          <w>.</w>
+        </s>
+        <s n="3" xml:lang="de">
+          <lb n="3"/>
+          <w>CHOR</w>
+          <w>.</w>
+        </s>
+        <s n="4" xml:lang="gsw">
+          <lb n="4"/>
+          <w>So</w>
+          <w>wallet</w>
+          <w>ann</w>
+          <w>dem</w>
+          <w>Tempel</w>
+          <w>zu</w>
+          <w>;</w>
+          <lb n="5"/>
+          <w>Dem</w>
+          <w>er</w>
+          <w>sich</w>
+          <w>wölbt</w>
+          <w>,</w>
+          <w>ertönt</w>
+          <w>ihr</w>
+          <w>Lieder</w>
+          <w>!</w>
+        </s>
+        <s n="5" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Du</w>
+          <w>Grosser</w>
+          <w>,</w>
+          <w>Ewiger</w>
+          <w>,</w>
+          <w>ja</w>
+          <w>,</w>
+          <w>du</w>
+          <lb n="7"/>
+          <w>Blickst</w>
+          <w>huldvoll</w>
+          <w>jetzt</w>
+          <w>auf</w>
+          <w>uns</w>
+          <w>hernicder</w>
+          <w>.</w>
+        </s>
+        <s n="6" xml:lang="de">
+          <lb n="8"/>
+          <w>Wir</w>
+          <w>schliessen</w>
+          <w>eng</w>
+          <w>das</w>
+          <w>Bruderband</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>Dir</w>
+          <w>,</w>
+          <w>Eintracht</w>
+          <w>,</w>
+          <w>Gott</w>
+          <w>und</w>
+          <w>Vaterland</w>
+          <w>.</w>
+        </s>
+        <s n="7" xml:lang="de">
+          <lb n="10"/>
+          <w>HBrR</w>
+          <w>.</w>
+        </s>
+        <s n="8" xml:lang="gsw">
+          <lb n="11"/>
+          <w>D</w>
+          <lb n="12"/>
+          <w>IM</w>
+          <w>APPENZFLLER-DILECTE</w>
+          <w>.</w>
+        </s>
+        <s n="9" xml:lang="gsw">
+          <lb n="13"/>
+          <w>Jez</w>
+          <w>wömmer</w>
+          <w>wicder</w>
+          <w>singe</w>
+          <w>,</w>
+          <lb n="14"/>
+          <w>Drom</w>
+          <w>sümmer</w>
+          <w>inenand</w>
+          <w>;</w>
+          <lb n="15"/>
+          <w>Es</w>
+          <w>müs</w>
+          <w>is</w>
+          <w>recht</w>
+          <w>wohl</w>
+          <w>glinge</w>
+          <w>,</w>
+          <lb n="16"/>
+          <w>Bim</w>
+          <w>Wi</w>
+          <w>,</w>
+          <w>ond</w>
+          <w>bin</w>
+          <w>Vcrstnn</w>
+          <w>.</w>
+        </s>
+        <s n="10" xml:lang="gsw">
+          <lb n="17"/>
+          <w>E</w>
+          <w>muntersch</w>
+          <w>Lied</w>
+          <w>in</w>
+          <w>Fhre</w>
+          <lb n="18"/>
+          <w>Ist</w>
+          <w>gär</w>
+          <w>e</w>
+          <w>schöne</w>
+          <w>Sacl</w>
+          <w>;</w>
+          <lb n="19"/>
+          <w>'S</w>
+          <w>cha</w>
+          <w>d'Sorge</w>
+          <w>recht</w>
+          <w>verelre</w>
+          <w>;</w>
+          <lb n="20"/>
+          <w>'S</w>
+          <w>vertribt</w>
+          <w>mengs</w>
+          <w>Wel</w>
+          <w>ond</w>
+          <w>Aeh</w>
+          <w>.</w>
+        </s>
+        <s n="11" xml:lang="gsw">
+          <pb n="34" facs="104685_034"/>
+          <lb n="1"/>
+          <w>Drom</w>
+          <w>lostig</w>
+          <w>,</w>
+          <w>he</w>
+          <w>,</w>
+          <w>ehr</w>
+          <w>Brüedor</w>
+          <w>!</w>
+        </s>
+        <s n="12" xml:lang="gsw">
+          <lb n="2"/>
+          <w>'Thüend</w>
+          <w>Mul</w>
+          <w>ond</w>
+          <w>Herzen</w>
+          <w>uf</w>
+          <w>!</w>
+        </s>
+        <s n="13" xml:lang="gsw">
+          <lb n="3"/>
+          <w>Sing's</w>
+          <w>Her</w>
+          <w>.</w>
+        </s>
+        <s n="14" xml:lang="gsw">
+          <w>die</w>
+          <w>höbsche</w>
+          <w>Lieder</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Fählts</w>
+          <w>gwöss</w>
+          <w>au</w>
+          <w>nie</w>
+          <w>a</w>
+          <w>Schnuf</w>
+          <w>.</w>
+        </s>
+        <s n="15" xml:lang="gsw">
+          <lb n="5"/>
+          <w>HIet</w>
+          <w>enn</w>
+          <w>im</w>
+          <w>Sack</w>
+          <w>kenn</w>
+          <w>Heller</w>
+          <w>,</w>
+          <lb n="6"/>
+          <w>Ond</w>
+          <w>henkt</w>
+          <w>drom</w>
+          <w>zlieb</w>
+          <w>de</w>
+          <w>Chopf</w>
+          <w>:</w>
+          <lb n="7"/>
+          <w>Der</w>
+          <w>ist</w>
+          <w>ken</w>
+          <w>Appezeller</w>
+          <w>,</w>
+          <w>—</w>
+          <lb n="8"/>
+          <w>Er</w>
+          <w>ist</w>
+          <w>en</w>
+          <w>arme</w>
+          <w>Tropf</w>
+          <w>!</w>
+        </s>
+        <s n="16" xml:lang="gsw">
+          <lb n="9"/>
+          <w>Das</w>
+          <w>chit</w>
+          <w>jo</w>
+          <w>scho</w>
+          <w>wie</w>
+          <w>g'sunge</w>
+          <w>,</w>
+          <lb n="10"/>
+          <w>Me</w>
+          <w>g'hörts</w>
+          <w>fast</w>
+          <w>wit</w>
+          <w>ond</w>
+          <w>brät</w>
+          <w>,</w>
+          <lb n="11"/>
+          <w>Wer</w>
+          <w>sät</w>
+          <w>,</w>
+          <w>es</w>
+          <w>sei</w>
+          <w>nüd</w>
+          <w>g'lu</w>
+          <w>»</w>
+          <w>ge</w>
+          <w>,</w>
+          <lb n="12"/>
+          <w>Der</w>
+          <w>sät</w>
+          <w>üs</w>
+          <w>das</w>
+          <w>no</w>
+          <w>z'Läd</w>
+          <w>.</w>
+        </s>
+        <s n="17" xml:lang="gsw">
+          <lb n="13"/>
+          <w>Doch</w>
+          <w>,</w>
+          <w>sell</w>
+          <w>das</w>
+          <w>Lied</w>
+          <w>nüd</w>
+          <w>hinke</w>
+          <w>,</w>
+          <lb n="14"/>
+          <w>Sell's</w>
+          <w>allewil</w>
+          <w>so</w>
+          <w>goh</w>
+          <w>,</w>
+          <w>–</w>
+          <w>–</w>
+          <lb n="15"/>
+          <w>So</w>
+          <w>mss</w>
+          <w>men</w>
+          <w>au</w>
+          <w>es</w>
+          <w>trinke</w>
+          <w>:</w>
+          <lb n="16"/>
+          <w>Drom</w>
+          <w>frisch</w>
+          <w>die</w>
+          <w>Gläser</w>
+          <w>guo</w>
+          <w>!</w>
+        </s>
+        <s n="18" xml:lang="gsw">
+          <lb n="17"/>
+          <w>Es</w>
+          <w>lebet</w>
+          <w>üs're</w>
+          <w>Fährer</w>
+          <w>!</w>
+        </s>
+        <s n="19" xml:lang="gsw">
+          <lb n="18"/>
+          <w>Gott</w>
+          <w>lohn</w>
+          <w>doch</w>
+          <w>ehrne</w>
+          <w>Müeh</w>
+          <w>!</w>
+        </s>
+        <s n="20" xml:lang="gsw">
+          <lb n="19"/>
+          <w>E</w>
+          <w>G'sellschaft</w>
+          <w>brucht</w>
+          <w>Regierer</w>
+          <w>,</w>
+          <lb n="20"/>
+          <w>Etbehra</w>
+          <w>cha</w>
+          <w>sis</w>
+          <w>nie</w>
+          <w>.</w>
+        </s>
+        <s n="21" xml:lang="gsw">
+          <pb n="35" facs="104685_035"/>
+          <lb n="1"/>
+          <w>All'</w>
+          <w>Singer</w>
+          <w>sellet</w>
+          <w>lebe</w>
+          <w>!</w>
+        </s>
+        <s n="22" xml:lang="gsw">
+          <lb n="2"/>
+          <w>Stosst</w>
+          <w>alle</w>
+          <w>tapfer</w>
+          <w>a</w>
+          <w>!</w>
+        </s>
+        <s n="23" xml:lang="gsw">
+          <lb n="3"/>
+          <w>Schö</w>
+          <w>,</w>
+          <w>wemme</w>
+          <w>nüd</w>
+          <w>gad</w>
+          <w>webe</w>
+          <w>:</w>
+          <lb n="4"/>
+          <w>Wemme</w>
+          <w>au</w>
+          <w>singe</w>
+          <w>cha</w>
+          <w>.</w>
+        </s>
+        <s n="24" xml:lang="gsw">
+          <lb n="5"/>
+          <w>Doch</w>
+          <w>,</w>
+          <w>nüd</w>
+          <w>för</w>
+          <w>üs</w>
+          <w>no</w>
+          <w>schalle</w>
+          <lb n="6"/>
+          <w>Mönd</w>
+          <w>dLieder</w>
+          <w>:</w>
+          <w>—</w>
+          <w>s'lebet</w>
+          <w>hoch</w>
+          <w>—</w>
+          <lb n="7"/>
+          <w>.</w>
+          <w>Die</w>
+          <w>Here</w>
+          <w>von</w>
+          <w>Sant</w>
+          <w>Galle</w>
+          <w>!</w>
+        </s>
+        <s n="25" xml:lang="de">
+          <lb n="8"/>
+          <w>Sie</w>
+          <w>lebet</w>
+          <w>lang</w>
+          <w>ond</w>
+          <w>hoch</w>
+          <w>!</w>
+        </s>
+        <s n="26" xml:lang="gsw">
+          <lb n="9"/>
+          <w>Jez</w>
+          <w>goth's</w>
+          <w>scho</w>
+          <w>bald</w>
+          <w>as</w>
+          <w>Schäde</w>
+          <w>,</w>
+          <lb n="10"/>
+          <w>E'</w>
+          <w>Glas</w>
+          <w>no</w>
+          <w>e</w>
+          <w>Mol</w>
+          <w>i</w>
+          <w>d'Hand</w>
+          <w>!</w>
+        </s>
+        <s n="27" xml:lang="gsw">
+          <lb n="11"/>
+          <w>Ach</w>
+          <w>löndis</w>
+          <w>nüd</w>
+          <w>vertläde</w>
+          <w>:</w>
+          <lb n="12"/>
+          <w>Es</w>
+          <w>gelt</w>
+          <w>—</w>
+          <w>dem</w>
+          <w>Vaterland</w>
+          <w>!</w>
+        </s>
+        <s n="28" xml:lang="de">
+          <lb n="13"/>
+          <w>Ann</w>
+          <w>.</w>
+        </s>
+        <s n="29" xml:lang="en">
+          <w>Scrss</w>
+          <w>.</w>
+        </s>
+        <s n="30" xml:lang="it">
+			
+		</s>
+      </p>
+    </body>
+  </text>
+</TEI>

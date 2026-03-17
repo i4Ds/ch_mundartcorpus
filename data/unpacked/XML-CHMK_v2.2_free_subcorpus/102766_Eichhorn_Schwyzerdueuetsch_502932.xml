@@ -1,0 +1,340 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Worum? Dorum!</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="shelf_mark_idiotikon">Ma. Schw Mappe 1</note>
+        <note type="artikel_id">502932</note>
+        <note type="ocr_source">digital text retrieved through OCR</note>
+        <noteGrp type="dialect_canton">
+          <note type="name">Schwyz</note>
+          <note type="chmk-id">SZ</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Eichhorn, Karl. 1885. Worum? Dorum!. In: Schwyzerdüütsch: Humoristisches im Dialekt. E chlyne Bytrag zur Mundartliteratur d'r tüütsche Schwyz, 3–4. Winterthur: Selbstverlag.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Worum? Dorum!</title>
+            <title type="subtitle"/>
+            <title type="abbreviated">Eichhorn Schwyzerdüütsch</title>
+            <author>
+              <idno type="id">20788</idno>
+              <forename>Karl</forename>
+              <surname>Eichhorn</surname>
+              <name>Eichhorn, Karl</name>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition>1. Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Selbstverlag</publisher>
+            <pubPlace>Winterthur</pubPlace>
+            <date type="publication_year">1885</date>
+            <date type="first_published">1885</date>
+          </publicationStmt>
+          <seriesStmt>
+            <title>Schwyzerdüütsch: Humoristisches im Dialekt. E chlyne Bytrag zur Mundartliteratur d'r tüütsche Schwyz</title>
+          </seriesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>102766</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Fraktur</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Prosa</term>
+          <term type="category">Belletristik</term>
+          <term type="formal_description">Humoristisches</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="gsw">
+          <pb n="3" facs="102766_003"/>
+          <lb n="1"/>
+          <w>Worum</w>
+          <w>?</w>
+        </s>
+        <s n="2" xml:lang="en">
+          <w>Vorum</w>
+          <w>!</w>
+        </s>
+        <s n="3" xml:lang="de">
+          <lb n="2"/>
+          <w>Da</w>
+          <w>grabt</w>
+          <w>d'r</w>
+          <w>Eint</w>
+          <w>nach</w>
+          <w>Gold</w>
+          <w>und</w>
+          <w>Silber</w>
+          <w>,</w>
+          <lb n="3"/>
+          <w>En</w>
+          <w>Andre</w>
+          <w>det</w>
+          <w>nach</w>
+          <w>Yseärz</w>
+          <w>;</w>
+          <lb n="4"/>
+          <w>Hie</w>
+          <w>suecht</w>
+          <w>e</w>
+          <w>Dritte</w>
+          <w>nach</w>
+          <w>Diemante</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>De</w>
+          <w>Viert</w>
+          <w>nach</w>
+          <w>Perle</w>
+          <w>anderwärts</w>
+          <w>.</w>
+        </s>
+        <s n="4" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Nach</w>
+          <w>Schätze</w>
+          <w>wüehltme</w>
+          <w>i</w>
+          <w>d'r</w>
+          <w>Arde</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Und</w>
+          <w>taucht</w>
+          <w>is</w>
+          <w>Meer</w>
+          <w>am</w>
+          <w>Felseriff</w>
+          <w>.</w>
+        </s>
+        <s n="5" xml:lang="gsw">
+          <lb n="8"/>
+          <w>Me</w>
+          <w>waget</w>
+          <w>Gsundheit</w>
+          <w>,</w>
+          <w>ja</w>
+          <w>gar</w>
+          <w>'s-Läbe</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>Um</w>
+          <w>—</w>
+          <w>nüd</w>
+          <w>mitz'näh</w>
+          <w>bim</w>
+          <w>letschte</w>
+          <w>Pfiff</w>
+          <w>.</w>
+        </s>
+        <s n="6" xml:lang="gsw">
+          <lb n="10"/>
+          <w>Wie</w>
+          <w>sött-i</w>
+          <w>drum</w>
+          <w>nid</w>
+          <w>dörfe</w>
+          <w>wage</w>
+          <w>,</w>
+          <lb n="11"/>
+          <w>Nach</w>
+          <w>Schätze</w>
+          <w>z'sueche</w>
+          <w>eigner</w>
+          <w>Art</w>
+          <w>,</w>
+          <lb n="12"/>
+          <w>Die</w>
+          <w>meh</w>
+          <w>Wärth</w>
+          <w>hend</w>
+          <w>als</w>
+          <w>alli</w>
+          <w>andre</w>
+          <w>:</w>
+          <lb n="13"/>
+          <w>Nach</w>
+          <w>heller</w>
+          <w>Freud</w>
+          <w>mit</w>
+          <w>Lust</w>
+          <w>gepaart</w>
+          <w>.</w>
+        </s>
+        <s n="7" xml:lang="gsw">
+          <lb n="14"/>
+          <w>Wer</w>
+          <w>da</w>
+          <w>sym</w>
+          <w>Nächste</w>
+          <w>'s-chlynsti</w>
+          <w>Flämmli</w>
+          <lb n="15"/>
+          <w>Vo</w>
+          <w>reiner</w>
+          <w>Freud</w>
+          <w>im</w>
+          <w>Härz</w>
+          <w>azündt</w>
+          <w>,</w>
+          <lb n="16"/>
+          <w>Dem</w>
+          <w>strahlt-si</w>
+          <w>zrugg</w>
+          <w>und</w>
+          <w>er</w>
+          <w>wird</w>
+          <w>inne</w>
+          <w>,</w>
+          <lb n="17"/>
+          <w>Daß</w>
+          <w>er</w>
+          <w>devo</w>
+          <w>au</w>
+          <w>für</w>
+          <w>sich</w>
+          <w>gwünnt</w>
+          <w>.</w>
+        </s>
+        <s n="8" xml:lang="gsw">
+          <pb n="4" facs="102766_004"/>
+          <lb n="1"/>
+          <w>Drum</w>
+          <w>wag</w>
+          <w>mi</w>
+          <w>fröhli</w>
+          <w>hiemit</w>
+          <w>use</w>
+          <w>,</w>
+          <lb n="2"/>
+          <w>Versuche</w>
+          <w>,</w>
+          <w>ob</w>
+          <w>das</w>
+          <w>Ding</w>
+          <w>mier</w>
+          <w>glingt</w>
+          <w>.</w>
+        </s>
+        <s n="9" xml:lang="gsw">
+          <lb n="3"/>
+          <w>Wie</w>
+          <w>wenig</w>
+          <w>ich</w>
+          <w>au</w>
+          <w>nur</w>
+          <w>erringe</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Es</w>
+          <w>einewäget</w>
+          <w>Freud</w>
+          <w>mier</w>
+          <w>bringt</w>
+          <w>.</w>
+        </s>
+        <s n="10" xml:lang="gsw">
+          <lb n="5"/>
+          <w>Es</w>
+          <w>ist</w>
+          <w>bigostlig</w>
+          <w>wahr</w>
+          <w>,</w>
+          <w>das</w>
+          <w>isch-es</w>
+          <w>,</w>
+          <lb n="6"/>
+          <w>Daß</w>
+          <w>jede</w>
+          <w>Vogel</w>
+          <w>präzis</w>
+          <w>pfyft</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Grad</w>
+          <w>wie-nem</w>
+          <w>gwachse</w>
+          <w>ist</w>
+          <w>d'r</w>
+          <w>Schnabel</w>
+          <lb n="8"/>
+          <w>Und</w>
+          <w>ihn</w>
+          <w>drob</w>
+          <w>kei</w>
+          <w>grächt</w>
+          <w>Vorwurf</w>
+          <w>trifft</w>
+          <w>.</w>
+        </s>
+        <s n="11" xml:lang="gsw">
+          <lb n="9"/>
+          <w>Bloß</w>
+          <w>ghört-me</w>
+          <w>ja</w>
+          <w>d'r</w>
+          <w>Eini</w>
+          <w>lieber</w>
+          <lb n="10"/>
+          <w>Als</w>
+          <w>wie</w>
+          <w>d'r</w>
+          <w>Ander</w>
+          <w>,</w>
+          <w>und</w>
+          <w>ich</w>
+          <w>mueß</w>
+          <lb n="11"/>
+          <w>Es</w>
+          <w>mit-em</w>
+          <w>Schwyzerdüütsch</w>
+          <w>probiere</w>
+          <w>.</w>
+        </s>
+        <s n="12" xml:lang="de">
+          <lb n="12"/>
+          <w>Verbind</w>
+          <w>demit</w>
+          <w>my</w>
+          <w>herzlichst</w>
+          <w>Grueß</w>
+          <w>.</w>
+        </s>
+        <s n="13" xml:lang="de">
+          <lb n="13"/>
+          <w>Der</w>
+          <w>Verfasser</w>
+          <w>.</w>
+        </s>
+      </p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Neue Gedichte</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="shelf_mark_idiotikon">Ma. Z (J)Küb 2</note>
+        <note type="ocr_source">digital text retrieved through OCR</note>
+        <noteGrp type="dialect_canton">
+          <note type="name">Zürich</note>
+          <note type="chmk-id">ZH</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Kübler, Jakob. 1863. Neue Gedichte. Winterthur: Steiner.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Neue Gedichte</title>
+            <title type="subtitle"/>
+            <title type="abbreviated">Kübler Gedichte</title>
+            <author>
+              <idno type="id">20956</idno>
+              <forename>Jakob</forename>
+              <surname>Kübler</surname>
+              <name>Kübler, Jakob</name>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition>1. Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Steiner</publisher>
+            <pubPlace>Winterthur</pubPlace>
+            <date type="publication_year">1863</date>
+            <date type="first_published">1863</date>
+          </publicationStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>102927</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Fraktur</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Lyrik (Versform)</term>
+          <term type="category">Belletristik</term>
+          <term type="formal_description">Lyrik</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="gsw">
+          <pb n="36" facs="102927_036"/>
+          <lb n="1"/>
+          <w>D'</w>
+          <w>Müli</w>
+          <w>.</w>
+        </s>
+        <s n="2" xml:lang="de">
+          <lb n="2"/>
+          <w>(</w>
+          <w>Zürchermundart</w>
+          <w>.</w>
+        </s>
+        <s n="3" xml:lang="gsw">
+          <w>)</w>
+          <lb n="3"/>
+          <w>E</w>
+          <w>Müli</w>
+          <w>staht</w>
+          <w>am</w>
+          <w>grüene</w>
+          <w>Rai</w>
+          <lb n="4"/>
+          <w>Wol</w>
+          <w>bime</w>
+          <w>chlare</w>
+          <w>Bach</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>Und</w>
+          <w>gsehnen</w>
+          <w>ich</w>
+          <w>die</w>
+          <w>Müli</w>
+          <w>dei</w>
+          <w>,</w>
+          <lb n="6"/>
+          <w>So</w>
+          <w>wird</w>
+          <w>min</w>
+          <w>Chumber</w>
+          <w>wach</w>
+          <w>.</w>
+        </s>
+        <s n="4" xml:lang="gsw">
+          <lb n="7"/>
+          <w>Und</w>
+          <w>ghör</w>
+          <w>i</w>
+          <w>dänn</w>
+          <w>na</w>
+          <w>s</w>
+          <w>Mülirad</w>
+          <w>,</w>
+          <lb n="8"/>
+          <w>So</w>
+          <w>gschpüri</w>
+          <w>,</w>
+          <w>wie</w>
+          <w>mis</w>
+          <w>Herzli</w>
+          <w>schlaht</w>
+          <w>:</w>
+          <lb n="9"/>
+          <w>Gib</w>
+          <w>abe</w>
+          <w>,</w>
+          <w>gib</w>
+          <w>abe</w>
+          <w>,</w>
+          <w>gib</w>
+          <w>abe</w>
+          <w>!</w>
+        </s>
+        <s n="5" xml:lang="gsw">
+          <lb n="10"/>
+          <w>Das</w>
+          <w>macht</w>
+          <w>mi</w>
+          <w>herzigs</w>
+          <w>Mülerchind</w>
+          <w>,</w>
+          <lb n="11"/>
+          <w>E</w>
+          <w>Chind</w>
+          <w>,</w>
+          <w>wie</w>
+          <w>Milch</w>
+          <w>und</w>
+          <w>Bluet</w>
+          <w>,</w>
+          <lb n="12"/>
+          <w>Wenn</w>
+          <w>das</w>
+          <w>am</w>
+          <w>große</w>
+          <w>Feischter</w>
+          <w>spinnt</w>
+          <w>,</w>
+          <lb n="13"/>
+          <w>So</w>
+          <w>wirds</w>
+          <w>mer</w>
+          <w>chrüslig</w>
+          <w>z'Mueth</w>
+          <w>.</w>
+        </s>
+        <s n="6" xml:lang="gsw">
+          <lb n="14"/>
+          <w>Wie</w>
+          <w>tapfer</w>
+          <w>i</w>
+          <w>mi</w>
+          <w>zämme</w>
+          <w>nimm</w>
+          <w>,</w>
+          <lb n="15"/>
+          <w>Da</w>
+          <w>inne</w>
+          <w>rüeft</w>
+          <w>e</w>
+          <w>luti</w>
+          <w>Stimm</w>
+          <w>:</w>
+          <lb n="16"/>
+          <w>Gib</w>
+          <w>abe</w>
+          <w>,</w>
+          <w>gib</w>
+          <w>abe</w>
+          <w>,</w>
+          <w>gib</w>
+          <w>abe</w>
+          <w>!</w>
+        </s>
+        <s n="7" xml:lang="gsw">
+          <lb n="17"/>
+          <w>Wo</w>
+          <w>isch</w>
+          <w>min</w>
+          <w>freje</w>
+          <w>,</w>
+          <w>chäche</w>
+          <w>Sinn</w>
+          <w>?</w>
+        </s>
+        <s n="8" xml:lang="gsw">
+          <lb n="18"/>
+          <w>Wo</w>
+          <w>ischt</w>
+          <w>min</w>
+          <w>Witz</w>
+          <w>und</w>
+          <w>Spott</w>
+          <w>?</w>
+        </s>
+        <s n="9" xml:lang="de">
+          <lb n="19"/>
+          <w>Es</w>
+          <w>Herz</w>
+          <w>mit</w>
+          <w>eme</w>
+          <w>Schätzli</w>
+          <w>drin</w>
+          <lb n="20"/>
+          <w>Weißt</w>
+          <w>nüme</w>
+          <w>hüscht</w>
+          <w>und</w>
+          <w>hott</w>
+          <w>.</w>
+        </s>
+        <s n="10" xml:lang="gsw">
+          <pb n="37" facs="102927_037"/>
+          <lb n="1"/>
+          <w>Mi</w>
+          <w>einzig</w>
+          <w>liebis</w>
+          <w>Meitli</w>
+          <w>du</w>
+          <w>,</w>
+          <lb n="2"/>
+          <w>E</w>
+          <w>munzigs</w>
+          <w>chlises</w>
+          <w>Zeiche</w>
+          <w>nu</w>
+          <lb n="3"/>
+          <w>Gib</w>
+          <w>abe</w>
+          <w>,</w>
+          <w>gib</w>
+          <w>abe</w>
+          <w>,</w>
+          <w>gib</w>
+          <w>abe</w>
+          <w>!</w>
+        </s>
+        <s n="11" xml:lang="gsw">
+          <lb n="4"/>
+          <w>Und</w>
+          <w>wotsch</w>
+          <w>du</w>
+          <w>mir</w>
+          <w>es</w>
+          <w>Zeiche</w>
+          <w>gä</w>
+          <w>,</w>
+          <lb n="5"/>
+          <w>So</w>
+          <w>gibs</w>
+          <w>,</w>
+          <w>wenn</w>
+          <w>s</w>
+          <w>Zwölfi</w>
+          <w>schlaht</w>
+          <w>,</w>
+          <lb n="6"/>
+          <w>Wenn</w>
+          <w>Niemer</w>
+          <w>cha</w>
+          <w>de</w>
+          <w>Chueri</w>
+          <w>gseh</w>
+          <lb n="7"/>
+          <w>Und</w>
+          <w>dMüli</w>
+          <w>nüme</w>
+          <w>gaht</w>
+          <w>.</w>
+        </s>
+        <s n="12" xml:lang="gsw">
+          <lb n="8"/>
+          <w>Dänn</w>
+          <w>chumen</w>
+          <w>ich</w>
+          <w>dur</w>
+          <w>Nacht</w>
+          <w>und</w>
+          <w>Grus</w>
+          <w>,</w>
+          <lb n="9"/>
+          <w>Und</w>
+          <w>dänn</w>
+          <w>din</w>
+          <w>erste</w>
+          <w>süeße</w>
+          <w>Chuß</w>
+          <lb n="10"/>
+          <w>Gib</w>
+          <w>abe</w>
+          <w>,</w>
+          <w>gib</w>
+          <w>abe</w>
+          <w>,</w>
+          <w>gib</w>
+          <w>abe</w>
+          <w>!</w>
+        </s>
+      </p>
+    </body>
+  </text>
+</TEI>

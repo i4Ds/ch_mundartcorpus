@@ -1,0 +1,407 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Kinderbüchlein</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="shelf_mark_idiotikon">Ma. Z (J)Staub 2</note>
+        <note type="ocr_source">digital text retrieved through OCR</note>
+        <noteGrp type="dialect_canton">
+          <note type="name">Zürich</note>
+          <note type="chmk-id">ZH</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Staub, Johannes. ca. 1847. Kinderbüchlein: Fünftes Heft. Bd. 5. St. Gallen: Scheitlin und Zollikofer.</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Kinderbüchlein</title>
+            <title type="subtitle">Fünftes Heft</title>
+            <title type="abbreviated">Staub Kinderbüchlein</title>
+            <author>
+              <idno type="id">21195</idno>
+              <forename>Johannes</forename>
+              <surname>Staub</surname>
+              <name>Staub, Johannes</name>
+            </author>
+          </titleStmt>
+          <editionStmt>
+            <edition>1. Auflage</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Scheitlin und Zollikofer</publisher>
+            <pubPlace>St. Gallen</pubPlace>
+            <date type="publication_year">1847</date>
+            <date type="first_published">1847</date>
+          </publicationStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>106512</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Fraktur</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Lyrik/Prosa</term>
+          <term type="category">Belletristik</term>
+          <term type="formal_description">Lesebuch</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="gsw">
+          <pb n="7" facs="106512_007"/>
+          <lb n="1"/>
+          <w>Di</w>
+          <w>,</w>
+          <w>bi</w>
+          <w>,</w>
+          <w>bi</w>
+          <w>!</w>
+        </s>
+        <s n="2" xml:lang="gsw">
+          <lb n="2"/>
+          <w>sMarie</w>
+          <w>gaht</w>
+          <w>zum</w>
+          <w>Hühnerhus</w>
+          <lb n="3"/>
+          <w>Und</w>
+          <w>lat</w>
+          <w>sini</w>
+          <w>Bibi</w>
+          <w>us</w>
+          <w>:</w>
+          <lb n="4"/>
+          <w>Gute</w>
+          <w>Tag</w>
+          <w>,</w>
+          <w>ihr</w>
+          <w>Hühnli</w>
+          <w>mi</w>
+          <w>!</w>
+        </s>
+        <s n="3" xml:lang="gsw">
+          <lb n="5"/>
+          <w>Chömmet</w>
+          <w>weidli</w>
+          <w>,</w>
+          <w>bi</w>
+          <w>,</w>
+          <w>bi</w>
+          <w>,</w>
+          <w>bi</w>
+          <w>!</w>
+        </s>
+        <s n="4" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Luget</w>
+          <w>,</w>
+          <w>Bibi</w>
+          <w>,</w>
+          <w>luget</w>
+          <w>da</w>
+          <w>,</w>
+          <lb n="7"/>
+          <w>Was</w>
+          <w>ich</w>
+          <w>i</w>
+          <w>mim</w>
+          <w>Schürzli</w>
+          <w>ha</w>
+          <w>!</w>
+        </s>
+        <s n="5" xml:lang="de">
+          <lb n="8"/>
+          <w>Wegglibrod</w>
+          <w>und</w>
+          <w>Waizechern</w>
+          <lb n="9"/>
+          <w>Esset</w>
+          <w>mini</w>
+          <w>Hühnli</w>
+          <w>gern</w>
+          <w>.</w>
+        </s>
+        <s n="6" xml:lang="gsw">
+          <lb n="10"/>
+          <w>Weidli</w>
+          <w>,</w>
+          <w>Bibi</w>
+          <w>,</w>
+          <w>bi</w>
+          <w>,</w>
+          <w>bi</w>
+          <w>,</w>
+          <w>bi</w>
+          <w>!</w>
+        </s>
+        <s n="7" xml:lang="de">
+          <lb n="11"/>
+          <w>Chömmet</w>
+          <w>Alli</w>
+          <w>,</w>
+          <w>Groß</w>
+          <w>und</w>
+          <w>Chli</w>
+          <w>!</w>
+        </s>
+        <s n="8" xml:lang="de">
+          <lb n="12"/>
+          <w>d'Hühnli</w>
+          <w>säget</w>
+          <w>:</w>
+          <w>wir</w>
+          <w>sind</w>
+          <w>da</w>
+          <w>,</w>
+          <lb n="13"/>
+          <w>Gaggaggaggaggaggaggah</w>
+          <w>!</w>
+        </s>
+        <s n="9" xml:lang="gsw">
+          <lb n="14"/>
+          <w>Und</w>
+          <w>de</w>
+          <w>Güggel</w>
+          <w>chräht</w>
+          <w>im</w>
+          <w>Thau</w>
+          <w>:</w>
+          <lb n="15"/>
+          <w>Güggehüh</w>
+          <w>!</w>
+        </s>
+        <s n="10" xml:lang="gsw">
+          <w>da</w>
+          <w>bin</w>
+          <w>ich</w>
+          <w>au</w>
+          <w>!</w>
+        </s>
+        <s n="11" xml:lang="gsw">
+          <lb n="16"/>
+          <w>sChindli</w>
+          <w>streut</w>
+          <w>si</w>
+          <w>Chernli</w>
+          <w>hi</w>
+          <w>:</w>
+          <lb n="17"/>
+          <w>Esset</w>
+          <w>artig</w>
+          <w>,</w>
+          <w>bi</w>
+          <w>,</w>
+          <w>bi</w>
+          <w>,</w>
+          <w>bi</w>
+          <w>!</w>
+        </s>
+        <s n="12" xml:lang="gsw">
+          <lb n="18"/>
+          <w>Seh</w>
+          <w>,</w>
+          <w>Herr</w>
+          <w>Güggel</w>
+          <w>,</w>
+          <w>'sgaht</w>
+          <w>nüt</w>
+          <w>so</w>
+          <w>!</w>
+        </s>
+        <s n="13" xml:lang="gsw">
+          <lb n="19"/>
+          <w>Laß</w>
+          <w>de</w>
+          <w>Chlinen</w>
+          <w>au</w>
+          <w>dervo</w>
+          <w>!</w>
+        </s>
+        <s n="14" xml:lang="gsw">
+          <lb n="20"/>
+          <w>ee</w>
+          <pb n="8" facs="106512_008"/>
+          <lb n="1"/>
+          <w>Chömmet</w>
+          <w>,</w>
+          <w>wänd</w>
+          <w>zum</w>
+          <w>Bächli</w>
+          <w>ga</w>
+          <w>,</w>
+          <lb n="2"/>
+          <w>Müend</w>
+          <w>es</w>
+          <w>Morgetrünkli</w>
+          <w>ha</w>
+          <w>.</w>
+        </s>
+        <s n="15" xml:lang="gsw">
+          <lb n="3"/>
+          <w>Sorget</w>
+          <w>Alli</w>
+          <w>,</w>
+          <w>Jung</w>
+          <w>und</w>
+          <w>Alt</w>
+          <w>,</w>
+          <lb n="4"/>
+          <w>Daß</w>
+          <w>mir</w>
+          <w>Kei's</w>
+          <w>i's</w>
+          <w>Wasser</w>
+          <w>fallt</w>
+          <w>.</w>
+        </s>
+        <s n="16" xml:lang="gsw">
+          <lb n="5"/>
+          <w>Und</w>
+          <w>am</w>
+          <w>Bächli</w>
+          <w>,</w>
+          <w>bi</w>
+          <w>,</w>
+          <w>bi</w>
+          <w>,</w>
+          <w>bi</w>
+          <w>!</w>
+        </s>
+        <s n="17" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Tunket's</w>
+          <w>ihri</w>
+          <w>Schnäbeli</w>
+          <w>i</w>
+          <w>.</w>
+        </s>
+        <s n="18" xml:lang="gsw">
+          <lb n="7"/>
+          <w>Händ's</w>
+          <w>es</w>
+          <w>Tröpfli</w>
+          <w>trunke</w>
+          <w>,</w>
+          <w>druf</w>
+          <lb n="8"/>
+          <w>Luget's</w>
+          <w>g'schwind</w>
+          <w>zum</w>
+          <w>Himmel</w>
+          <w>uf</w>
+          <w>.</w>
+        </s>
+        <s n="19" xml:lang="de">
+          <lb n="9"/>
+          <w>Säget's</w>
+          <w>ächt</w>
+          <w>für</w>
+          <w>Spis</w>
+          <w>und</w>
+          <w>Trank</w>
+          <lb n="10"/>
+          <w>Jhrem</w>
+          <w>Herrgott</w>
+          <w>Lob</w>
+          <w>und</w>
+          <w>Dank</w>
+          <w>?</w>
+        </s>
+        <s n="20" xml:lang="de">
+          <lb n="11"/>
+          <w>'sChindli</w>
+          <w>seit</w>
+          <w>:</w>
+        </s>
+        <s n="21" xml:lang="gsw">
+          <w>Jetz</w>
+          <w>göhnd</w>
+          <w>mir</w>
+          <w>hei</w>
+          <w>,</w>
+          <lb n="12"/>
+          <w>Jedes</w>
+          <w>leit</w>
+          <w>es</w>
+          <w>Osterei</w>
+          <w>.</w>
+        </s>
+        <s n="22" xml:lang="de">
+          <lb n="13"/>
+          <w>Legget</w>
+          <w>mir</w>
+          <w>denn</w>
+          <w>öppen</w>
+          <w>au</w>
+          <lb n="14"/>
+          <w>Ei's</w>
+          <w>für</w>
+          <w>'sarme</w>
+          <w>Nachbers</w>
+          <w>Frau</w>
+          <w>.</w>
+        </s>
+        <s n="23" xml:lang="gsw">
+          <lb n="15"/>
+          <w>Nehmet</w>
+          <w>i</w>
+          <w>denn</w>
+          <w>ordli</w>
+          <w>z'Nacht</w>
+          <lb n="16"/>
+          <w>Vor</w>
+          <w>dem</w>
+          <w>tusigs</w>
+          <w>Fuchs</w>
+          <w>in</w>
+          <w>Acht</w>
+          <w>.</w>
+        </s>
+        <s n="24" xml:lang="gsw">
+          <lb n="17"/>
+          <w>Lönd</w>
+          <w>ihn</w>
+          <w>nüt</w>
+          <w>zum</w>
+          <w>Thürli</w>
+          <w>i</w>
+          <w>:</w>
+          <lb n="18"/>
+          <w>B'hüt</w>
+          <w>i</w>
+          <w>Gott</w>
+          <w>,</w>
+          <w>ihr</w>
+          <w>Hühnli</w>
+          <w>mi</w>
+          <w>!</w>
+        </s>
+        <s n="25" xml:lang="it">
+			
+		</s>
+      </p>
+    </body>
+  </text>
+</TEI>

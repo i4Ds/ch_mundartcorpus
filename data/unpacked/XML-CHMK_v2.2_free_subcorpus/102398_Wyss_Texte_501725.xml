@@ -1,0 +1,549 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Appenzeller-Lied von der Liebe.</title>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Schweizerdeutsches Mundartkorpus</publisher>
+        <availability status="free">
+          <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0</licence>
+        </availability>
+      </publicationStmt>
+      <notesStmt>
+        <note type="about_this_file">This file is part of the <ref target="../CHMK_full_corpus_v2.2_index.xml">Swiss German Dialect Corpus ("Schweizerdeutsches Mundartkorpus")</ref> and a <ref target="../CHMK_free_subcorpus_v2.2_index.xml">subcorpus containing copyright-free texts</ref>.</note>
+        <note type="shelf_mark_idiotikon">Ma. B (JR)Wyss 3</note>
+        <note type="artikel_id">501725</note>
+        <note type="ocr_source">digital text retrieved through OCR</note>
+        <noteGrp type="dialect_region">
+          <note type="name">Appenzell</note>
+          <note type="abbr">Ap</note>
+          <note type="chmk-id">CH-1</note>
+        </noteGrp>
+        <noteGrp type="dialect_canton">
+          <note type="name">Appenzell Innerrhoden</note>
+          <note type="chmk-id">AI</note>
+        </noteGrp>
+        <noteGrp type="dialect_canton">
+          <note type="name">Appenzell Ausserrhoden</note>
+          <note type="chmk-id">AR</note>
+        </noteGrp>
+      </notesStmt>
+      <sourceDesc>
+        <bibl>Anonymus. 1826. Appenzeller-Lied von der Liebe.. In: Texte zu der Sammlung von Schweizer-Kühreihen und Volksliedern, hg. von Wyss, Johann Rudolf, 79–80. 4., viel vermehrte und verbesserte Ausgabe. Bern: Joh. Jak. Burgdorfer. https://www.e-helvetica.nb.admin.ch/view/nbdig-10096!urn%3Anbn%3Ach%3Anbdig-10096%3Anbdig-10096.pdf?q=&amp;v=all&amp;urn=nbdig-10096&amp;start=0&amp;rows=20&amp;sort=score%20desc%2C%20ehs_urn_id%20asc (zugegriffen: 16. November 2021).</bibl>
+        <biblFull>
+          <titleStmt>
+            <title type="main">Appenzeller-Lied von der Liebe.</title>
+            <title type="subtitle"/>
+            <title type="abbreviated">Wyss Texte</title>
+            <author>
+              <idno type="id">24825</idno>
+              <surname>Anonymus</surname>
+              <name>Anonymus, Appenzell</name>
+            </author>
+            <editor role="publisher">Wyss, Johann Rudolf</editor>
+          </titleStmt>
+          <editionStmt>
+            <edition>4., viel vermehrte und verbesserte Ausgabe</edition>
+          </editionStmt>
+          <publicationStmt>
+            <publisher>Joh. Jak. Burgdorfer</publisher>
+            <pubPlace>Bern</pubPlace>
+            <date type="publication_year">1826</date>
+            <date type="first_published">1826</date>
+            <date type="accessed_date">16/11/2021</date>
+            <ref type="target">https://www.e-helvetica.nb.admin.ch/view/nbdig-10096!urn%3Anbn%3Ach%3Anbdig-10096%3Anbdig-10096.pdf?q=&amp;v=all&amp;urn=nbdig-10096&amp;start=0&amp;rows=20&amp;sort=score%20desc%2C%20ehs_urn_id%20asc</ref>
+          </publicationStmt>
+          <seriesStmt>
+            <title>Texte zu der Sammlung von Schweizer-Kühreihen und Volksliedern</title>
+          </seriesStmt>
+        </biblFull>
+        <msDesc>
+          <msIdentifier>
+            <idno>102398</idno>
+          </msIdentifier>
+          <physDesc>
+            <typeDesc>
+              <typeNote>Fraktur</typeNote>
+            </typeDesc>
+          </physDesc>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <textClass>
+        <keywords>
+          <term type="genre">Lyrik (Versform)</term>
+          <term type="category">Belletristik</term>
+          <term type="formal_description">Lieder</term>
+        </keywords>
+      </textClass>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p>
+        <s n="1" xml:lang="de">
+          <pb n="79" facs="102398_079_501725"/>
+          <lb n="1"/>
+          <w>Appenzeller-Lied</w>
+          <w>von</w>
+          <w>der</w>
+          <w>Liebe</w>
+          <w>.</w>
+        </s>
+        <s n="2" xml:lang="de">
+          <lb n="2"/>
+          <w>g</w>
+          <w>.</w>
+        </s>
+        <s n="3" xml:lang="gsw">
+          <w>Ond's</w>
+          <w>Liebe</w>
+          <w>,</w>
+          <w>das</w>
+          <w>halte</w>
+          <w>mer</w>
+          <w>för</w>
+          <w>kä</w>
+          <w>Sönd</w>
+          <w>;</w>
+          <lb n="3"/>
+          <w>Ju</w>
+          <w>holi</w>
+          <w>rc</w>
+          <w>.</w>
+        </s>
+        <s n="4" xml:lang="gsw">
+          <lb n="4"/>
+          <w>Wemme</w>
+          <w>schöni</w>
+          <w>Meiteli</w>
+          <w>fendt</w>
+          <w>.</w>
+        </s>
+        <s n="5" xml:lang="gsw">
+          <lb n="5"/>
+          <w>Ju</w>
+          <w>doli</w>
+          <w>c</w>
+          <w>.</w>
+        </s>
+        <s n="6" xml:lang="gsw">
+          <w>rc</w>
+          <w>.</w>
+        </s>
+        <s n="7" xml:lang="gsw">
+          <w>hu</w>
+          <w>!</w>
+        </s>
+        <s n="8" xml:lang="de">
+          <lb n="6"/>
+          <w>2</w>
+          <w>.</w>
+        </s>
+        <s n="9" xml:lang="gsw">
+          <w>Aber</w>
+          <w>wemme</w>
+          <w>gad</w>
+          <w>wüesti</w>
+          <w>Meiteli</w>
+          <w>fendt</w>
+          <w>—</w>
+          <w>Ju</w>
+          <w>ze</w>
+          <w>.</w>
+        </s>
+        <s n="10" xml:lang="gsw">
+          <lb n="7"/>
+          <w>So</w>
+          <w>halte</w>
+          <w>mer</w>
+          <w>s</w>
+          <w>Liebe</w>
+          <w>för</w>
+          <w>großi</w>
+          <w>Sönd</w>
+          <w>.</w>
+        </s>
+        <s n="11" xml:lang="gsw">
+          <w>Ju</w>
+          <w>re</w>
+          <w>.</w>
+        </s>
+        <s n="12" xml:lang="de">
+          <lb n="8"/>
+          <w>3</w>
+          <w>.</w>
+        </s>
+        <s n="13" xml:lang="gsw">
+          <w>Ond</w>
+          <w>alli</w>
+          <w>Meiteli</w>
+          <w>,</w>
+          <w>Jungs</w>
+          <w>ond</w>
+          <w>Alts</w>
+          <w>—</w>
+          <w>Ju</w>
+          <w>ze</w>
+          <w>.</w>
+        </s>
+        <s n="14" xml:lang="gsw">
+          <lb n="9"/>
+          <w>Händ</w>
+          <w>äbe</w>
+          <w>gern</w>
+          <w>e</w>
+          <w>Büehli</w>
+          <w>am</w>
+          <w>Hals</w>
+          <w>.</w>
+        </s>
+        <s n="15" xml:lang="gsw">
+          <w>Jn</w>
+          <w>ze</w>
+          <w>.</w>
+        </s>
+        <s n="16" xml:lang="de">
+          <pb n="80" facs="102398_080"/>
+          <lb n="1"/>
+          <w>4</w>
+          <w>.</w>
+        </s>
+        <s n="17" xml:lang="gsw">
+          <w>Die</w>
+          <w>säb</w>
+          <w>mit</w>
+          <w>de</w>
+          <w>Zähne</w>
+          <w>,</w>
+          <w>wie</w>
+          <w>Schnupf</w>
+          <w>so</w>
+          <w>wyß</w>
+          <w>,</w>
+          <w>Ju</w>
+          <w>ie</w>
+          <w>.</w>
+        </s>
+        <s n="18" xml:lang="gsw">
+          <lb n="2"/>
+          <w>Suecht</w>
+          <w>äben</w>
+          <w>o</w>
+          <w>äs</w>
+          <w>mitkallem</w>
+          <w>Flyß</w>
+          <w>.</w>
+        </s>
+        <s n="19" xml:lang="gsw">
+          <w>—</w>
+          <w>Ju</w>
+          <w>ee</w>
+          <w>.</w>
+        </s>
+        <s n="20" xml:lang="gsw">
+          <lb n="3"/>
+          <w>.</w>
+          <w>Ond</w>
+          <w>die</w>
+          <w>mit</w>
+          <w>em</w>
+          <w>Hoor</w>
+          <w>,</w>
+          <w>wieme</w>
+          <w>d'Ziegel</w>
+          <w>brennt</w>
+          <w>,</w>
+          <w>-Juze</w>
+          <w>.</w>
+        </s>
+        <s n="21" xml:lang="gsw">
+          <lb n="4"/>
+          <w>Aeben</w>
+          <w>o</w>
+          <w>mit</w>
+          <w>Gwalt</w>
+          <w>emme</w>
+          <w>Büebli</w>
+          <w>norennt</w>
+          <w>.</w>
+        </s>
+        <s n="22" xml:lang="gsw">
+          <w>-</w>
+          <w>Ju</w>
+          <w>ze</w>
+          <w>.</w>
+        </s>
+        <s n="23" xml:lang="de">
+          <lb n="5"/>
+          <w>6</w>
+          <w>.</w>
+        </s>
+        <s n="24" xml:lang="gsw">
+          <w>Ond</w>
+          <w>die</w>
+          <w>mit</w>
+          <w>den</w>
+          <w>Auge</w>
+          <w>,</w>
+          <w>wie</w>
+          <w>d'Nacht</w>
+          <w>so</w>
+          <w>hell</w>
+          <w>,</w>
+          <w>-</w>
+          <w>Ju</w>
+          <w>ec</w>
+          <w>.</w>
+        </s>
+        <s n="25" xml:lang="gsw">
+          <lb n="6"/>
+          <w>Hätt</w>
+          <w>gern</w>
+          <w>ä</w>
+          <w>Büebli</w>
+          <w>grad</w>
+          <w>uf</w>
+          <w>der</w>
+          <w>Stell</w>
+          <w>.</w>
+        </s>
+        <s n="26" xml:lang="gsw">
+          <w>—</w>
+          <w>Ju</w>
+          <w>ze</w>
+          <w>.</w>
+        </s>
+        <s n="27" xml:lang="de">
+          <lb n="7"/>
+          <w>7</w>
+          <w>.</w>
+        </s>
+        <s n="28" xml:lang="gsw">
+          <w>Ond</w>
+          <w>die</w>
+          <w>säb</w>
+          <w>mit</w>
+          <w>de</w>
+          <w>Bakke</w>
+          <w>,</w>
+          <w>wie</w>
+          <w>Chryde</w>
+          <w>so</w>
+          <w>roth</w>
+          <w>,</w>
+          <w>Ju</w>
+          <w>:</w>
+          <w>c</w>
+          <w>.</w>
+        </s>
+        <s n="29" xml:lang="gsw">
+          <lb n="8"/>
+          <w>Berg</w>
+          <w>uf</w>
+          <w>ond</w>
+          <w>ab</w>
+          <w>sömme</w>
+          <w>Büebli</w>
+          <w>nogoht</w>
+          <w>.</w>
+        </s>
+        <s n="30" xml:lang="de">
+          <w>—</w>
+          <w>Ju</w>
+          <w>re</w>
+          <w>.</w>
+        </s>
+        <s n="31" xml:lang="de">
+          <lb n="9"/>
+          <w>8</w>
+          <w>.</w>
+        </s>
+        <s n="32" xml:lang="gsw">
+          <w>Drum</w>
+          <w>män'</w>
+          <w>i</w>
+          <w>,</w>
+          <w>bis</w>
+          <w>d</w>
+          <w>Welt</w>
+          <w>emohl</w>
+          <w>nümme</w>
+          <w>stoht</w>
+          <w>,</w>
+          <w>-</w>
+          <w>Ju</w>
+          <w>e</w>
+          <w>.</w>
+        </s>
+        <s n="33" xml:lang="gsw">
+          <lb n="10"/>
+          <w>De</w>
+          <w>Meitleni</w>
+          <w>s</w>
+          <w>Liebeno</w>
+          <w>nit</w>
+          <w>vergoht</w>
+          <w>.</w>
+        </s>
+        <s n="34" xml:lang="gsw">
+          <w>-</w>
+          <w>Juze</w>
+          <w>.</w>
+        </s>
+        <s n="35" xml:lang="gsw">
+          <lb n="11"/>
+          <w>-</w>
+          <lb n="12"/>
+          <w>N</w>
+          <w>.</w>
+        </s>
+        <s n="36" xml:lang="gsw">
+          <w>51</w>
+          <w>.</w>
+        </s>
+        <s n="37" xml:lang="de">
+          <w>Mein</w>
+          <w>Blumchen</w>
+          <w>.</w>
+        </s>
+        <s n="38" xml:lang="de">
+          <lb n="13"/>
+          <w>I</w>
+          <w>.</w>
+        </s>
+        <s n="39" xml:lang="gsw">
+          <w>Ha</w>
+          <w>a-n-em</w>
+          <w>Ort</w>
+          <w>es</w>
+          <w>Blüemeli</w>
+          <w>g'seh</w>
+          <w>,</w>
+          <lb n="14"/>
+          <w>Es</w>
+          <w>Blüemeli</w>
+          <w>roth</w>
+          <w>u</w>
+          <w>wyß</w>
+          <w>.</w>
+        </s>
+        <s n="40" xml:lang="gsw">
+          <lb n="15"/>
+          <w>Das</w>
+          <w>Blüemeli</w>
+          <w>g'seh'-n-i</w>
+          <w>nimme</w>
+          <w>meh</w>
+          <w>,</w>
+          <lb n="16"/>
+          <w>Drum</w>
+          <w>thuet</w>
+          <w>es</w>
+          <w>mir</w>
+          <w>im</w>
+          <w>Herz</w>
+          <w>so</w>
+          <w>weh</w>
+          <w>.</w>
+        </s>
+        <s n="41" xml:lang="gsw">
+          <lb n="17"/>
+          <w>O</w>
+          <w>Blüemeli</w>
+          <w>my</w>
+          <w>!</w>
+        </s>
+        <s n="42" xml:lang="gsw">
+          <lb n="18"/>
+          <w>O</w>
+          <w>Blüemeli</w>
+          <w>my</w>
+          <w>!</w>
+        </s>
+        <s n="43" xml:lang="gsw">
+          <lb n="19"/>
+          <w>J</w>
+          <w>möcht</w>
+          <w>geng</w>
+          <w>by</w>
+          <w>der</w>
+          <w>sy</w>
+          <w>.</w>
+        </s>
+        <s n="44" xml:lang="de">
+          <lb n="20"/>
+          <w>2</w>
+          <w>.</w>
+        </s>
+        <s n="45" xml:lang="gsw">
+          <w>Jhr</w>
+          <w>kennet</w>
+          <w>mir</w>
+          <w>mys</w>
+          <w>Blüemeli</w>
+          <w>nit</w>
+          <w>;</w>
+          <lb n="21"/>
+          <w>S</w>
+          <w>git</w>
+          <w>numen</w>
+          <w>eis</w>
+          <w>e</w>
+          <w>so</w>
+          <w>!</w>
+        </s>
+        <s n="46" xml:lang="gsw">
+          <lb n="22"/>
+          <w>S</w>
+          <w>ist</w>
+          <w>leider</w>
+          <w>Gott</w>
+          <w>viel</w>
+          <w>tusig</w>
+          <w>Schritt</w>
+          <lb n="23"/>
+          <w>Vo</w>
+          <w>hie</w>
+          <w>;</w>
+          <w>i</w>
+          <w>g'seh</w>
+          <w>mys</w>
+          <w>Blüemeli</w>
+          <w>nit</w>
+          <w>.</w>
+        </s>
+        <s n="47" xml:lang="gsw">
+          <lb n="24"/>
+          <w>O</w>
+          <w>Blüemeli</w>
+          <w>my</w>
+          <w>!</w>
+        </s>
+        <s n="48" xml:lang="gsw">
+          <lb n="25"/>
+          <w>O</w>
+          <w>Blüemeli</w>
+          <w>my</w>
+          <w>!</w>
+        </s>
+        <s n="49" xml:lang="gsw">
+          <lb n="26"/>
+          <w>J</w>
+          <w>möcht</w>
+          <w>geng</w>
+          <w>by</w>
+          <w>der</w>
+          <w>sy</w>
+          <w>.</w>
+        </s>
+        <s n="50" xml:lang="it">
+			
+		</s>
+      </p>
+    </body>
+  </text>
+</TEI>
